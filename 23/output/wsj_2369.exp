@@ -1,0 +1,37 @@
+conn_lc:or conn:Or conn_POS:CC xxx£
+conn_lc:so conn:so conn_POS:IN with_prev_full:or_so xxx£
+conn_lc:also conn:also conn_POS:RB with_prev_full:'s_also xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:''_and xxx£
+conn_lc:while conn:while conn_POS:IN with_prev_full:voice_while xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:,_and xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:he_and xxx£
+conn_lc:so conn:so conn_POS:IN with_prev_full:,_so xxx£
+conn_lc:so conn:so conn_POS:IN with_prev_full:,_so xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:;_and xxx£
+conn_lc:if conn:If conn_POS:IN xxx£
+conn_lc:in_addition conn:In_addition conn_POS:IN_NN xxx£
+conn_lc:for_example conn:For_example conn_POS:IN_NN xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:,_and xxx£
+conn_lc:but conn:But conn_POS:CC xxx£
+conn_lc:because conn:Because conn_POS:IN xxx£
+conn_lc:as conn:As conn_POS:IN xxx£
+conn_lc:if conn:if conn_POS:IN with_prev_full:intensity_if xxx£
+conn_lc:if_if_group_conflicts_still_exist_-lrb-_as_undeniably_they_do_-rrb-_,_and_if_mr._mason_'s_type_of_ethnic_humor_is_passe_,_then conn:if_if_group_conflicts_still_exist_-LRB-_as_undeniably_they_do_-RRB-_,_and_if_Mr._Mason_'s_type_of_ethnic_humor_is_passe_,_then conn_POS:IN_IN_NN_NNS_RB_VBP_-LRB-_IN_VBG_PRP_VBP_-RRB-_,_CC_IN_NNP_NNP_POS_NN_IN_JJ_NN_VBZ_JJ_,_RB with_prev_full:,_if_if_group_conflicts_still_exist_-lrb-_as_undeniably_they_do_-rrb-_,_and_if_mr._mason_'s_type_of_ethnic_humor_is_passe_,_then xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:,_and xxx£
+conn_lc:if conn:if conn_POS:IN with_prev_full:and_if xxx£
+conn_lc:because conn:because conn_POS:IN with_prev_full:,_because xxx£
+conn_lc:but conn:But conn_POS:CC xxx£
+conn_lc:as conn:as conn_POS:IN with_prev_full:,_as xxx£
+conn_lc:and conn:And conn_POS:CC xxx£
+conn_lc:if conn:if conn_POS:IN with_prev_full:imagine_if xxx£
+conn_lc:and conn:And conn_POS:CC xxx£
+conn_lc:but conn:but conn_POS:CC with_prev_full:,_but xxx£
+conn_lc:since conn:since conn_POS:IN with_prev_full:ever_since xxx£
+conn_lc:for_instance conn:For_instance conn_POS:IN_NN xxx£
+conn_lc:because conn:because conn_POS:IN with_prev_full:not_because xxx£
+conn_lc:but conn:but conn_POS:CC with_prev_full:,_but xxx£
+conn_lc:because conn:because conn_POS:IN with_prev_full:but_because xxx£
+conn_lc:but conn:But conn_POS:CC xxx£
+conn_lc:because conn:because conn_POS:IN with_prev_full:spark_because xxx£
+conn_lc:before conn:before conn_POS:IN with_prev_full:,_before xxx£
+conn_lc:but conn:But conn_POS:CC xxx£

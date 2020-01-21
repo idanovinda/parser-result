@@ -1,0 +1,12 @@
+250..257|Comparison
+1057..1068|Contingency
+1307..1312|Comparison
+1470..1472|Contingency
+1819..1825|Comparison
+2602..2606|Expansion
+3734..3741|Contingency
+3843..3848|Comparison
+4267..4276|Temporal
+4363..4365|Temporal
+5185..5189|Expansion
+5288..5291|Comparison

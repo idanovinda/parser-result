@@ -1,0 +1,1 @@
+EntRel||||||||||||||||||||||1067..1148|7|It was previously thought ASKO held a 13.6 % stake that was accumulated since July .||||||||1152..1270|8|A spokesman for Ahold said his company is confident of its own position and the propriety of the preferred-share issue .|||||||||||||

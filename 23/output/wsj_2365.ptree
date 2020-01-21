@@ -1,0 +1,1180 @@
+(ROOT
+  (INTJ (UH .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP START))
+      (VP (VBG Predicting)
+        (NP
+          (NP (DT the) (JJ financial) (NNS results))
+          (PP (IN of)
+            (NP (NN computer) (NNS firms))))))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (NP (DT a) (JJ tough) (NN job))
+        (ADVP (RB lately))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VB Take)
+        (NP (NNP Microsoft) (NNP Corp.))
+        (, ,)
+        (NP
+          (NP (DT the) (JJS largest) (NN maker))
+          (PP (IN of)
+            (NP (JJ personal) (NN computer) (NN software))))))
+    (CC and)
+    (S
+      (ADVP (RB generally))
+      (VP (VBN considered)
+        (NP (DT an) (NN industry) (NN bellwether))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NNP July)))
+    (, ,)
+    (NP (DT the) (NN company))
+    (VP (VBD stunned)
+      (NP
+        (NP (NNP Wall) (NNP Street))
+        (PP (IN with)
+          (NP (DT the) (NN prediction))))
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (NN growth))
+            (PP (IN in)
+              (NP (DT the) (JJ personal) (NN computer) (NN business))))
+          (ADVP (RB overall))
+          (VP (MD would)
+            (VP (VB be)
+              (NP
+                (NP
+                  (QP (RB only) (CD 10))
+                  (NN %))
+                (PP (IN in)
+                  (NP
+                    (NP (CD 1990))
+                    (, ,)
+                    (NP (DT a) (JJ modest) (NN increase)))))
+              (SBAR
+                (WHADVP (WRB when))
+                (S
+                  (VP (VBN compared)
+                    (PP (IN with)
+                      (NP
+                        (NP (DT the) (VBG sizzling) (NN expansion))
+                        (PP (IN of)
+                          (NP (NNS years) (NN past)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNS Investors))
+      (PRN (: --)
+        (VP (VBG taking)
+          (NP
+            (NP (DT this))
+            (PP (IN as)
+              (NP (DT a) (NN sign))))
+          (SBAR (IN that)
+            (S
+              (NP (DT a) (JJ broad) (NN industry) (NN slump))
+              (VP (VBD was)
+                (PP (IN in)
+                  (NP (DT the) (NN offing)))))))
+        (: --)))
+    (VP (VBD reacted)
+      (PP (IN by)
+        (S
+          (VP (VBG selling)
+            (NP
+              (NP
+                (NP (DT the) (NN company) (POS 's))
+                (NN stock))
+              (, ,)
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (VP (VBD lost)
+                    (NP ($ $) (CD 3.25))
+                    (NP (DT that) (NN day))
+                    (S
+                      (VP (TO to)
+                        (VP (VB close)
+                          (PP (IN at)
+                            (NP
+                              (NP ($ $) (CD 52))
+                              (PP (IN in)
+                                (NP (JJ national) (JJ over-the-counter) (NN trading))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (NP (DT that))
+    (VP (VBD was)
+      (NP
+        (NP (DT all))
+        (PP (IN of)
+          (ADVP
+            (NP (CD three) (NNS months))
+            (RB ago)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Last) (NN week))
+    (, ,)
+    (NP (NNP Microsoft))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBZ expects)
+            (NP (NN revenue))
+            (PP (IN for)
+              (NP
+                (NP (PRP$ its) (JJ first) (NN quarter))
+                (VP (VBN ended)
+                  (NP (NNP Sept.) (CD 30))
+                  (S
+                    (VP (TO to)
+                      (VP (VB increase)
+                        (NP (CD 34) (NN %))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN announcement))
+    (VP (VBD caused)
+      (NP
+        (NP (DT the) (NN company) (POS 's))
+        (NN stock)
+        (S
+          (VP (TO to)
+            (VP (VB surge)
+              (NP ($ $) (CD 6.50))
+              (S
+                (VP (TO to)
+                  (VP (VB close)
+                    (PP (IN at)
+                      (NP
+                        (NP ($ $) (CD 75.50))
+                        (NP (DT a) (NN share))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Microsoft) (POS 's))
+      (JJ surprising) (NN strength))
+    (VP (VBZ is)
+      (NP
+        (NP (CD one) (NN example))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN difficulty))
+            (VP (VBG facing)
+              (NP
+                (NP (NNS investors))
+                (VP (VBG looking)
+                  (PP (IN for)
+                    (NP
+                      (NP (NNS reassurances))
+                      (PP (IN about)
+                        (NP
+                          (NP (DT the) (JJ financial) (NN health))
+                          (PP (IN of)
+                            (NP (DT the) (NN computer) (NNS firms))))))))))))))
+    (. .)))
+
+(ROOT
+  (SINV (`` ``)
+    (S
+      (NP (PRP It))
+      (VP (VBZ 's)
+        (ADJP (JJ hard)
+          (S
+            (VP (TO to)
+              (VP (VB know)
+                (SBAR
+                  (WHNP (WP what))
+                  (S
+                    (VP (TO to)
+                      (VP (VB expect)
+                        (PP (IN at)
+                          (NP (DT this) (NN point)))))))))))))
+    (, ,) ('' '')
+    (VP (VBD said))
+    (NP
+      (NP (NNP Peter) (NNP Rogers))
+      (, ,)
+      (NP
+        (NP (DT an) (NN analyst))
+        (PP (IN at)
+          (NP
+            (NP (NNP Robertson) (NNP Stephens)
+              (CC &)
+              (NNP Co.))
+            (`` ``)
+            (NP (DT The) (NN industry) (NNS defies) (NN characterization))))))
+    (. .) ('' '')))
+
+(ROOT
+  (S
+    (S
+      (S
+        (VP (TO To)
+          (VP (VB illustrate))))
+      (, ,)
+      (NP (NNP Mr.) (NNP Rogers))
+      (VP (VBD said)
+        (SBAR (IN that)
+          (S
+            (PP (IN of)
+              (NP (DT the) (CD 14) (JJ computer-related) (NNS firms)))
+            (NP (PRP he))
+            (VP (VBZ follows))))))
+    (, ,)
+    (NP (DT half))
+    (VP (MD will)
+      (VP (VB report)
+        (PP (IN for)
+          (NP (PRP$ their) (RBS most) (JJ recent) (NN quarter) (NNS earnings)))
+        (PP (IN below)
+          (NP
+            (NP
+              (NP (JJ last) (NN year) (POS 's))
+              (NNS results))
+            (, ,)
+            (CC and)
+            (NP
+              (NP (NN half))
+              (PP (IN above)
+                (NP (DT those) (NNS results))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (IN Among)
+      (NP
+        (NP (DT those) (NNS companies))
+        (VP (VBN expected)
+          (S
+            (VP (TO to)
+              (VP (VB have)
+                (NP (DT a) (JJ down) (NN quarter))))))))
+    (VP (VBP are))
+    (NP
+      (NP (NNP Hewlett-Packard) (NNP Co.))
+      (, ,)
+      (NP
+        (NP
+          (NP (NNP Amdahl) (NNP Corp.))
+          (CC and)
+          (NP (NNP Sun) (NNPS Microsystems) (NNP Inc.)))
+        (, ,)
+        (RRC
+          (ADVP (RB generally))
+          (NP
+            (NP (JJ solid) (NNS performers))
+            (PP (IN in)
+              (NP (DT the) (NN past)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP International) (NNP Business) (NNPS Machines) (NNP Corp.))
+    (ADVP (RB also))
+    (VP (VBZ is)
+      (VP (VBN expected)
+        (S
+          (VP (TO to)
+            (VP (VB report)
+              (NP (JJ disappointing) (NNS results)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Apple) (NNP Computer) (NNP Inc.))
+    (, ,)
+    (ADVP (RB meanwhile))
+    (, ,)
+    (VP (VBZ is)
+      (VP (VBN expected)
+        (S
+          (VP (TO to)
+            (VP (VB show)
+              (NP (VBN improved) (NNS earnings))
+              (PP (IN for)
+                (NP
+                  (NP (DT the) (NN period))
+                  (VP (VBN ended)
+                    (NP (NNP Sept.))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT Another) (JJ contradictory) (NN message))
+    (VP (VBZ comes)
+      (PP (IN from)
+        (NP
+          (NP (NNP Businessland) (NNP Inc.))
+          (, ,)
+          (NP (DT a) (NN computer) (NN retailer)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NNP July)))
+    (, ,)
+    (NP (DT the) (NN company))
+    (VP (VBD reported)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (JJ booming) (NNS sales))
+            (PP (IN of)
+              (NP
+                (NP (JJ new) (JJ personal) (NNS computers))
+                (PP (IN from)
+                  (NP (NNP Apple)
+                    (CC and)
+                    (NNP IBM))))))
+          (VP (VBD had)
+            (VP (VBN resulted)
+              (PP (IN in)
+                (NP
+                  (NP (JJ net) (NN income))
+                  (VP
+                    (ADVP (RBR more) (IN than))
+                    (VBG doubling)
+                    (PP (IN for)
+                      (NP
+                        (NP (PRP$ its) (JJ fourth) (NN quarter))
+                        (VP (VBN ended)
+                          (NP (NNP June) (CD 30))
+                          (PP (TO to)
+                            (NP
+                              (NP
+                                (QP ($ $) (CD 7.4) (CD million)))
+                              (, ,)
+                              (CC or)
+                              (NP
+                                (NP (CD 23) (NNS cents))
+                                (NP (DT a) (NN share))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN month))
+    (, ,)
+    (ADVP (RB however))
+    (, ,)
+    (NP (NNP Businessland))
+    (VP (VBD warned)
+      (NP (NNS investors))
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (NNS results))
+            (PP (IN for)
+              (NP
+                (NP (PRP$ its) (JJ first) (NN quarter))
+                (VP (VBN ended)
+                  (NP (NNP Sept.) (CD 30))))))
+          (VP (VBD had) (RB n't)
+            (VP (VBN met)
+              (NP (NNS expectations)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN company))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBZ expects)
+            (NP
+              (NP (NNS earnings))
+              (PP (IN of)
+                (NP
+                  (NP
+                    (QP (CD 14) (TO to) (CD 17) (NNS cents)))
+                  (NP (DT a) (NN share)))))
+            (, ,)
+            (ADVP (RB down)
+              (PP (IN from)
+                (NP (CD 25) (NNS cents)))
+              (NP
+                (NP (DT a) (NN share))
+                (PP (IN in)
+                  (NP (DT the) (JJ year-earlier) (NN period)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN While)
+      (S
+        (NP (DT the) (NNS earnings) (NN picture))
+        (VP (VBZ confuses))))
+    (, ,)
+    (NP (NNS observers))
+    (VP (VBP say)
+      (SBAR
+        (S
+          (NP
+            (NP (DT the) (JJ major) (NNS forces))
+            (VP (VBN expected)
+              (S
+                (VP (TO to)
+                  (VP (VB shape)
+                    (NP
+                      (NP (DT the) (NN industry))
+                      (PP (IN in)
+                        (NP (DT the) (VBG coming) (NN year)))))))))
+          (VP (VBP are)
+            (ADJP (JJR clearer))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Companies))
+    (VP (MD will)
+      (VP (VB continue)
+        (PP (TO to)
+          (NP
+            (NP (NN war))
+            (PP (IN over)
+              (NP (NNS standards)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NN computer) (NN publishing)))
+    (, ,)
+    (NP
+      (NP (DT a) (NN battle))
+      (PP (IN over)
+        (NP (NNS typefaces))))
+    (VP (VBZ is)
+      (VP (VBG hurting)
+        (NP
+          (NP (NNP Adobe) (NNPS Systems) (NNP Inc.))
+          (, ,)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBZ sells)
+                (NP
+                  (NP (NN software))
+                  (SBAR
+                    (WHNP (WDT that))
+                    (S
+                      (VP (VBZ controls)
+                        (NP
+                          (NP (DT the) (NN image))
+                          (VP (VBN produced)
+                            (PP (IN by)
+                              (NP (NNS printers)
+                                (CC and)
+                                (NNS displays)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN Until)
+        (ADVP (RB recently)))
+      (, ,)
+      (NP (NNP Adobe))
+      (VP (VBD had)
+        (NP
+          (NP (DT a) (NN lock))
+          (PP (IN on)
+            (NP
+              (NP (DT the) (NN market))
+              (PP (IN for)
+                (NP (NN image) (NN software))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (JJ last) (NN month))
+      (NP
+        (NP
+          (NP (NNP Apple))
+          (, ,)
+          (NP
+            (NP (NNP Adobe) (POS 's))
+            (JJS biggest) (NN customer))
+          (, ,))
+        (CC and)
+        (NP (NNP Microsoft)))
+      (VP (VBD rebelled)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Now))
+      (NP (DT the) (CD two) (NNS firms))
+      (VP (VBP are)
+        (VP (VBG collaborating)
+          (PP (IN on)
+            (NP (DT an) (NN alternative)))
+          (PP (TO to)
+            (NP
+              (NP (NNP Adobe) (POS 's))
+              (NN approach))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (NNS analysts))
+      (VP (VBP say)
+        (SBAR
+          (S
+            (NP (PRP they))
+            (VP (VBP are)
+              (ADJP (JJ likely)
+                (S
+                  (VP (TO to)
+                    (VP (VB carry)
+                      (NP
+                        (NP (NNP IBM))
+                        (, ,)
+                        (NP
+                          (NP (DT the) (JJS biggest) (NN seller))
+                          (PP (IN of)
+                            (NP (JJ personal) (NNS computers))))
+                        (, ,))
+                      (PRT (RP along))
+                      (PP (IN with)
+                        (NP (PRP them))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ short-term) (NN outlook))
+      (PP (IN for)
+        (NP
+          (NP (NNP Adobe) (POS 's))
+          (NN business))))
+    (, ,)
+    (ADVP (RB however))
+    (, ,)
+    (VP (VBZ appears)
+      (ADJP (JJ strong)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN company))
+    (VP (VBZ is)
+      (VP (VBG beginning)
+        (S
+          (VP (TO to)
+            (VP (VB ship)
+              (NP
+                (NP (DT a) (JJ new) (NN software) (NN program))
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (VBZ 's)
+                      (VP (VBG being)
+                        (VP (VBN heralded)
+                          (PP (IN as)
+                            (NP
+                              (NP (DT a) (NN boon))
+                              (PP (IN for)
+                                (NP
+                                  (NP (NNS owners))
+                                  (PP (IN of)
+                                    (NP
+                                      (NP (JJ low-end) (NNS printers))
+                                      (VP (VBN sold)
+                                        (PP (IN by)
+                                          (NP (NNP Apple)))))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN program))
+    (VP (VBZ is)
+      (VP (VBN aimed)
+        (PP (IN at)
+          (S
+            (VP (VBG improving)
+              (NP
+                (NP (DT the) (NN quality))
+                (PP (IN of)
+                  (NP (VBN printed) (NN material)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP John) (NNP Warnock))
+      (, ,)
+      (NP
+        (NP (NNP Adobe) (POS 's))
+        (NX (JJ chief) (JJ executive) (NN officer)))
+      (, ,))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NNP Mountain) (NNP View) (, ,) (NNP Calif.) (, ,) (NN company))
+          (VP (VBZ has)
+            (VP (VBN been)
+              (VP (VBG receiving)
+                (ADVP
+                  (ADVP
+                    (NP (CD 1,000) (NNS calls))
+                    (NP
+                      (NP (DT a) (NN day))
+                      (PP (IN about)
+                        (NP (DT the) (NN product)))))
+                  (SBAR (IN since)
+                    (S
+                      (NP (PRP it))
+                      (VP (VBD was)
+                        (VP (VBN demonstrated)
+                          (PP (IN at)
+                            (NP (DT a) (NN computer) (NN publishing) (NN conference))
+                            (ADVP
+                              (NP (JJ several) (NNS weeks))
+                              (RB ago))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Meanwhile))
+    (, ,)
+    (NP
+      (NP (NN competition))
+      (PP (IN between)
+        (NP (JJ various) (VBG operating) (NNS systems)))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBP control)
+            (NP
+              (NP (DT the) (JJ basic) (NNS functions))
+              (PP (IN of)
+                (NP (DT a) (NN computer)))))))
+      (, ,))
+    (VP (VBZ spells)
+      (NP
+        (NP (NN trouble))
+        (PP (IN for)
+          (NP (NN software) (NNS firms))))
+      (ADVP (RB generally)))
+    (. .)))
+
+(ROOT
+  (SINV (`` ``)
+    (S
+      (NP (PRP It))
+      (VP
+        (VP (VBZ creates)
+          (NP (NN uncertainty)))
+        (CC and)
+        (ADVP (RB usually))
+        (VP (VBZ slows)
+          (PRT (RP down))
+          (NP (NNS sales)))))
+    (, ,) ('' '')
+    (VP (VBD said))
+    (NP
+      (NP (NNP Russ) (NNP Crabs))
+      (, ,)
+      (NP
+        (NP (DT an) (NN analyst))
+        (PP (IN at)
+          (NP (NNP Soundview) (NNP Financial) (NNP Group)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Mr.) (NNP Crabs))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT this))
+          (ADVP (RB probably))
+          (VP (VBZ is)
+            (PP (IN behind)
+              (NP
+                (NP (DT the) (VBN expected) (JJ weak) (NN performance))
+                (PP (IN of)
+                  (NP
+                    (NP (NNP Aldus) (NNP Corp.))
+                    (, ,)
+                    (NP
+                      (NP (NN maker))
+                      (PP (IN of)
+                        (NP (DT a)
+                          (ADJP (RB widely) (JJ used))
+                          (NN computer) (NN publishing) (NN program))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBZ expects)
+      (S
+        (NP (NNP Aldus))
+        (VP (TO to)
+          (VP (VB report)
+            (NP
+              (NP (NNS earnings))
+              (PP (IN of)
+                (NP
+                  (NP (CD 21) (NNS cents))
+                  (NP (DT a) (NN share)))))
+            (PP (IN on)
+              (NP
+                (NP (NNS revenues))
+                (PP (IN of)
+                  (NP
+                    (NP
+                      (QP ($ $) (CD 19.5) (CD million)))
+                    (PP (IN for)
+                      (NP (PRP$ its) (JJ third) (NN quarter)))))))
+            (, ,)
+            (PP (VBN compared)
+              (PP (IN with)
+                (NP
+                  (NP (NNS earnings))
+                  (PP (IN of)
+                    (NP
+                      (NP (CD 30) (NNS cents))
+                      (NP (DT a) (NN share))))
+                  (PP (IN on)
+                    (NP
+                      (NP (NN revenue))
+                      (PP (IN of)
+                        (NP
+                          (NP
+                            (QP (CD 20.4) (CD million)))
+                          (PP (IN in)
+                            (NP (DT the) (JJ year-earlier) (NN period))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Aldus) (NNS officials))
+    (VP (MD could) (RB n't)
+      (VP (VB be)
+        (VP (VBN reached)
+          (PP (IN for)
+            (NP (NN comment))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN On)
+      (NP (DT the) (JJ other) (NN hand)))
+    (, ,)
+    (NP
+      (NP (DT the) (NN battle))
+      (PP (IN of)
+        (NP (DT the) (NN bus))))
+    (VP (VBZ is)
+      (VP (VBN expected)
+        (S
+          (VP (TO to)
+            (VP (VB grow)
+              (ADJP (RB increasingly) (JJ irrelevant)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT A) (NN bus))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (NN data) (NN highway))
+        (PP (IN within)
+          (NP (DT a) (NN computer)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP IBM))
+    (VP (VBZ is)
+      (VP (VBG backing)
+        (NP
+          (NP (CD one) (NN type))
+          (PP (IN of)
+            (NP
+              (NP (NN bus))
+              (VP (VBN called)
+                (S
+                  (ADJP (JJ microchannel)))
+                (, ,)
+                (SBAR (IN while)
+                  (S
+                    (NP
+                      (NP (DT the) (CD nine) (JJ other) (JJ leading) (NN computer) (NNS makers))
+                      (, ,)
+                      (PP (VBG including)
+                        (NP
+                          (NP (NNP H-P))
+                          (CC and)
+                          (NP (NNP Compaq) (NNP Computer) (NNP Corp.))))
+                      (, ,))
+                    (VP (VBP have)
+                      (VP (VBN chosen)
+                        (NP (DT another) (NN method))))))))))))
+    (. .)))
+
+(ROOT
+  (SINV (`` ``)
+    (S
+      (NP (NNP Users))
+      (VP (VBP do) (RB n't)
+        (VP (VB care)
+          (PP (IN about)
+            (NP (DT the) (NN bus))))))
+    (, ,) ('' '')
+    (VP (VBD said))
+    (NP
+      (NP (NNP Daniel) (NNP Benton))
+      (, ,)
+      (NP
+        (NP (DT an) (NN analyst))
+        (PP (IN at)
+          (NP (NNP Goldman) (, ,) (NNP Sachs)
+            (CC &)
+            (NNP Co.)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP He))
+      (VP (VBD said)
+        (NP
+          (NP
+            (NP (NNP Apple) (POS 's))
+            (NN family))
+          (PP (IN of)
+            (NP (NNP Macintosh) (NNS computers))))
+        (, ,)
+        (PP (IN for)
+          (NP (NN instance)))))
+    (PRN (, ,)
+      (SINV
+        (VP (VBZ uses))
+        (NP (CD four) (JJ different) (NNS buses))))
+    (`` ``)
+    (CC and)
+    (S
+      (NP (DT no) (NN one))
+      (VP (VBZ seems)
+        (S
+          (VP (TO to)
+            (VP (VB mind))))))
+    (. .) ('' '')))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN gap))
+      (PP (IN between)
+        (NP (NNS winners)
+          (CC and)
+          (NNS laggards))))
+    (VP (MD will)
+      (VP (VB grow)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (JJ personal) (NNS computers)))
+    (, ,)
+    (NP (NNP Apple) (, ,) (NNP Compaq)
+      (CC and)
+      (NNP IBM))
+    (VP (VBP are)
+      (VP (VBN expected)
+        (S
+          (VP (TO to)
+            (VP (VB tighten)
+              (NP (PRP$ their) (NN hold))
+              (PP (IN on)
+                (NP (PRP$ their) (NN business))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN At)
+      (NP (DT the) (JJ same) (NN time)))
+    (, ,)
+    (NP (JJ second-tier) (NNS firms))
+    (VP (MD will)
+      (VP (VB continue)
+        (S
+          (VP (TO to)
+            (VP (VB lose)
+              (NP (NN ground)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT Some) (VBG lagging) (NNS competitors))
+    (ADVP (RB even))
+    (VP (MD may)
+      (VP (VB leave)
+        (NP (DT the) (JJ personal) (NN computer) (NN business))
+        (ADVP (RB altogether))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Wyse) (NNP Technology))
+      (, ,)
+      (PP (IN for)
+        (NP (NN instance)))
+      (, ,))
+    (VP (VBZ is)
+      (VP (VBN considered)
+        (NP (DT a) (NN candidate)
+          (S
+            (VP (TO to)
+              (VP (VB sell)
+                (NP (PRP$ its) (JJ troubled) (NN operation))))))))
+    (. .)))
+
+(ROOT
+  (SINV (`` ``)
+    (S
+      (S
+        (NP (NNP Wyse))
+        (VP (VBZ has)
+          (VP (VBN done)
+            (ADVP (RB well))
+            (S
+              (VP (VBG establishing)
+                (NP (DT a) (NN distribution) (NN business)))))))
+      (, ,)
+      (CC but)
+      (S
+        (NP (PRP they))
+        (VP (VBP have) (RB n't)
+          (VP (VBN delivered)
+            (NP
+              (NP (NNS products))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBP sell)))))))))
+    (, ,) ('' '')
+    (VP (VBD said))
+    (NP
+      (NP (NNP Kimball) (NNP Brown))
+      (, ,)
+      (NP
+        (NP (DT an) (NN analyst))
+        (PP (IN at)
+          (NP (NNP Prudential-Bache) (NNPS Securities)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Mr.) (NNP Brown))
+    (VP (VBZ estimates)
+      (SBAR
+        (S
+          (NP
+            (NP (NNP Wyse))
+            (, ,)
+            (SBAR
+              (WHNP (WP$ whose) (JJ terminals) (NN business))
+              (S
+                (VP (VBZ is)
+                  (ADJP (JJ strong)))))
+            (, ,))
+          (VP (MD will)
+            (VP (VB report)
+              (NP
+                (NP (DT a) (NN loss))
+                (PP (IN of)
+                  (NP
+                    (NP (CD 12) (NNS cents))
+                    (NP (DT a) (NN share)))))
+              (PP (IN for)
+                (NP
+                  (NP (PRP$ its) (NN quarter))
+                  (VP (VBN ended)
+                    (NP (NNP Sept.))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NN Personal-computer) (NNS makers))
+    (VP (MD will)
+      (VP (VB continue)
+        (S
+          (VP (TO to)
+            (VP (VB eat)
+              (PRT (RP away))
+              (PP (IN at)
+                (NP
+                  (NP (DT the) (NN business))
+                  (PP (IN of)
+                    (NP (RBR more) (JJ traditional) (NN computer) (NNS firms))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Ever-more) (JJ powerful) (JJ desk-top) (NNS computers))
+      (, ,)
+      (VP (VBN designed)
+        (PP (IN with)
+          (NP
+            (NP
+              (QP (CD one)
+                (CC or)
+                (JJR more))
+              (NNS microprocessors))
+            (PP (IN as)
+              (NP (PRP$ their) (`` ``)
+                (NX (NNP brains)))))))
+      (, ,) ('' ''))
+    (VP (VBP are)
+      (VP (VBN expected)
+        (S
+          (VP (TO to)
+            (VP
+              (ADVP (RB increasingly))
+              (VB take)
+              (PP (IN on)
+                (NP
+                  (NP (NNS functions))
+                  (VP (VBN carried)
+                    (PRT (RP out))
+                    (PP (IN by)
+                      (NP
+                        (ADJP (RBR more) (JJ expensive))
+                        (NNS minicomputers)
+                        (CC and)
+                        (NNS mainframes)))))))))))
+    (. .)))
+
+(ROOT
+  (SINV (`` ``)
+    (S
+      (NP
+        (NP (DT The) (NNS guys))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBP make)
+              (NP (JJ traditional) (NN hardware))))))
+      (VP (VBP are)
+        (ADVP (RB really))
+        (VP (VBG being)
+          (VP (VBN obsoleted)
+            (PP (IN by)
+              (NP (JJ microprocessor-based) (NNS machines)))))))
+    (, ,) ('' '')
+    (VP (VBD said))
+    (NP (NNP Mr.) (NNP Benton))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN As)
+      (NP
+        (NP (DT a) (NN result))
+        (PP (IN of)
+          (NP (DT this) (NN trend)))))
+    (, ,)
+    (NP
+      (NP (JJ longtime) (NNS powerhouses))
+      (NP (NNP H-P) (, ,) (NNP IBM)
+        (CC and)
+        (NNP Digital) (NNP Equipment) (NNP Corp.)))
+    (VP (VBP are)
+      (VP (VBG scrambling)
+        (S
+          (VP (TO to)
+            (VP (VB counterattack)
+              (PP (IN with)
+                (NP
+                  (NP (JJ microprocessor-based) (NNS systems))
+                  (PP (IN of)
+                    (NP (PRP$ their) (JJ own))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (NP (PRP they))
+    (VP (MD will)
+      (VP (VB have)
+        (S
+          (VP (TO to)
+            (VP (VB act)
+              (ADVP (RB quickly)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Mr.) (NNP Benton))
+    (VP (VBZ expects)
+      (S
+        (NP (NNP Compaq))
+        (VP (TO to)
+          (VP (VB unveil)
+            (NP
+              (NP (DT a) (NN family))
+              (PP (IN of)
+                (NP
+                  (NP (JJ high-end) (JJ personal) (NNS computers))
+                  (NP (RBR later) (DT this) (NN year))
+                  (SBAR
+                    (WHNP (WDT that))
+                    (S
+                      (VP (VBP are)
+                        (ADJP (JJ powerful) (RB enough)
+                          (S
+                            (VP (TO to)
+                              (VP (VB serve)
+                                (PP (IN as)
+                                  (NP
+                                    (NP (DT the) (NN hub))
+                                    (PP (IN for)
+                                      (NP (NNS communications)))))
+                                (PP (IN within)
+                                  (NP
+                                    (NP (JJ large) (NNS networks))
+                                    (PP (IN of)
+                                      (NP (JJ desk-top) (NNS machines)))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (NN raft))
+      (PP (IN of)
+        (NP (JJ new) (NN computer) (NNS companies))))
+    (ADVP (RB also))
+    (VP (VBZ has)
+      (VP (VBN targeted)
+        (NP (DT this) (`` ``) (NN server) ('' '') (NN market))))
+    (. .)))
+

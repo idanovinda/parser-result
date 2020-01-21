@@ -1,0 +1,1 @@
+EntRel||||||||||||||||||||||1..164|1|START The Treasury plans to raise $ 175 million in new cash Thursday by selling about $ 9.75 billion of 52-week bills and redeeming $ 9.58 billion of maturing bills .||||||||168..229|2|The bills will be dated Oct. 26 and will mature Oct. 25 , 1990 .|||||||||||||

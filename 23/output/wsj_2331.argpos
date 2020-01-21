@@ -1,0 +1,12 @@
+conn:If conn_POS:IN sent_pos:1 prev1:START prev1_POS:IN with_prev1_full:START_If with_prev1_POS_full:IN_IN NA
+conn:But conn_POS:CC sent_pos:0 NA
+conn:And conn_POS:CC sent_pos:0 NA
+conn:if conn_POS:IN prev1:`` prev1_POS:`` with_prev1_full:``_if with_prev1_POS_full:``_IN prev2:that prev2_POS:IN with_prev2_full:that_if with_prev2_POS_full:IN_IN NA
+conn:But conn_POS:CC sent_pos:0 NA
+conn:but conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_but with_prev1_POS_full:,_CC prev2:price prev2_POS:NN with_prev2_full:price_but with_prev2_POS_full:NN_CC NA
+conn:so_that conn_POS:RB_IN prev1:financially prev1_POS:RB with_prev1_full:financially_so_that with_prev1_POS_full:RB_RB_IN prev2:company prev2_POS:NN with_prev2_full:company_so_that with_prev2_POS_full:NN_RB_IN NA
+conn:as conn_POS:IN prev1:Friday prev1_POS:NNP with_prev1_full:Friday_as with_prev1_POS_full:NNP_IN prev2:abounded prev2_POS:VBD with_prev2_full:abounded_as with_prev2_POS_full:VBD_IN NA
+conn:Separately conn_POS:RB sent_pos:0 NA
+conn:because conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_because with_prev1_POS_full:,_IN prev2:announcement prev2_POS:NN with_prev2_full:announcement_because with_prev2_POS_full:NN_IN NA
+conn:also conn_POS:RB prev1:, prev1_POS:, with_prev1_full:,_also with_prev1_POS_full:,_RB prev2:Co. prev2_POS:NNP with_prev2_full:Co._also with_prev2_POS_full:NNP_RB NA
+conn:previously conn_POS:RB prev1:was prev1_POS:VBD with_prev1_full:was_previously with_prev1_POS_full:VBD_RB prev2:account prev2_POS:NN with_prev2_full:account_previously with_prev2_POS_full:NN_RB NA

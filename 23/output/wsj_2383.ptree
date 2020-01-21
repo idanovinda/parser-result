@@ -1,0 +1,234 @@
+(ROOT
+  (INTJ (UH .)))
+
+(ROOT
+  (S
+    (NP (NNP START) (NNP The) (NNP West) (JJ German) (NN retailer) (NNP ASKO) (NNP Deutsche) (NNP Kaufhaus) (NNP AG))
+    (VP (VBZ plans)
+      (S
+        (VP (TO to)
+          (VP (VB challenge)
+            (NP
+              (NP (DT the) (NN legality))
+              (PP (IN of)
+                (NP
+                  (NP (DT a)
+                    (ADJP (RB widely) (JJ employed))
+                    (JJ anti-takeover) (NN defense))
+                  (PP (IN of)
+                    (NP
+                      (NP (NNS companies))
+                      (PP (IN in)
+                        (NP (DT the) (NNPS Netherlands))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ eventual) (NN court) (NN decision))
+      (SBAR
+        (S
+          (VP (MD could)
+            (VP (VB become)
+              (NP (DT a) (NN landmark))
+              (PP (IN in)
+                (NP (JJ Dutch) (JJ corporate) (NN law)))
+              (SBAR (IN because)
+                (S
+                  (NP (DT the) (NN lawsuit) (NN ASKO))
+                  (VP (VBZ plans)
+                    (S
+                      (VP (TO to)
+                        (VP (VB file))))))))))))
+    (VP (MD would)
+      (VP (VB be)
+        (NP (DT the) (JJ first)
+          (S
+            (VP (TO to)
+              (VP (VB challenge)
+                (NP
+                  (NP (DT the) (JJ entire) (NN principle)
+                    (CC and)
+                    (NN practice))
+                  (PP (IN of)
+                    (NP
+                      (NP (NNS companies))
+                      (VP (VBG issuing)
+                        (S
+                          (VP (VBG voting)
+                            (NP (JJ preferred) (NNS shares))
+                            (PP (TO to)
+                              (NP (JJ management-controlled) (NNS trusts)))
+                            (S
+                              (VP (TO to)
+                                (VP (VB dilute)
+                                  (NP
+                                    (NP (VBG voting) (NN power))
+                                    (PP (IN of)
+                                      (NP (JJ common) (NNS stockholders)))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN Up)
+      (PP (TO to)
+        (NP (RB now))))
+    (NP
+      (NP (RB only) (JJ specific) (NNS aspects))
+      (PP (IN of)
+        (NP (DT these) (NNS defenses))))
+    (VP (VBP have)
+      (VP (VBN been)
+        (VP (VBN challenged) (, ,)
+          (SBAR (IN though)
+            (S
+              (ADVP (RB unsuccessfully))
+              (, ,)
+              (NP
+                (NP (NNP ASKO) (POS 's))
+                (JJ Dutch) (NNS lawyers))
+              (VP (VBD noted)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SINV (MD Should)
+      (NP (DT the) (NNS courts))
+      (VP (VB uphold)
+        (NP
+          (NP (DT the) (NN validity))
+          (PP (IN of)
+            (NP
+              (NP (DT this) (NN type))
+              (PP (IN of)
+                (NP (NN defense))))))))
+    (, ,)
+    (NP (NNP ASKO))
+    (VP (MD will) (RB then)
+      (VP (VB ask)
+        (NP (DT the) (NN court)
+          (S
+            (VP (TO to)
+              (VP (VB overturn)
+                (NP
+                  (NP (PDT such) (DT a) (JJ vote-diluting) (NN maneuver))
+                  (VP
+                    (ADVP (RB recently))
+                    (VBN deployed)
+                    (PP (IN by)
+                      (NP (NNP Koninklijke) (NNP Ahold) (NNP NV)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP ASKO))
+    (VP (VBZ says)
+      (SBAR
+        (S
+          (NP (DT the) (JJ Dutch-based) (JJ international) (NN food) (NN retailer))
+          (VP (VBD had) (RB n't)
+            (VP (VBN reasonable)
+              (NP (NNS grounds))
+              (S
+                (VP (TO to)
+                  (VP
+                    (VP (VB issue)
+                      (NP (JJ preferred) (NN stock))
+                      (PP (TO to)
+                        (NP (DT a) (JJ friendly) (NN trust))))
+                    (CC and)
+                    (VP
+                      (ADVP (RB thus))
+                      (VB dilute)
+                      (NP
+                        (NP (DT the) (NN worth)
+                          (CC and)
+                          (NN voting) (NN power))
+                        (PP (IN of)
+                          (NP
+                            (NP (NNP ASKO))
+                            (CC and)
+                            (NP (JJ other) (NNS shareholders))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBG Speaking)
+        (PP (IN through)
+          (NP (PRP$ its) (JJ Dutch) (NNS lawyers)))))
+    (, ,)
+    (NP (NNP ASKO))
+    (ADVP (RB also))
+    (VP (VBD disclosed)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBZ holds)
+            (NP
+              (NP (DT a)
+                (ADJP (CD 15) (NN %))
+                (NN stake))
+              (PP (IN in)
+                (NP (NNP Ahold))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD was)
+      (ADVP (RB previously))
+      (VP (VBN thought)
+        (SBAR
+          (S
+            (NP (NNP ASKO))
+            (VP (VBD held)
+              (NP
+                (NP (DT a) (CD 13.6) (NN %) (NN stake))
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (VBD was)
+                      (VP (VBN accumulated)
+                        (PP (IN since)
+                          (NP (NNP July)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (NN spokesman))
+      (PP (IN for)
+        (NP (NNP Ahold))))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP$ his) (NN company))
+          (VP (VBZ is)
+            (ADJP (JJ confident)
+              (PP (IN of)
+                (NP
+                  (NP (PRP$ its) (JJ own) (NN position))
+                  (CC and)
+                  (NP
+                    (NP (DT the) (NN propriety))
+                    (PP (IN of)
+                      (NP (DT the) (JJ preferred-share) (NN issue)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD termed)
+      (NP
+        (NP (NNP ASKO) (POS 's))
+        (JJ legal) (NNS actions))
+      (PP (IN as) (`` ``)
+        (ADJP (JJ unproductive))
+        ('' ''))
+      (PP (TO to)
+        (NP (JJ international) (NN cooperation)))
+      (PP (IN among)
+        (NP (JJ European) (NNS retailers))))
+    (. .)))
+

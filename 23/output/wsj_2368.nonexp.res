@@ -1,0 +1,1 @@
+Implicit|||||||||||Expansion|||||||||||216..293|2|For instance : " Haole " ( white ) is not the ultimate insult ; " Mainland haole " is .||||||||295..405|3|Richard Chamberlain dresses as a " Mainland haole , " tucking in a Hawaiian shirt and rolling up its long sleeves .|||||||||||||

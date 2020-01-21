@@ -1,0 +1,29 @@
+conn_lc:and conn:and conn_POS:CC with_prev_full:,_and xxx£
+conn_lc:but conn:But conn_POS:CC xxx£
+conn_lc:by_contrast conn:by_contrast conn_POS:IN_NN with_prev_full:,_by_contrast xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:--_and xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:same_and xxx£
+conn_lc:but conn:but conn_POS:CC with_prev_full:,_but xxx£
+conn_lc:nevertheless conn:nevertheless conn_POS:RB with_prev_full:it_nevertheless xxx£
+conn_lc:yet conn:yet conn_POS:CC with_prev_full:,_yet xxx£
+conn_lc:however conn:however conn_POS:RB with_prev_full:,_however xxx£
+conn_lc:meanwhile conn:meanwhile conn_POS:RB with_prev_full:,_meanwhile xxx£
+conn_lc:however conn:however conn_POS:RB with_prev_full:,_however xxx£
+conn_lc:also conn:also conn_POS:RB with_prev_full:it_also xxx£
+conn_lc:also conn:also conn_POS:RB with_prev_full:considerations_also xxx£
+conn_lc:because conn:because conn_POS:IN with_prev_full:portfolio_because xxx£
+conn_lc:while conn:while conn_POS:IN with_prev_full:batteries_while xxx£
+conn_lc:also conn:also conn_POS:RB with_prev_full:poquet_also xxx£
+conn_lc:but conn:But conn_POS:CC xxx£
+conn_lc:also conn:also conn_POS:RB with_prev_full:announcement_also xxx£
+conn_lc:because conn:because conn_POS:IN with_prev_full:slip_because xxx£
+conn_lc:whereas conn:whereas conn_POS:IN with_prev_full:,_whereas xxx£
+conn_lc:also conn:also conn_POS:RB with_prev_full:were_also xxx£
+conn_lc:when conn:when conn_POS:WRB with_prev_full:''_when xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:compaq_and xxx£
+conn_lc:but conn:but conn_POS:CC with_prev_full:,_but xxx£
+conn_lc:for_example conn:for_example conn_POS:IN_NN with_prev_full:,_for_example xxx£
+conn_lc:also conn:also conn_POS:RB with_prev_full:which_also xxx£
+conn_lc:but conn:but conn_POS:CC with_prev_full:,_but xxx£
+conn_lc:but conn:but conn_POS:CC with_prev_full:,_but xxx£
+conn_lc:by_then conn:by_then conn_POS:IN_RB with_prev_full:but_by_then xxx£

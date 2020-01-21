@@ -1,0 +1,546 @@
+(ROOT
+  (INTJ (UH .)))
+
+(ROOT
+  (S
+    (NP (NNP START) (NNP Interprovincial) (NNP Pipe) (NNP Line) (NNP Co.))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (MD will)
+            (VP (VB delay)
+              (NP
+                (NP (DT a) (JJ proposed) (NN two-step))
+                (, ,)
+                (NP
+                  (NP
+                    (QP (CD 830) (CD million))
+                    (NNP Canadian-dollar)
+                    (PRN (-LRB- -LRB-)
+                      (NP
+                        (QP ($ US$) (CD 705.6) (CD million)))
+                      (-RRB- -RRB-))
+                    (NN expansion))
+                  (PP (IN of)
+                    (NP (PRP$ its) (NN system)))))
+              (SBAR (IN because)
+                (S
+                  (NP
+                    (NP
+                      (NP (NNP Canada) (POS 's))
+                      (NN output))
+                    (PP (IN of)
+                      (NP (JJ crude) (NN oil))))
+                  (VP (VBZ is)
+                    (VP (VBG shrinking))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Interprovincial))
+      (, ,)
+      (NP
+        (NP
+          (NP (NNP Canada) (POS 's))
+          (JJS biggest) (NN oil) (NN pipeline) (NN operator))
+        (CC and)
+        (NP
+          (NP (DT a) (JJ major) (NN transporter))
+          (PP (IN of)
+            (NP
+              (NP (NN crude))
+              (PP (TO to)
+                (NP (DT the) (NNP U.S.)))))))
+      (, ,))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (VBN revised) (NN industry) (NNS forecasts))
+          (VP (VBP indicate)
+            (SBAR (IN that)
+              (S
+                (NP (JJ Canadian) (NN oil) (NN output))
+                (VP (MD will)
+                  (VP (VB total)
+                    (NP
+                      (NP
+                        (QP (RB about) (CD 1.64) (CD million))
+                        (NNS barrels))
+                      (NP (DT a) (NN day)))
+                    (PP
+                      (PP (IN by)
+                        (NP (CD 1991)))
+                      (, ,)
+                      (ADVP
+                        (NP (CD 8) (NN %))
+                        (RBR lower))
+                      (PP (IN than)
+                        (NP (DT a) (JJ previous) (NN estimate))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Canadian) (JJ crude) (NN production))
+    (VP (VBD averaged)
+      (NP
+        (NP
+          (QP (RB about) (CD 1.69) (CD million))
+          (NNS barrels))
+        (NP (DT a) (NN day)))
+      (PP (IN during)
+        (NP
+          (NP
+            (NP (CD 1989) (POS 's))
+            (JJ first) (NN half))
+          (, ,)
+          (NP
+            (QP (RB about) (CD 1))
+            (NN %))))
+      (PP (IN below)
+        (NP (DT the) (CD 1988) (NN level))))
+    (. .)))
+
+(ROOT
+  (SINV (`` ``)
+    (S
+      (S
+        (NP
+          (NP (DT The) (NN capability))
+          (PP (IN of)
+            (NP (JJ existing) (NNS fields)))
+          (S
+            (VP (TO to)
+              (VP (VB deliver)
+                (NP (NN oil))))))
+        (VP (VBZ is)
+          (VP (VBG dropping))))
+      (, ,) ('' '')
+      (CC and)
+      (S
+        (NP (NN oil) (NN exploration) (NN activity))
+        (VP (VBZ is)
+          (ADVP (RB also))
+          (ADVP (RB down) (RB dramatically))
+          (, ,)
+          (SBAR (IN as)
+            (S
+              (NP (JJ many) (NNS producers))
+              (VP (VBP shift)
+                (NP (PRP$ their) (NN emphasis))
+                (PP (TO to)
+                  (NP (JJ natural) (NN gas)))))))))
+    (, ,)
+    (VP (VBD said))
+    (NP
+      (NP (NNP Ronald) (NNP Watkins))
+      (, ,)
+      (NP
+        (NP (NN vice) (NN president))
+        (PP (IN for)
+          (NP
+            (NP (NN government)
+              (CC and)
+              (NN industry) (NNS relations))
+            (PP (IN with)
+              (NP
+                (NP
+                  (NP (NNP Interprovincial) (POS 's))
+                  (NN parent))
+                (, ,)
+                (NP (NNP Interhome) (NNP Energy) (NNP Inc.))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Mr.) (NNP Watkins))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (NN volume))
+            (PP (IN on)
+              (NP
+                (NP (NNP Interprovincial) (POS 's))
+                (NN system))))
+          (VP
+            (VP (VBZ is)
+              (ADVP (RB down)
+                (NP
+                  (QP (RB about) (CD 2))
+                  (NN %)))
+              (PP (IN since)
+                (NP (NNP January))))
+            (CC and)
+            (VP (VBZ is)
+              (VP (VBN expected)
+                (S
+                  (VP (TO to)
+                    (VP (VB fall) (RBR further))))
+                (, ,)
+                (S
+                  (VP (VBG making)
+                    (S
+                      (NP (NN expansion))
+                      (ADJP (JJ unnecessary)
+                        (PP (IN until)
+                          (NP (RB perhaps) (DT the) (NNS mid-1990s)))))))))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (EX There))
+      (VP (VBZ has)
+        (VP (VBN been)
+          (NP
+            (NP (DT a) (NN swing))
+            (PP (IN of)
+              (NP
+                (NP (DT the) (NN pendulum))
+                (ADVP (RB back)
+                  (PP (TO to)
+                    (NP (DT the) (NN gas) (NN side))))))))))
+    (, ,) ('' '')
+    (NP (PRP he))
+    (VP (VBD said))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Many))
+      (PP (IN of)
+        (NP
+          (NP (NNP Canada) (POS 's))
+          (NN oil)
+          (CC and)
+          (NN gas) (NNS producers))))
+    (VP (VBP say)
+      (SBAR
+        (S
+          (NP
+            (NP (DT the) (NN outlook))
+            (PP (IN for)
+              (NP (JJ natural) (NN gas))))
+          (VP (VBZ is)
+            (ADJP (JJR better))
+            (SBAR (IN than)
+              (S
+                (NP (PRP it))
+                (VP
+                  (VP (VBZ is)
+                    (PP (IN for)
+                      (NP (NN oil))))
+                  (, ,)
+                  (CC and)
+                  (VP (VBP have)
+                    (VP (VBN shifted)
+                      (NP (PRP$ their) (NN exploration)
+                        (CC and)
+                        (NN development) (NNS budgets))
+                      (ADVP (RB accordingly)))))))))))
+    (. .)))
+
+(X (X The) (X number) (X of) (X active) (X drilling) (X rigs) (X in) (X Canada) (X is) (X down) (X 30) (X %) (X from) (X a) (X year) (X ago) (X ,) (X and) (X the) (X number) (X of) (X completed) (X oil) (X wells) (X is) (X ``) (X down) (X more) (X than) (X that) (X ,) (X due) (X to) (X the) (X increasing) (X focus) (X on) (X gas) (X exploration) (X ,) (X '') (X said) (X Robert) (X Feick) (X ,) (X manager) (X of) (X crude) (X oil) (X with) (X Calgary) (X 's) (X Independent) (X Petroleum) (X Association) (X of) (X Canada) (X ,) (X an) (X industry) (X group) (X .))
+
+(ROOT
+  (S
+    (NP (NNP Mr.) (NNP Watkins))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (DT the) (JJ main) (NN reason))
+            (PP (IN for)
+              (NP (DT the) (NN production) (NN decline))))
+          (VP (VBZ is)
+            (VP (VBG shrinking)
+              (NP
+                (NP (NN output))
+                (PP (IN of)
+                  (NP (JJ light) (NN crude))))
+              (PP (IN from)
+                (NP
+                  (NP (JJ mature) (, ,) (JJ conventional) (NNS fields))
+                  (PP (IN in)
+                    (NP (JJ western) (NNP Canada))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Interprovincial))
+      (VP (VBZ transports)
+        (NP
+          (NP
+            (QP (RB about) (CD 75))
+            (NN %))
+          (PP (IN of)
+            (NP
+              (NP (DT all) (NN crude))
+              (VP (VBN produced)
+                (PP (IN in)
+                  (NP (JJ western) (NNP Canada)))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP
+        (NP
+          (QP (RB almost) (CD 60))
+          (NN %))
+        (PP (IN of)
+          (NP
+            (NP (NNP Interprovincial) (POS 's))
+            (JJ total) (NN volume))))
+      (VP (VBZ consists)
+        (PP (IN of)
+          (NP (JJ light) (NN crude)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (QP (RB Nearly) (DT all)))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (JJ crude) (NN oil))
+          (SBAR (IN that)
+            (S
+              (NP (NNP Canada))
+              (VP (VBZ exports)
+                (PP (TO to)
+                  (NP (DT the) (NNP U.S.)))))))))
+    (VP (VBZ is)
+      (VP (VBN transported)
+        (PP (IN on)
+          (NP
+            (NP
+              (NP (NNP Interprovincial) (POS 's))
+              (NN system))
+            (, ,)
+            (SBAR
+              (WHNP (WP$ whose) (JJ main) (NN line))
+              (S
+                (VP (VBZ runs)
+                  (PP (IN from)
+                    (NP (NNP Edmonton)))
+                  (PP (TO to)
+                    (NP
+                      (NP (JJ major)
+                        (UCP (NNP U.S.)
+                          (CC and)
+                          (JJ Canadian))
+                        (NNS cities))
+                      (PP (IN in)
+                        (NP (DT the) (NNP Great) (NNPS Lakes) (NN region)))
+                      (, ,)
+                      (PP (VBG including)
+                        (NP (NNP Chicago) (, ,) (NNP Buffalo) (, ,) (NNP Toronto)
+                          (CC and)
+                          (NNP Montreal))))))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (S
+      (NP
+        (NP (NNP Canada) (POS 's))
+        (JJ current) (NN oil))
+      (VP (VBZ exports)
+        (PP (TO to)
+          (NP (DT the) (NNP U.S.) (NN total)))
+        (PP (IN about)
+          (NP
+            (NP
+              (NP (CD 600,000) (NNS barrels))
+              (NP (DT a) (NN day)))
+            (, ,)
+            (CC or)
+            (NP
+              (NP
+                (QP (RB about) (CD 9.1))
+                (NN %))
+              (PP (IN of)
+                (NP (JJ net) (NNP U.S.) (NN crude) (NNS imports))))))))
+    (, ,)
+    (VP (VBD said))
+    (NP
+      (NP (NNP John) (NNP Lichtblau))
+      (, ,)
+      (NP
+        (NP (NN president))
+        (PP (IN of)
+          (NP (DT the) (NNP New) (JJ York-based) (NNP Petroleum) (NNP Industry) (NNP Research) (NNP Foundation)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT That))
+    (VP (VBZ ranks)
+      (NP
+        (NP (NNP Canada))
+        (PP (IN as)
+          (NP
+            (NP (DT the) (JJ fourth-largest) (NN source))
+            (PP (IN of)
+              (NP (VBN imported) (NN crude)))))
+        (, ,)
+        (PP (IN behind)
+          (NP (NNP Saudi) (NNP Arabia) (, ,) (NNP Nigeria)
+            (CC and)
+            (NNP Mexico)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Mr.) (NNP Lichtblau))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP
+              (NP (NNP Canada) (POS 's))
+              (VBG declining) (JJ crude) (NN output))
+            (, ,)
+            (VP (VBN combined)
+              (PP (IN with)
+                (NP
+                  (NP (DT the) (JJ fast-shrinking) (NN output))
+                  (PP (IN of)
+                    (NP (NNP U.S.) (NN crude))))))
+            (, ,))
+          (VP (MD will)
+            (VP (VB help)
+              (VP (VB intensify)
+                (NP (NNP U.S.) (NN reliance))
+                (PP (IN on)
+                  (NP (NN oil)))
+                (PP (IN from)
+                  (NP
+                    (NP (JJ overseas))
+                    (, ,) (RB particularly)
+                    (NP (DT the) (NNP Middle) (NNP East))))))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (ADJP (RB very) (JJ much))
+      (S
+        (NP (DT a) (VBG growing) (NN concern))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (S
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (NN something))
+          (VP (VBZ is)
+            (ADJP (JJ inevitable)))))
+      (, ,)
+      (NP (PRP you))
+      (VP (VBP learn)
+        (S
+          (VP (TO to)
+            (VP (VB live)
+              (PP (IN with)
+                (NP (PRP it))))))))
+    (, ,) ('' '')
+    (NP (PRP he))
+    (VP (VBD said))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Mr.) (NNP Lichtblau))
+    (VP (VBD stressed)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT the) (NN delay))
+            (PP (IN of)
+              (NP
+                (NP (NNP Interprovincial) (POS 's))
+                (VBN proposed) (NN expansion))))
+          (VP (MD wo) (RB n't)
+            (PP (IN by)
+              (NP (PRP itself)))
+            (VP (VB increase)
+              (NP (NNP U.S.) (NN dependence))
+              (PP (IN on)
+                (NP (JJ offshore) (NN crude)))
+              (, ,)
+              (ADVP (RB however))
+              (, ,)
+              (SBAR (IN since)
+                (S
+                  (NP (JJ Canadian) (NNS imports))
+                  (VP (VBP are)
+                    (VP (VBN limited)
+                      (PP (IN in)
+                        (NP (DT any) (NN case)))
+                      (PP (IN by)
+                        (NP
+                          (NP (NNP Canada) (POS 's))
+                          (VBG falling) (NN output))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN Under)
+      (NP
+        (NP (NNS terms))
+        (PP (IN of)
+          (NP
+            (NP (PRP$ its) (JJ proposed) (JJ two-step) (NN expansion))
+            (, ,)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (MD would)
+                  (VP (VB have)
+                    (VP (VBN required)
+                      (NP (JJ regulatory) (NN approval)))))))))))
+    (, ,)
+    (NP (NNP Interprovincial))
+    (VP (VBD intended)
+      (S
+        (VP (TO to)
+          (VP (VB add)
+            (NP
+              (NP (CD 200,000) (NNS barrels))
+              (NP (DT a) (NN day))
+              (PP (IN of)
+                (NP (JJ additional) (NN capacity))))
+            (PP (TO to)
+              (NP (PRP$ its) (NN system)))
+            (, ,)
+            (PP (VBG beginning)
+              (PP (IN with)
+                (NP
+                  (NP (DT a) (JJ modest) (NN expansion))
+                  (PP (IN by)
+                    (NP (CD 1991))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN system))
+    (ADVP (RB currently))
+    (VP (VBZ has)
+      (NP
+        (NP (DT a) (NN capacity))
+        (PP (IN of)
+          (NP
+            (NP
+              (QP (CD 1.55) (CD million))
+              (NNS barrels))
+            (NP (DT a) (NN day))))))
+    (. .)))
+

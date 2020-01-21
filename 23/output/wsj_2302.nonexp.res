@@ -1,0 +1,1 @@
+Implicit|||||||||||Expansion|||||||||||1..116|1|START Ports of Call Inc. reached agreements to sell its remaining seven aircraft to buyers that were n't disclosed .||||||||120..245|2|The agreements bring to a total of nine the number of planes the travel company has sold this year as part of a restructuring .|||||||||||||

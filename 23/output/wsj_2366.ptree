@@ -1,0 +1,1094 @@
+(ROOT
+  (INTJ (UH .)))
+
+(ROOT
+  (S
+    (NP (NNP START) (NNP Population) (NNP Drain) (NNPS Ends))
+    (PP (IN For)
+      (NP (NNP Midwestern) (NNPS States) (NNP IOWA)))
+    (VP (VBZ IS)
+      (VP (VBG MAKING)
+        (NP (DT a) (NN comeback))))
+    (. .)))
+
+(ROOT
+  (SINV (RB So)
+    (VP (VBP are))
+    (NP
+      (NP (NNP Indiana))
+      (, ,)
+      (NP
+        (NP (NNP Ohio))
+        (CC and)
+        (NP (NNP Michigan))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN population))
+      (PP (IN of)
+        (NP (DT all) (CD four) (NNS states))))
+    (VP (VBZ is)
+      (PP (IN on)
+        (S
+          (NP (DT the) (NN upswing))
+          (, ,)
+          (PP (VBG according)
+            (PP (TO to)
+              (NP (JJ new) (NNP Census) (NNP Bureau) (NNS estimates))))
+          (, ,)
+          (VP (VBG following)
+            (NP (NNS declines))
+            (PP (IN throughout)
+              (NP (DT the) (JJ early) (NNS 1980s)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS gains))
+    (, ,)
+    (S
+      (VP (TO to)
+        (VP (VB be)
+          (ADJP (JJ sure)))))
+    (, ,)
+    (VP (VBP are)
+      (ADJP (RB rather) (JJ small)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Iowa))
+      (, ,)
+      (PP (IN for)
+        (NP (NN instance)))
+      (, ,)
+      (VP (VBD saw)
+        (SBAR
+          (S
+            (NP (PRP$ its) (NN population))
+            (VP (VBP grow)
+              (PP (IN by)
+                (NP
+                  (NP
+                    (NP (CD 11,000) (NNS people))
+                    (, ,)
+                    (CC or)
+                    (NP (CD 0.4) (NN %))
+                    (, ,))
+                  (PP (IN between)
+                    (NP (CD 1987)
+                      (CC and)
+                      (CD 1988))))))))))
+    (, ,)
+    (NP (DT the) (NNP Census) (NNP Bureau))
+    (VP (VBZ says))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Still))
+    (, ,)
+    (NP (RB even) (DT that) (JJ modest) (NN increase))
+    (VP (VBZ is)
+      (NP
+        (NP (JJ good) (NN news))
+        (PP (IN for)
+          (NP
+            (NP (DT a) (NN state))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBD had) (RB n't)
+                  (VP (VBN grown)
+                    (ADVP (IN at) (DT all))
+                    (PP (IN since)
+                      (NP (CD 1981)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN Between)
+      (NP (CD 1987)
+        (CC and)
+        (CD 1988)))
+    (, ,)
+    (NP (NNP North) (NNP Dakota))
+    (VP (VBD was)
+      (NP
+        (NP (DT the) (JJ only) (NN state))
+        (PP (IN in)
+          (NP (DT the) (NN Midwest)
+            (S
+              (VP (TO to)
+                (VP (VB lose)
+                  (NP
+                    (NP (NN population))
+                    (, ,)
+                    (NP
+                      (NP (DT a) (NN loss))
+                      (PP (IN of)
+                        (NP (CD 4,000) (NNS people))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (CD Six))
+      (PP (IN of)
+        (NP (DT the) (CD 12) (NN midwestern) (NNS states))))
+    (VP (VBP have)
+      (VP (VBN been)
+        (VP (VBG growing)
+          (ADVP (RB steadily))
+          (PP (IN since)
+            (NP
+              (NP (CD 1980))
+              (: --)
+              (NP (NNP Illinois) (, ,) (NNP Kansas) (, ,) (NNP Minnesota) (, ,) (NNP Missouri) (, ,) (NNP South) (NNP Dakota)
+                (CC and)
+                (NNP Wisconsin)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN Northeast))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (VP (VBG holding)
+          (NP (PRP$ its) (JJ own))
+          (PP (IN in)
+            (NP (DT the) (NN population) (NN race))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (CD Seven))
+      (PP (IN of)
+        (NP (CD nine) (NNS states))))
+    (VP (VBP have)
+      (VP (VBN grown)
+        (NP (DT each) (NN year))
+        (PP (IN since)
+          (NP (CD 1980)))
+        (, ,)
+        (PP (VBG including)
+          (NP
+            (NP (NNP New) (NNP York))
+            (, ,)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBD lost)
+                  (NP
+                    (NP (CD 4) (NN %))
+                    (PP (IN of)
+                      (NP (PRP$ its) (NN population))))
+                  (PP (IN during)
+                    (NP (DT the) (NNS 1970s))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (SBAR (IN although)
+      (S
+        (NP (NNP Pennsylvania)
+          (CC and)
+          (NNP Massachusetts))
+        (VP (VBD suffered)
+          (PP
+            (ADVP
+              (NP (JJ slight) (NNS declines))
+              (RBR earlier))
+            (IN in)
+            (NP (DT the) (NN decade))))))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBP are)
+      (VP (VBG growing)
+        (ADVP (RB again))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN At)
+      (NP (DT the) (JJ same) (NN time)))
+    (, ,)
+    (NP
+      (NP (JJ several) (NNS states))
+      (PP (IN in)
+        (NP (DT the) (NNP South)
+          (CC and)
+          (NNP West))))
+    (VP (VBP have)
+      (VP (VBN had)
+        (NP (PRP$ their) (JJ own) (NN population) (NN turnaround))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (CD Seven) (NNS states))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (VBD grew)
+            (PP (IN in)
+              (NP (DT the) (JJ early) (NNS 1980s)))))))
+    (VP (VBP are)
+      (ADVP (RB now))
+      (VP (VBG losing)
+        (NP
+          (NP (NN population))
+          (: --)
+          (NP (NNP West) (NNP Virginia) (, ,) (NNP Mississippi) (, ,) (NNP Louisiana) (, ,) (NNP Oklahoma) (, ,) (NNP Montana) (, ,) (NNP Wyoming)
+            (CC and)
+            (NNP Alaska)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Overall))
+    (, ,)
+    (ADVP (RB though))
+    (, ,)
+    (S
+      (NP (DT the) (NNP South)
+        (CC and)
+        (NNP West))
+      (ADVP (RB still))
+      (VP (VB outpace)
+        (NP (DT the) (NNP Northeast)
+          (CC and)
+          (NNP Midwest))))
+    (, ,)
+    (CC and)
+    (S
+      (NP
+        (NP (JJ fast-growing) (NNS states))
+        (PP (IN like)
+          (NP (NNP Florida)
+            (CC and)
+            (NNP California))))
+      (VP (VB ensure)
+        (SBAR (IN that)
+          (S
+            (NP (DT the) (NN pattern))
+            (VP (MD will)
+              (VP (VB continue)))))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (NP
+      (NP (DT the) (NN growth) (NN gap))
+      (PP (IN between)
+        (NP
+          (NP (DT the) (NNP Sun) (NNP Belt))
+          (CC and)
+          (NP (JJ other) (NNS regions)))))
+    (VP (VBZ has)
+      (ADVP (RB clearly))
+      (VP (VBN started)
+        (NP (NN narrowing))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADJP (RBR More) (JJ Elderly)
+        (S
+          (VP (VBG Maintain)
+            (NP (PRP$ Their) (NNP Independence) (NNP THANKS) (NNP TO) (JJ modern) (NN medicine))))))
+    (, ,)
+    (NP (JJR more) (NNS couples))
+    (VP (VBP are)
+      (VP (VBG growing)
+        (ADJP (JJ old) (RB together))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (PP (RB even) (IN after)
+      (S
+        (VP (VBG losing)
+          (NP (DT a) (NN spouse)))))
+    (, ,)
+    (NP
+      (NP (JJR more))
+      (PP (IN of)
+        (NP (DT the) (JJ elderly))))
+    (VP (VBP are)
+      (VP (VBG staying)
+        (ADJP (JJ independent))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (JJ new) (NNP Census) (NNP Bureau) (NN study))
+      (PP (IN of)
+        (NP (DT the) (JJ noninstitutionalized) (NN population))))
+    (VP (VBZ shows)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (CD 64) (NN %))
+            (PP (IN of)
+              (NP
+                (NP (NNS people))
+                (ADJP (VBN aged)
+                  (NP
+                    (QP (CD 65) (TO to) (CD 74)))))))
+          (VP (VBD were)
+            (VP (VBG living)
+              (PP (IN with)
+                (NP
+                  (NP (DT a) (NN spouse))
+                  (PP (IN in)
+                    (NP (CD 1988)))))
+              (, ,)
+              (ADVP (RB up)
+                (PP (IN from)
+                  (NP
+                    (NP (CD 59) (NN %))
+                    (PP (IN in)
+                      (NP (CD 1970)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ does) (RB n't)
+      (VP (VB mean)
+        (SBAR
+          (S
+            (NP (PRP they))
+            (VP (VBP 're)
+              (ADJP (RBR less) (JJ likely)
+                (S
+                  (VP (TO to)
+                    (VP (VB live)
+                      (ADVP (RB alone))
+                      (, ,)
+                      (ADVP (RB however)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT That) (NN share))
+    (VP (VBZ has)
+      (VP (VBN remained)
+        (PP (IN at)
+          (NP
+            (NP
+              (QP (RB about) (CD 24))
+              (NN %))
+            (PP (IN since)
+              (NP (CD 1970)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHNP (WP What))
+      (S
+        (VP (VBZ has)
+          (VP (VBN changed)))))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (JJR more))
+            (PP (IN of)
+              (NP (DT the) (JJ young) (JJ elderly))))
+          (VP (VBP are)
+            (VP (VBG living)
+              (PP
+                (PP (IN with)
+                  (NP (NNS spouses)))
+                (CONJP (RB rather) (IN than))
+                (PP (IN with)
+                  (NP
+                    (NP (JJ other) (NNS relatives))
+                    (, ,)
+                    (PP (JJ such) (IN as)
+                      (NP (NNS children)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (CD 1988)))
+    (, ,)
+    (NP
+      (NP (CD 10) (NN %))
+      (PP (IN of)
+        (NP (DT those)
+          (ADJP (VBN aged))
+          (QP (CD 65) (TO to) (CD 74)))))
+    (VP (VBD lived)
+      (PP (IN with)
+        (NP
+          (NP (NNS relatives))
+          (PP (JJ other) (IN than)
+            (NP (NNS spouses)))))
+      (, ,)
+      (ADVP (RB down)
+        (PP (IN from)
+          (NP
+            (NP (CD 15) (NN %))
+            (PP (IN in)
+              (NP (CD 1970)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN As)
+      (S
+        (NP (NNS people))
+        (VP (VBP get)
+          (ADJP (RB even) (JJR older)))))
+    (, ,)
+    (NP (DT many))
+    (VP (VBP become)
+      (ADJP (VBN widowed)))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (ADVP (RB even)
+      (PP (IN among)
+        (NP
+          (NP (DT those))
+          (VP (VBN aged)
+            (UCP
+              (NP (CD 75))
+              (CC and)
+              (ADJP (JJR older)))))))
+    (, ,)
+    (NP
+      (NP (DT the) (NN share) (NN living))
+      (PP (IN with)
+        (NP (DT a) (NN spouse))))
+    (VP (VBD rose)
+      (ADVP (RB slightly))
+      (, ,)
+      (PP (TO to)
+        (NP
+          (NP (CD 40) (NN %))
+          (PP (IN in)
+            (NP (CD 1988)))))
+      (PP (IN from)
+        (NP
+          (NP (CD 38) (NN %))
+          (PP (IN in)
+            (NP (CD 1970))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN Like)
+      (NP (PRP$ their) (JJR younger) (NNS counterparts)))
+    (, ,)
+    (X (DT the) (JJR older))
+    (NP (JJ elderly))
+    (VP (VBP are)
+      (ADJP (RBR less) (JJ likely)
+        (S
+          (VP (TO to)
+            (VP (VB live)
+              (PP (IN with)
+                (NP (JJ other) (NNS relatives))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (QP (RB Only) (CD 17))
+        (NN %))
+      (PP (IN of)
+        (NP
+          (NP (DT those))
+          (VP (VBN aged)
+            (UCP
+              (NP (CD 75))
+              (CC and)
+              (ADJP (JJR older)))))))
+    (VP (VBD lived)
+      (PP (IN with)
+        (NP
+          (NP (NNS relatives))
+          (PP (JJ other) (IN than)
+            (NP
+              (NP (NNS spouses))
+              (PP (IN in)
+                (NP (CD 1988)))))))
+      (, ,)
+      (ADVP (RB down)
+        (PP (IN from)
+          (NP
+            (NP (CD 26) (NN %))
+            (PP (IN in)
+              (NP (CD 1970)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN likelihood))
+      (PP (IN of)
+        (S
+          (VP (VBG living)
+            (ADVP (RB alone))
+            (PP (IN beyond)
+              (NP
+                (NP (DT the) (NN age))
+                (PP (IN of)
+                  (NP (CD 75)))))))))
+    (VP (VBZ has)
+      (VP (VBN increased)
+        (PP (TO to)
+          (NP
+            (NP (CD 40) (NN %))
+            (PP (IN from)
+              (NP (CD 32) (NN %)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJR More) (NNS people))
+    (VP (VBP are)
+      (VP (VBG remaining)
+        (ADJP (JJ independent))
+        (UCP
+          (ADJP
+            (ADJP (JJR longer))
+            (SBAR
+              (ADVP (RB presumably))
+              (IN because)
+              (S
+                (NP (PRP they))
+                (VP (VBP are)
+                  (ADVP (RBR better))
+                  (ADJP (RB off) (RB physically))))))
+          (CC and)
+          (ADVP (RB financially)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Careers) (NNP Count) (NNP Most))
+    (PP (IN For)
+      (NP (DT the) (JJ Well-to-Do) (NNP MANY) (NNP AFFLUENT) (NNS people)))
+    (VP (VBP place)
+      (NP (JJ personal) (NN success)
+        (CC and)
+        (NN money))
+      (PP (IN above)
+        (NP (NN family))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (IN At) (JJS least))
+    (NP (DT that))
+    (VP (VBZ 's)
+      (SBAR
+        (WHNP (WP what))
+        (S
+          (NP
+            (NP (DT a) (NN survey))
+            (PP (IN by)
+              (NP
+                (NP (NNP Ernst)
+                  (CC &)
+                  (NNP Young))
+                (CC and)
+                (NP (NNP Yankelovich) (, ,) (NNP Clancy) (, ,) (NNP Shulman)))))
+          (VP (VBZ indicates)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNS Two-thirds))
+      (PP (IN of)
+        (NP (NNS respondents))))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP they))
+          (ADVP (RB strongly))
+          (VP (VBD felt)
+            (NP (DT the) (NN need)
+              (S
+                (VP (TO to)
+                  (VP (VB be)
+                    (ADJP (JJ successful)
+                      (PP (IN in)
+                        (NP (PRP$ their) (NNS jobs))))
+                    (, ,)
+                    (SBAR (IN while)
+                      (S
+                        (NP
+                          (QP (JJR fewer) (IN than) (PDT half)))
+                        (VP (VBD said)
+                          (SBAR
+                            (S
+                              (NP (PRP they))
+                              (ADVP (RB strongly))
+                              (VP (VBD felt)
+                                (NP (DT the) (NN need)
+                                  (S
+                                    (VP (TO to)
+                                      (VP (VB spend)
+                                        (NP (JJR more) (NN time))
+                                        (PP (IN with)
+                                          (NP (PRP$ their) (NNS families)))))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP
+        (VP (VBG Being)
+          (ADJP (JJ successful)
+            (PP (IN in)
+              (NP (NNS careers)))))
+        (CC and)
+        (VP (VBG spending)
+          (NP
+            (NP (DT the) (NN money))
+            (SBAR
+              (S
+                (NP (PRP they))
+                (VP (VBP make))))))))
+    (VP (VBP are)
+      (NP
+        (NP (JJ top) (NNS priorities))
+        (PP (IN for)
+          (NP (DT this) (NN group)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN Unlike)
+      (NP
+        (NP (JJS most) (NNS studies))
+        (PP (IN of)
+          (NP (DT the) (JJ affluent) (NN market)))))
+    (, ,)
+    (NP (DT this) (NN survey))
+    (VP (VBN excluded)
+      (NP (DT the) (NN super-rich)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (JJ Average) (NN household) (NN income))
+        (PP (IN for)
+          (NP (DT the) (NN sample))))
+      (VP (VBD was)
+        (NP ($ $) (CD 194,000))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (JJ average) (JJ net) (NNS assets))
+      (VP (VBD were)
+        (VP (VBN reported)
+          (PP (IN as)
+            (NP ($ $) (CD 775,000))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN goal))
+    (VP (VBD was)
+      (S
+        (VP (TO to)
+          (VP (VB learn)
+            (NP
+              (NP
+                (NP
+                  (QP (RB about) (CD one)))
+                (PP (IN of)
+                  (NP
+                    (NP (NN today) (POS 's))
+                    (JJS fastest-growing) (NN income) (NNS groups))))
+              (, ,)
+              (NP (DT the) (JJ upper-middle) (NN class)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN Although)
+      (S
+        (NP (PRP they))
+        (VP (VBP represent)
+          (NP
+            (NP
+              (QP (RB only) (CD 2))
+              (NN %))
+            (PP (IN of)
+              (NP (DT the) (NN population)))))))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBP control)
+      (NP
+        (NP
+          (QP (RB nearly) (NN one-third)))
+        (PP (IN of)
+          (NP (JJ discretionary) (NN income)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN Across)
+      (NP (DT the) (NN board)))
+    (, ,)
+    (NP (DT these) (NNS consumers) (NN value) (NN quality))
+    (, ,)
+    (VP
+      (VP (VB buy)
+        (NP
+          (SBAR
+            (WHNP (WP what))
+            (S
+              (NP (PRP they))
+              (VP (VBP like))))
+          (CONJP (RB rather) (IN than))
+          (SBAR
+            (WHNP (RB just) (WP what))
+            (S
+              (NP (PRP they))
+              (VP (VBP need))))))
+      (, ,)
+      (CC and)
+      (VP (VB appreciate)
+        (NP
+          (NP (NNS products))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBP are)
+                (ADJP (JJ distinctive))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN Despite)
+      (NP (PRP$ their) (JJ considerable) (NNS incomes)
+        (CC and)
+        (NNS assets)))
+    (, ,)
+    (S
+      (NP
+        (NP (CD 40) (NN %))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NNS respondents))
+            (PP (IN in)
+              (NP (DT the) (NN study))))))
+      (VP (VBP do) (RB n't)
+        (VP (VB feel)
+          (ADJP (RB financially) (JJ secure)))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (NN one-fourth))
+      (VP (VBP do) (RB n't)
+        (VP (VB feel)
+          (SBAR (IN that)
+            (S
+              (NP (PRP they))
+              (VP (VBP have)
+                (VP (VBN made)
+                  (NP (PRP it)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (CD Twenty) (NN percent))
+    (VP (VBP do) (RB n't)
+      (ADVP (RB even))
+      (VP (VB feel)
+        (SBAR
+          (S
+            (NP (PRP they))
+            (VP (VBP are)
+              (ADVP (RB financially))
+              (ADVP (RB well) (RB off)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Many))
+      (PP (IN of)
+        (NP (DT the) (JJ affluent))))
+    (VP (VBP are) (RB n't)
+      (ADJP (JJ comfortable)
+        (PP (IN with)
+          (NP (PRP themselves))))
+      (, ,)
+      (ADVP (RB either)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (QP (RB About) (CD 40))
+      (NN %))
+    (VP (VBP do) (RB n't)
+      (VP (VB feel)
+        (SBAR
+          (S
+            (NP (PRP they))
+            (VP (VBP 're)
+              (ADJP (RBR more) (JJ able)
+                (PP (IN than)
+                  (NP (NNS others)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN While)
+      (S
+        (NP (NNS twothirds))
+        (VP (VBP feel)
+          (NP (DT some) (NN guilt))
+          (PP (IN about)
+            (S
+              (VP (VBG being)
+                (ADJP (JJ affluent))))))))
+    (, ,)
+    (NP
+      (QP (RB only) (CD 25))
+      (NN %))
+    (VP (VBP give)
+      (NP
+        (NP
+          (QP ($ $) (CD 2,500)
+            (CC or)
+            (JJR more)))
+        (PP (TO to)
+          (NP (NN charity))))
+      (NP (DT each) (NN year)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (JJ Thirty-five) (NN percent))
+      (VP (VBP attend)
+        (NP (JJ religious) (NNS services))
+        (ADVP (RB regularly))))
+    (: ;)
+    (S
+      (PP (IN at)
+        (NP (DT the) (JJ same) (NN time)))
+      (, ,)
+      (NP (CD 60) (NN %))
+      (VP (VBP feel)
+        (SBAR (IN that)
+          (S
+            (PP (IN in)
+              (NP (NN life)))
+            (NP (PRP one))
+            (ADVP (RB sometimes))
+            (VP (VBZ has)
+              (S
+                (VP (TO to)
+                  (VP (VB compromise)
+                    (NP
+                      (NP (CD one) (POS 's))
+                      (NNS principles))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNPS Odds)
+        (CC and)
+        (NNPS Ends))
+      (PP
+        (NP (DT THE) (NN NUMBER))
+        (IN of)
+        (NP
+          (NP (NNS women)
+            (CC and)
+            (NNS minorities))
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBP hold)
+                (NP
+                  (NP (NNS jobs))
+                  (PP (IN in)
+                    (NP
+                      (NP (JJ top) (NN management))
+                      (PP (IN in)
+                        (NP
+                          (NP (DT the) (NN nation) (POS 's))
+                          (JJS largest) (NNS banks))))))))))))
+    (VP (VBZ has)
+      (ADVP (RBR more) (IN than))
+      (VP (VBN doubled)
+        (PP (IN since)
+          (NP (CD 1978)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNP American) (NNPS Bankers) (NNP Association))
+    (VP (VBZ says)
+      (SBAR (IN that)
+        (S
+          (NP (NNS women))
+          (VP (VBP make)
+            (PRT (RP up))
+            (NP
+              (NP (CD 47) (NN %))
+              (PP (IN of)
+                (NP
+                  (NP (NNS officials)
+                    (CC and)
+                    (NNS managers))
+                  (PP (IN in)
+                    (NP (DT the) (JJ top) (CD 50) (NNS banks))))))
+            (, ,)
+            (ADVP (RB up)
+              (PP (IN from)
+                (NP
+                  (NP (CD 33) (NN %))
+                  (PP (IN in)
+                    (NP (CD 1978))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN share))
+        (PP (IN of)
+          (NP
+            (NP (NNS minorities))
+            (PP (IN in)
+              (NP (DT those) (NNS positions))))))
+      (VP (VBZ has)
+        (VP (VBN risen)
+          (PP (TO to)
+            (NP
+              (NP (CD 16) (NN %))
+              (PP (IN from)
+                (NP (CD 12) (NN %))))))))
+    (: ...)
+    (S
+      (NP
+        (NP (JJ Per-capita) (JJ personal) (NN income))
+        (PP (IN in)
+          (NP (DT the) (NNP U.S.))))
+      (VP (VBD grew)
+        (ADVP (RBR faster))
+        (PP (IN than)
+          (NP (NN inflation)))
+        (NP (JJ last) (NN year))
+        (, ,)
+        (PP (VBG according)
+          (PP (TO to)
+            (NP
+              (NP (DT the) (NNP Bureau))
+              (PP (IN of)
+                (NP (NNP Economic) (NNP Analysis))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN amount))
+      (PP (IN of)
+        (NP
+          (NP (NN income))
+          (VP (VBN divvied)
+            (PRT (RP up))
+            (PP (IN for)
+              (NP (DT each) (NN man) (, ,) (NN woman)
+                (CC and)
+                (NN child)))))))
+    (VP (VBD was)
+      (NP
+        (NP ($ $) (CD 16,489))
+        (PP (IN in)
+          (NP (CD 1988))))
+      (, ,)
+      (ADVP (RB up)
+        (NP (CD 6.6) (NN %))
+        (PP (IN from)
+          (NP
+            (NP ($ $) (CD 15,472))
+            (PP (IN in)
+              (NP (CD 1987)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (ADJP (IN Per) (NN capita))
+        (JJ personal) (NN income))
+      (VP (VBD ranged)
+        (PP (IN from)
+          (NP
+            (NP ($ $) (CD 11,116))
+            (PP (IN in)
+              (NP (NNP Mississippi)))))
+        (PP (TO to)
+          (NP
+            (NP ($ $) (CD 23,059))
+            (PP (IN in)
+              (NP (NNP Connecticut)))))))
+    (: ...)
+    (S
+      (NP (EX There))
+      (VP (VBP are)
+        (NP
+          (QP (CD 13.1) (CD million))
+          (NNS students))
+        (PP (IN in)
+          (NP (NN college)))
+        (NP (DT this) (NN fall))
+        (, ,)
+        (ADVP (RB up)
+          (NP (CD 2) (NN %))
+          (PP (IN from)
+            (NP (CD 1988))))
+        (, ,)
+        (NP
+          (NP (DT the) (NNP National) (NNP Center))
+          (PP (IN for)
+            (NP (NNP Education) (NNP Statistics) (NNS estimates))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (QP (RB About) (CD 54))
+        (NN %))
+      (VP (VBP are)
+        (NP (NNS women))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (CD 44) (NN %))
+      (VP (VBP are)
+        (NP (JJ part-time) (NNS students))))
+    (. .)))
+

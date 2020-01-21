@@ -1,0 +1,304 @@
+(ROOT
+  (INTJ (UH .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP START) (NNP Financial) (NNP Corp.))
+      (PP (IN of)
+        (NP (NNP Santa) (NNP Barbara))))
+    (VP (VBD filed)
+      (NP (NN suit))
+      (PP (IN against)
+        (NP
+          (NP (JJ former) (NN stock) (NN speculator) (NNP Ivan) (NNP F.) (NNP Boesky))
+          (CC and)
+          (NP (NNP Drexel) (NNP Burnham) (NNP Lambert) (NNP Inc.))))
+      (, ,)
+      (S
+        (VP (VBG charging)
+          (SBAR
+            (S
+              (NP (PRP they))
+              (VP (VBD defrauded)
+                (NP (DT the) (NN thrift))
+                (PP (IN by)
+                  (S
+                    (VP (VBG concealing)
+                      (NP (PRP$ their) (NN relationship))
+                      (SBAR
+                        (WHADVP (WRB when))
+                        (S
+                          (VP (VBG persuading)
+                            (S
+                              (NP (PRP it))
+                              (VP (TO to)
+                                (VP (VB buy)
+                                  (NP
+                                    (NP
+                                      (QP ($ $) (CD 284) (CD million)))
+                                    (PP (IN in)
+                                      (NP (JJ high-yield) (, ,) (JJ high-risk) (NN junk) (NNS bonds)))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP
+        (NP (DT a) (NN suit))
+        (VP (VBN filed)
+          (PP (IN in)
+            (NP (JJ federal) (NN court)))
+          (NP (NNP Thursday)))))
+    (, ,)
+    (NP (DT the) (NN S&L))
+    (VP (VBD alleged)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT a) (`` ``) (JJ disproportionate) (NN number) ('' ''))
+            (PP (IN of)
+              (NP
+                (NP (DT the) (NNS bonds))
+                (SBAR
+                  (S
+                    (NP (PRP it))
+                    (VP (VBD purchased)
+                      (PP (IN in)
+                        (NP (CD 1984)))))))))
+          (VP (VBD declined)
+            (PP (IN in)
+              (NP (NN value)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Financial) (NNP Corp.))
+    (VP (VBD purchased)
+      (NP (DT the) (NNS bonds))
+      (PRN (, ,)
+        (S
+          (NP (DT the) (NN suit))
+          (VP (VBD alleged)))
+        (, ,))
+      (SBAR (IN after)
+        (S
+          (NP (NNP Mr.) (NNP Boesky)
+            (CC and)
+            (NNP Drexel))
+          (VP (VBD negotiated)
+            (NP (DT an) (NN agreement))
+            (PP (IN for)
+              (NP (NNP Vagabond) (NNPS Hotels)))
+            (S
+              (VP (TO to)
+                (VP (VB purchase)
+                  (NP
+                    (NP (DT a)
+                      (ADJP (CD 51) (NN %))
+                      (NN stake))
+                    (PP (IN in)
+                      (NP
+                        (NP (DT the) (NN thrift))
+                        (PP (IN for)
+                          (NP
+                            (QP (RB about) ($ $) (CD 34) (CD million))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Vagabond) (NNPS Hotels))
+    (VP (VBD was)
+      (VP (VBN controlled)
+        (PP (IN by)
+          (NP
+            (NP (NNP Mr.) (NNP Boesky))
+            (, ,)
+            (SBAR
+              (WHNP (WP who))
+              (S
+                (ADVP (RB currently))
+                (VP (VBZ is)
+                  (VP (VBG serving)
+                    (NP
+                      (NP (DT a) (NN prison) (NN term))
+                      (PP (IN for)
+                        (NP (NNS securities) (NNS violations))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNS Officials))
+      (PP (IN at)
+        (NP (NNP Drexel))))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP they))
+          (VP
+            (VP (VBD had) (RB n't)
+              (VP (VBN seen)
+                (NP (DT the) (NN suit))))
+            (CC and)
+            (VP
+              (ADVP (RB thus))
+              (MD could) (RB n't)
+              (VP (VB comment)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP
+        (NP (NN addition))
+        (PP (TO to)
+          (NP
+            (QP ($ $) (CD 33) (CD million))
+            (JJ compensatory) (NNS damages)))))
+    (, ,)
+    (NP (DT the) (NN suit))
+    (VP (VBZ seeks)
+      (NP
+        (NP
+          (QP ($ $) (CD 100) (CD million)))
+        (PP (IN in)
+          (NP (JJ punitive) (NNS damages)))))
+    (. .)))
+
+(ROOT
+  (SINV (RB Also)
+    (VP (VBN named)
+      (PP (IN in)
+        (NP (DT the) (NN suit))))
+    (VP (VBZ is))
+    (NP
+      (NP (NNP Ivan) (NNP F.) (NNP Boesky) (NNP Corp.)
+        (CC and)
+        (NNP Northview) (NNP Corp.))
+      (, ,)
+      (NP
+        (NP (DT the) (NN successor) (NN company))
+        (PP (TO to)
+          (NP (NNP Vagabonds) (NNPS Hotels)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Northview) (NNS officials))
+    (VP (MD could) (RB n't)
+      (VP (VB be)
+        (VP (VBN located))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Financial) (NNP Corp.))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD agreed)
+            (S
+              (VP (TO to)
+                (VP (VB buy)
+                  (NP (DT the) (NNS bonds))
+                  (SBAR (IN after)
+                    (S
+                      (NP
+                        (NP (DT a) (NN representative))
+                        (PP (IN of)
+                          (NP (NNP Ivan) (NNP F.) (NNP Boesky) (NNP Corp.))))
+                      (VP
+                        (VP (VBD visited)
+                          (NP (PRP it))
+                          (PP (IN in)
+                            (NP (NNP November) (CD 1983))))
+                        (CC and)
+                        (VP (VBD said)
+                          (SBAR
+                            (S
+                              (NP (NNP Financial) (NNP Corp.))
+                              (VP (MD could)
+                                (VP (VB improve)
+                                  (NP (PRP$ its) (JJ financial) (NN condition))
+                                  (PP (IN by)
+                                    (S
+                                      (VP (VBG purchasing)
+                                        (NP (DT the) (NNS bonds))))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB Shortly) (IN before)
+      (NP (DT the) (NN visit)))
+    (, ,)
+    (NP (NNP Mr.) (NNP Boesky)
+      (CC and)
+      (NNP Drexel) (NNS representives))
+    (VP
+      (VP (VBD had)
+        (VP (VBN met)
+          (PP (IN with)
+            (NP (NNP Financial) (NNP Corp.) (NNS officials)))))
+      (CC and)
+      (VP (VBD had)
+        (VP (VBN signed)
+          (NP
+            (NP (DT a) (NN letter))
+            (PP (IN of)
+              (NP (NN intent))))
+          (S
+            (VP (TO to)
+              (VP (VB acquire)
+                (NP
+                  (NP (DT the)
+                    (ADJP (CD 51) (NN %))
+                    (NN stake))
+                  (PP (IN in)
+                    (NP (DT the) (NN company))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB However))
+    (, ,)
+    (NP (DT the) (NN agreement))
+    (VP (VBD was)
+      (VP (VBN canceled)
+        (PP (IN in)
+          (NP (NNP June) (CD 1984)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Financial) (NNP Corp.))
+      (VP (VBD purchased)
+        (NP (DT the) (NNS bonds))
+        (PP (IN in)
+          (NP
+            (NP
+              (QP (IN at) (JJS least) (CD 70))
+              (JJ different) (NNS transactions))
+            (PP (IN in)
+              (NP (CD 1984)))))))
+    (CC and)
+    (S
+      (SBAR (IN since)
+        (S
+          (ADVP (RB then))
+          (VP (VBZ has)
+            (VP (VBN realized)
+              (NP
+                (NP
+                  (QP ($ $) (CD 11) (CD million)))
+                (PP (IN in)
+                  (NP (NNS losses))))
+              (PP (IN on)
+                (NP (PRP them)))))))
+      (, ,)
+      (NP (DT the) (NN company))
+      (VP (VBD said)))
+    (. .)))
+

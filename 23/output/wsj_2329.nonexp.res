@@ -1,0 +1,2 @@
+EntRel||||||||||||||||||||||622..713|4|Ideal 's directors rejected that offer , although they said they endorsed the merger proposal .||||||||717..781|5|Under the agreement , HOFI will own 87.2 % of the combined company .|||||||||||||
+EntRel||||||||||||||||||||||783..860|6|Ideal 's current operations will represent about 39.2 % of the combined company .||||||||864..951|7|The transaction is subject to a definitive agreement and approval by Ideal shareholders .|||||||||||||

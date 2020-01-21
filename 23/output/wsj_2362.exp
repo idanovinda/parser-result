@@ -1,0 +1,11 @@
+conn_lc:and conn:and conn_POS:CC with_prev_full:,_and xxx£
+conn_lc:but conn:But conn_POS:CC xxx£
+conn_lc:but conn:But conn_POS:CC xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:gec_and xxx£
+conn_lc:also conn:Also conn_POS:RB xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:,_and xxx£
+conn_lc:however conn:however conn_POS:RB with_prev_full:,_however xxx£
+conn_lc:consequently conn:consequently conn_POS:RB with_prev_full:might_consequently xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:;_and xxx£
+conn_lc:for_instance conn:for_instance conn_POS:IN_NN with_prev_full:;_for_instance xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:,_and xxx£

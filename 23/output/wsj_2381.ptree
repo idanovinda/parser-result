@@ -1,0 +1,995 @@
+(ROOT
+  (INTJ (UH .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP START) (NNP Pension) (NNS funds))
+      (, ,)
+      (NP (NNS insurers))
+      (CC and)
+      (NP
+        (NP (JJ other) (NNS behemoths))
+        (PP (IN of)
+          (NP (DT the) (NN investing) (NN world)))))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP they))
+          (VP (VBD began)
+            (S
+              (VP (VBG scooping)
+                (PRT (RP up))
+                (NP (NNS stocks))
+                (PP (IN during)
+                  (NP
+                    (NP (NNP Friday) (POS 's))
+                    (NN market) (NN rout)))))))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP (PRP they))
+    (VP (VBP plan)
+      (S
+        (VP (TO to)
+          (VP (VB buy)
+            (NP (JJR more) (NN today))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP
+        (ADVP (RB Rightly))
+        (CC or)
+        (ADVP (RB wrongly)))
+      (, ,)
+      (NP (JJ many) (JJ giant) (JJ institutional) (NNS investors))
+      (VP (VBP appear)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (VP (VBG fighting)
+                (NP (DT the) (JJS latest) (NN war))
+                (PP (IN by)
+                  (S
+                    (VP (VBG applying)
+                      (NP
+                        (NP (DT the) (NN lesson))
+                        (SBAR
+                          (S
+                            (NP (PRP they))
+                            (VP (VBD learned)
+                              (PP (IN in)
+                                (NP (DT the) (NNP October) (CD 1987) (NN crash))))))))))))))))
+    (: :)
+    (S
+      (NP
+        (NP (NN Buying))
+        (PP (IN at)
+          (NP (DT the) (NN bottom))))
+      (VP (VBZ pays)
+        (PRT (RP off))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (TO To)
+        (VP (VB be)
+          (ADJP (JJ sure)))))
+    (, ,)
+    (NP (JJ big) (NNS investors))
+    (VP (MD might)
+      (VP (VB put)
+        (PRT (RP away))
+        (NP (PRP$ their) (NNS checkbooks))
+        (PP (IN in)
+          (NP (DT a) (NN hurry)))
+        (SBAR (IN if)
+          (S
+            (NP (NNS stocks))
+            (VP (VBP open)
+              (ADJP (RB sharply) (JJR lower))
+              (NP (NN today)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (MD could)
+      (ADVP (RB still))
+      (VP
+        (VP (VB panic))
+        (CC and)
+        (VP (VB bail)
+          (PRT (RP out))
+          (PP (IN of)
+            (NP (DT the) (NN market))))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (NP (PRP$ their) (CD 1987) (NN performance))
+    (VP (VBZ indicates)
+      (SBAR (IN that)
+        (S
+          (NP (PRP they))
+          (VP (MD wo) (RB n't)
+            (VP (VB abandon)
+              (NP (NNS stocks))
+              (SBAR (IN unless)
+                (S
+                  (NP (NNS conditions))
+                  (VP (VBP get)
+                    (ADJP (RB far) (JJR worse))))))))))
+    (. .)))
+
+(ROOT
+  (SINV (`` ``)
+    (S
+      (NP (JJ Last) (NN time))
+      (, ,)
+      (NP (PRP we))
+      (VP (VBD got)
+        (VP (VBN rewarded)
+          (PP (IN for)
+            (S
+              (VP
+                (VP (VBG going)
+                  (PRT (RP out)))
+                (CC and)
+                (VP (VBG buying)
+                  (NP (NNS stocks))
+                  (SBAR
+                    (WHADVP (WRB when))
+                    (S
+                      (NP (DT the) (NN panic))
+                      (VP (VBD was)
+                        (NP (DT the) (JJS worst))))))))))))
+    (, ,) ('' '')
+    (VP (VBD said))
+    (NP
+      (NP (NNP John) (NNP W.) (NNP Rogers))
+      (, ,)
+      (NP
+        (NP (NN president))
+        (PP (IN of)
+          (NP (JJ Chicago-based) (NNP Ariel) (NNP Capital) (NNP Management) (NNP Inc.))))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBZ manages)
+            (NP
+              (NP
+                (QP ($ $) (CD 1.1) (CD billion)))
+              (PP (IN of)
+                (NP (NNS stocks))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Mr.) (NNP Rogers))
+    (VP (VBD spent)
+      (NP (PDT half) (PRP$ his) (NN cash))
+      (PP (IN on)
+        (NP (NN hand)))
+      (NP (NNP Friday))
+      (PP (IN for) (`` ``)
+        (NP
+          (NP (PRP$ our) (JJ favorite) (NNS stocks))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBP have)
+                (VP (VBN fallen)
+                  (ADVP (RB apart)))))))))
+    (. .) ('' '')))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBZ expects)
+      (S
+        (VP (TO to)
+          (VP (VB invest)
+            (NP (DT the) (NN rest))
+            (SBAR (IN if)
+              (S
+                (NP (DT the) (NN market))
+                (VP (VBZ weakens)
+                  (ADVP (RBR further)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Denver-based) (NN portfolio) (NN manager) (NNP James) (NNP Craig))
+    (VP (VBD was) (RB n't)
+      (VP (VBN daunted)
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP
+              (NP (NNP Friday) (POS 's))
+              (NN rout))
+            (VP (VBD shaved)
+              (NP
+                (QP ($ $) (CD 40) (CD million)))
+              (PP (IN from)
+                (NP
+                  (NP (DT the) (NN value))
+                  (PP (IN of)
+                    (NP
+                      (NP (DT the)
+                        (ADJP
+                          (QP ($ $) (CD 752) (CD million)))
+                        (NNP Janus) (NN Fund))
+                      (SBAR
+                        (S
+                          (NP (PRP he))
+                          (VP (VBZ oversees)))))))))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (PRP I))
+      (VP (VBD waited)
+        (S
+          (VP (TO to)
+            (VP (VB make)
+              (ADJP (JJ sure)
+                (SBAR
+                  (S
+                    (NP (PDT all) (DT the) (NN program) (NNS trades))
+                    (VP (VBD had)
+                      (VP (VBN kicked)
+                        (PP (IN through))))))))))))
+    (, ,) ('' '')
+    (NP (PRP he))
+    (VP (VBD said))
+    (. .)))
+
+(ROOT
+  (S (RB Then)
+    (NP (PRP he))
+    (VP (VBD jumped)
+      (PP (IN into)
+        (NP (DT the) (NN market)))
+      (: :) (`` ``)
+      (S
+        (NP (PRP I))
+        (VP (VBN spent)
+          (NP
+            (QP ($ $) (CD 30) (CD million)))
+          (PP (IN in)
+            (NP (DT the) (JJ last) (NN half-hour))))))
+    (. .) ('' '')))
+
+(ROOT
+  (S
+    (NP (JJ Other) (NN money) (NNS managers))
+    (ADVP (RB also))
+    (VP (VBD opened)
+      (NP (PRP$ their) (NNS wallets)))
+    (. .)))
+
+(ROOT
+  (SINV (`` ``)
+    (S
+      (S
+        (NP (PRP I))
+        (VP (VBD was)
+          (VP (VBG buying)
+            (PP (IN at)
+              (NP
+                (NP (DT the) (NN close))
+                (PRN (-LRB- -LRB-)
+                  (NP (NNP Friday))
+                  (-RRB- -RRB-)))))))
+      (CC and)
+      (S
+        (NP (PRP I))
+        (VP (MD 'll)
+          (VP (VB be)
+            (VP (VBG buying)
+              (ADVP (RB again))
+              (SBAR (IN because)
+                (S
+                  (NP (PRP I))
+                  (VP (VBP know)
+                    (SBAR
+                      (S
+                        (NP (PRP we))
+                        (VP (VBP 're)
+                          (VP (VBG getting)
+                            (NP (JJ good) (NN value))))))))))))))
+    (, ,) ('' '')
+    (VP (VBD said)
+      (NP
+        (NP (NNP Frederick) (NNP A.) (NNP Moran))
+        (, ,)
+        (NP
+          (NP (NN president))
+          (PP (IN of)
+            (NP (NNP Moran) (NNP Asset))))))
+    (NP (NNP Management) (NNP Inc.)
+      (PRN (, ,)
+        (NP (NNP Greenwich))
+        (, ,))
+      (NNP Conn.))
+    (`` ``)
+    (S
+      (NP (EX There))
+      (VP (VBZ is)
+        (NP
+          (NP (DT no) (NN justification))
+          (PP (IN on)
+            (NP
+              (NP (DT the) (JJ fundamental) (NN level))
+              (PP (IN for)
+                (NP (DT this) (NN crash))))))))
+    (. .) ('' '')))
+
+(ROOT
+  (S
+    (PP (IN Unlike)
+      (NP
+        (NP (JJ mutual) (NNS funds))
+        (, ,)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (MD can)
+              (VP (VB be)
+                (VP (VBN forced)
+                  (S
+                    (VP (TO to)
+                      (VP (VB sell)
+                        (NP (NNS stockholdings))
+                        (SBAR
+                          (WHADVP (WRB when))
+                          (S
+                            (NP (NNS investors))
+                            (VP (VBP rush)
+                              (S
+                                (VP (TO to)
+                                  (VP (VB withdraw)
+                                    (NP (NN money))))))))))))))))))
+    (, ,)
+    (NP
+      (NP (JJ big) (NNS investors))
+      (PP (JJ such) (IN as)
+        (NP (NN pension) (NNS funds)
+          (CC and)
+          (NN insurance) (NNS companies))))
+    (VP (MD can)
+      (VP (VB decide)
+        (S
+          (VP (TO to)
+            (VP (VB ride)
+              (PRT (RP out))
+              (NP (NN market) (NNS storms))
+              (PP (IN without)
+                (S
+                  (VP (VBG jettisoning)
+                    (NP (NN stock))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RBS Most) (RB often))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBP do)
+      (ADVP
+        (ADVP (RB just) (RB that))
+        (, ,)
+        (SBAR (IN because)
+          (S
+            (NP (NNS stocks))
+            (VP (VBP have)
+              (VP (VBN proved)
+                (S
+                  (VP (TO to)
+                    (VP (VB be)
+                      (NP (DT the) (JJ best-performing) (JJ long-term) (NN investment))))))))))
+      (, ,)
+      (S
+        (VP (VBG attracting)
+          (NP
+            (NP
+              (QP (RB about) ($ $) (CD 1) (CD trillion)))
+            (PP (IN from)
+              (NP (NN pension) (NNS funds))))
+          (ADVP (RB alone)))))
+    (. .)))
+
+(ROOT
+  (SINV (`` ``)
+    (S
+      (SBAR (IN If)
+        (S
+          (NP (PRP you))
+          (VP (VBD bought)
+            (PP (IN after)
+              (NP (DT the) (NN crash))))))
+      (, ,)
+      (NP (PRP you))
+      (VP (VBD did)
+        (ADVP (RB very) (RB very) (RB well))
+        (PP (IN off)
+          (NP (DT the) (NN bottom)))))
+    (, ,) ('' '')
+    (VP (VBD said))
+    (NP
+      (NP (NNP Stephen) (NNP B.) (NNP Timbers))
+      (, ,)
+      (NP
+        (NP (JJ chief) (NN investment) (NN officer))
+        (PP (IN of)
+          (NP (JJ Chicago-based) (NNP Kemper) (NNP Financial) (NNPS Services) (NNP Inc.)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The)
+      (ADJP
+        (QP ($ $) (CD 56) (CD billion)))
+      (NNP California) (NNP Public) (NNP Employees) (NNP Retirement) (NNP System) (, ,)
+      (PP (IN for)
+        (NP (CD one)))
+      (, ,))
+    (VP (VBD added)
+      (NP
+        (QP ($ $) (CD 1) (CD billion)))
+      (PP (TO to)
+        (NP
+          (NP (PRP$ its) (NN stock) (NN portfolio))
+          (ADVP
+            (NP (CD two) (NNS years))
+            (RB ago)))))
+    (. .)))
+
+(X (X ``) (X The) (X last) (X crash) (X taught) (X institutional) (X investors) (X that) (X they) (X have) (X to) (X be) (X long-term) (X holders) (X ,) (X and) (X that) (X they) (X ca) (X n't) (X react) (X to) (X short-term) (X events) (X ,) (X good) (X or) (X bad) (X ,) (X '') (X said) (X Stephen) (X L.) (X Nesbitt) (X ,) (X senior) (X vice) (X president) (X for) (X the) (X pension) (X consultants) (X Wilshire) (X Associates) (X in) (X Santa) (X Monica) (X ,) (X Calif.) (X ``) (X Those) (X that) (X pulled) (X out) (X -LRB-) (X of) (X stocks) (X -RRB-) (X regretted) (X it) (X ,) (X '') (X he) (X said) (X ,) (X ``) (X so) (X I) (X doubt) (X you) (X 'll) (X see) (X any) (X significant) (X changes) (X '') (X in) (X institutional) (X portfolios) (X as) (X a) (X result) (X of) (X Friday) (X 's) (X decline) (X .))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNS Stocks))
+      (, ,)
+      (SBAR (IN as)
+        (S
+          (VP (VBN measured)
+            (PP (IN by)
+              (NP
+                (NP (DT the) (NNP Standard)
+                  (CC &)
+                  (NNP Poor) (POS 's))
+                (JJ 500-stock) (NN index))))))
+      (, ,))
+    (VP (VBP have)
+      (VP (VBN been)
+        (NP
+          (NP (JJ stellar) (NNS performers))
+          (NP (DT this) (NN year)))
+        (, ,)
+        (S
+          (VP (VBG rising)
+            (NP (CD 27.97) (NN %))
+            (PP (IN before)
+              (NP
+                (NP
+                  (NP (NNP Friday) (POS 's))
+                  (NN plunge))
+                (, ,)
+                (PP (VBG excluding)
+                  (NP (NNS dividends)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (RB Even) (NNP Friday) (POS 's))
+      (NN slump))
+    (VP (VBZ leaves)
+      (NP (NNS investors))
+      (ADVP (RB ahead)
+        (NP
+          (QP (JJR more) (IN than) (CD 20))
+          (NN %)))
+      (, ,)
+      (ADVP (RB well))
+      (PP (IN above)
+        (NP
+          (NP (DT the) (JJ annual) (NN average))
+          (PP (IN for)
+            (NP
+              (NP (NNS stocks))
+              (PP (IN over)
+                (NP (JJ several) (NNS decades))))))))
+    (. .)))
+
+(ROOT
+  (SINV (`` ``)
+    (S
+      (NP (PRP You))
+      (VP (MD could)
+        (VP
+          (VP (VB go)
+            (PRT (RP down))
+            (NP (CD 400) (NNS points)))
+          (CC and)
+          (ADVP (RB still))
+          (VP (VB have)
+            (NP
+              (NP (DT a) (JJ good) (NN year))
+              (PP (IN in)
+                (NP (DT the) (NN market))))))))
+    (, ,) ('' '')
+    (VP (VBD said))
+    (NP
+      (NP (NNP James) (NNP D.) (NNP Awad))
+      (, ,)
+      (NP
+        (NP (NN president))
+        (PP (IN of)
+          (NP
+            (ADJP (NNP New) (JJ York-based))
+            (NNP BMI) (NNP Capital) (NNP Corp.)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Mr.) (NNP Awad))
+    (, ,)
+    (ADVP (RB however))
+    (, ,)
+    (VP (VBZ worries)
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (NN market))
+          (`` ``)
+          (VP (MD could)
+            (VP (VB go)
+              (PRT (RP down))
+              (NP
+                (NP
+                  (QP (CD 800)
+                    (CC or)
+                    (CD 900))
+                  (NNS points))
+                (PP (IN in)
+                  (NP (DT the) (JJ next) (JJ few) (NNS days)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (MD can)
+      (VP (VB happen)
+        (SBAR (IN before)
+          (S
+            (NP (PRP you))
+            (VP (MD can)
+              (VP (VB turn)
+                (PRT (RP around))))))))
+    (. .) ('' '')))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP he))
+          (VP (VBZ discerns)
+            (NP
+              (NP (JJ many) (NNS parallels))
+              (PP (IN with)
+                (NP (CD 1987)))
+              (, ,)
+              (PP (VBG including)
+                (NP
+                  (NP
+                    (NP (DT the) (NN emphasis))
+                    (PP (IN on)
+                      (NP (NN takeover) (NNS stocks))))
+                  (CC and)
+                  (NP
+                    (NP (DT the) (NN re-emergence))
+                    (PP (IN of)
+                      (NP (JJ computerized) (NN program) (NN trading)))))))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (NP
+      (NP (DT The) (JJ only) (NN thing))
+      (SBAR
+        (S
+          (NP (PRP you))
+          (VP (VBP do) (RB n't)
+            (VP (VB have))))))
+    (PRN (, ,) ('' '')
+      (S
+        (NP (PRP he))
+        (VP (VBD said)))
+      (, ,))
+    (`` ``)
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (`` `) (NN portfolio) (NN insurance) ('' ') (NN phenomenon))
+        (VP (VBN overlaid)
+          (PP (IN on)
+            (NP (DT the) (NN rest))))))
+    (. .) ('' '')))
+
+(ROOT
+  (S
+    (NP (JJS Most) (JJ institutional) (NNS investors))
+    (VP (VBP have)
+      (VP (VBN abandoned)
+        (NP
+          (NP (DT the) (NN portfolio) (NN insurance) (NN hedging) (NN technique))
+          (, ,)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBZ is)
+                (ADVP (RB widely))
+                (VP (VBN thought)
+                  (S
+                    (VP (TO to)
+                      (VP (VB have)
+                        (VP (VBN worsened)
+                          (NP (DT the) (CD 1987) (NN crash)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB Not)
+      (NP (RB really) (NN insurance)))
+    (, ,)
+    (NP (DT this) (NN tactic))
+    (VP (VBD was)
+      (VP (VBN designed)
+        (S
+          (VP (TO to)
+            (VP
+              (VP (VB soften)
+                (NP
+                  (NP (DT the) (NN blow))
+                  (PP (IN of)
+                    (NP (VBG declining) (NN stock) (NNS prices)))))
+              (CC and)
+              (VP (VB generate)
+                (NP (DT an) (VBG offsetting) (NN profit))
+                (PP (IN by)
+                  (S
+                    (VP (VBG selling)
+                      (NP
+                        (NP (NNS waves))
+                        (PP (IN of)
+                          (NP (NNP S&P) (NNS futures) (NNS contracts)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (PRP$ its) (JJ severest) (NN test)))
+    (, ,)
+    (NP
+      (NP (DT the)
+        (QP ($ $) (CD 60) (CD billion)))
+      (PP (IN of)
+        (NP
+          (NP (NN portfolio) (NN insurance))
+          (PP (IN in)
+            (NP
+              (NP (NN effect))
+              (PP (IN in)
+                (NP (DT the) (CD 1987) (NN crash))))))))
+    (VP (VBD did) (RB n't)
+      (VP (VB work) (, ,)
+        (SBAR (IN as)
+          (S
+            (S
+              (NP (NN stock) (NNS buyers))
+              (VP (VBD disappeared)))
+            (CC and)
+            (S
+              (NP (NN stock)
+                (CC and)
+                (NNS futures) (NNS prices))
+              (VP (VBD became)
+                (VP (VBN disconnected))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (RB Even)
+      (S
+        (PP (IN without)
+          (NP (NN portfolio) (NN insurance)))
+        (, ,)
+        (NP (NN market) (NNS conditions))
+        (VP (VBD were)
+          (ADJP (JJ grim))
+          (NP (NNP Friday)))))
+    (, ,)
+    (NP (NN money) (NNS managers))
+    (VP (VBD said))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Neil) (NNP Weisman))
+      (, ,)
+      (SBAR (WP$ whose)
+        (S
+          (NP
+            (ADJP (NNP New) (JJ York-based))
+            (NNP Chilmark) (NNP Capital) (NNP Partners))
+          (VP (VBD had)
+            (VP (VBN converted)
+              (NP
+                (NP (CD 85) (NN %))
+                (PP (IN of)
+                  (NP (PRP$ its)
+                    (ADJP
+                      (QP ($ $) (CD 220) (CD million)))
+                    (NN investment) (NN pool))))
+              (PP (TO to)
+                (NP (NN cash)))
+              (PP (IN in)
+                (NP (JJ recent) (NNS months)))))))
+      (, ,))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP he))
+          (VP (VBD was)
+            (VP (VBN besieged)
+              (PP (IN by)
+                (NP
+                  (NP (NNP Wall) (NNP Street) (NNS firms))
+                  (NP (NNP Friday))))
+              (S
+                (VP (VBG asking)
+                  (S
+                    (NP (PRP him))
+                    (VP (TO to)
+                      (VP (VB take)
+                        (NP (NN stock))
+                        (PP (IN off)
+                          (NP (PRP$ their) (NNS hands)))))))))))))
+    (. .)))
+
+(ROOT
+  (SINV (`` ``)
+    (S
+      (NP (PRP We))
+      (VP (VBD got)
+        (NP (NNS calls))
+        (PP (IN from)
+          (NP (JJ big) (NN block) (NNS houses)))
+        (S
+          (VP (VBG asking)
+            (NP (PRP us))
+            (SBAR (IN if)
+              (S
+                (NP (PRP we))
+                (VP (VBP want)
+                  (S
+                    (VP (TO to)
+                      (VP (VB make)
+                        (NP (NNS bids))
+                        (PP (IN on)
+                          (NP (NN anything)))))))))))))
+    (, ,) ('' '')
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (NNP Mr.) (NNP Weisman))
+            (, ,)
+            (SBAR
+              (WHNP (WP who))
+              (, ,)
+              (S
+                (ADJP (JJ happy)
+                  (PP (IN with)
+                    (NP (PRP$ his) (NNS returns))))
+                (PP (IN on)
+                  (NP
+                    (NP (NNS investments))
+                    (VP (VBN chalked)
+                      (ADVP (RB up) (RBR earlier)))))))
+            (, ,))
+          (VP (VBD declined)))))
+    (NP (DT the) (NNS offers))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Mr.) (NNP Weisman))
+    (VP (VBZ predicts)
+      (SBAR
+        (S
+          (NP (NNS stocks))
+          (VP (MD will)
+            (VP (VB appear)
+              (S
+                (VP (TO to)
+                  (VP (VB stabilize)
+                    (PP (IN in)
+                      (NP (DT the) (JJ next) (JJ few) (NNS days)))
+                    (PP (IN before)
+                      (S
+                        (VP
+                          (VP (VBG declining)
+                            (ADVP (RB again)))
+                          (, ,)
+                          (VP (VBG trapping)
+                            (NP (JJR more) (NNS investors))))))))))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (PRP I))
+      (VP (VBP think)
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP (MD will)
+              (VP (VB be)
+                (NP (DT a) (NN rigor) (NNS mortis) (NN rally))))))))
+    (, ,) ('' '')
+    (NP (PRP he))
+    (VP (VBD said))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Meanwhile))
+    (, ,)
+    (NP (NNP Friday))
+    (VP (VBD brought)
+      (NP
+        (NP (DT a) (NN reprieve))
+        (PP (IN for)
+          (NP (NN money) (NNS managers)))
+        (SBAR
+          (WHNP (WP$ whose)
+            (NX (NN investment) (NNS styles)))
+          (S
+            (VP (VBD had)
+              (VP (VBN put)
+                (NP (PRP them))
+                (PP (IN at)
+                  (NP
+                    (NP (NNS odds))
+                    (PP (IN with)
+                      (NP (DT the) (NN market) (NN rally)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (RB Especially) (JJ gleeful))
+    (VP (VBD were)
+      (NP
+        (NP (DT the) (JJ short) (NNS sellers))
+        (, ,)
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBP have)
+              (VP (VBN been)
+                (VP (VBN pounded)
+                  (PP (IN by)
+                    (NP
+                      (NP (DT this) (NN year) (POS 's))
+                      (NN market) (NN climb))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS shorts))
+    (VP (VBP sell)
+      (NP (VBN borrowed) (NNS shares))
+      (, ,)
+      (S
+        (VP (VBG hoping)
+          (S
+            (VP (TO to)
+              (VP (VB profit)
+                (PP (IN by)
+                  (S
+                    (VP (VBG replacing)
+                      (NP (PRP them))
+                      (ADVP (RB later))
+                      (PP (IN at)
+                        (NP (DT a) (JJR lower) (NN price))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN nation) (POS 's))
+      (JJS largest) (NN short-selling) (NN operation))
+    (VP (VBZ is)
+      (NP
+        (NP (NNP Feshbach) (NNPS Brothers))
+        (, ,)
+        (NP (NNP Palo) (NNP Alto))
+        (, ,)
+        (NP (NNP Calif.))
+        (, ,)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBD said)
+              (NP (JJ last) (NNP May))
+              (SBAR (IN that)
+                (S
+                  (NP (PRP$ its) (JJ short) (NNS positions))
+                  (VP (VBD had)
+                    (VP (VBN shown)
+                      (NP
+                        (NP (NNS losses))
+                        (PP (IN of)
+                          (NP
+                            (NP (CD 10) (NN %))
+                            (PP (IN for)
+                              (NP (DT the) (NN year))))))
+                      (ADVP (RB up)
+                        (PP (TO to)
+                          (NP (DT that) (NN point)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PDT All) (DT that))
+    (ADVP (RB now))
+    (VP (VBZ has)
+      (VP (VBN changed)))
+    (. .)))
+
+(ROOT
+  (SINV (`` ``)
+    (S
+      (NP (PRP We))
+      (VP (VBP 're)
+        (ADVP (RB ahead))
+        (PP (IN for)
+          (NP
+            (NP (DT the) (NN year))
+            (PP (RB because) (IN of)
+              (NP (NNP Friday)))))))
+    (, ,) ('' '')
+    (VP (VBD said))
+    (NP
+      (NP (DT the) (NN firm) (POS 's))
+      (NNP Kurt) (NNP Feshbach))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (PRP We))
+      (VP (VBP 're) (RB not)
+        (VP (VBG making)
+          (NP (DT a) (NN killing)))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP we))
+      (VP (VBD had)
+        (NP (DT a) (JJ good) (NN day))))
+    (. .) ('' '')))
+

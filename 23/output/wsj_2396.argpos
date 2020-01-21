@@ -1,0 +1,4 @@
+conn:and conn_POS:CC prev1:revenue prev1_POS:NN with_prev1_full:revenue_and with_prev1_POS_full:NN_CC prev2:higher prev2_POS:JJR with_prev2_full:higher_and with_prev2_POS_full:JJR_CC NA
+conn:if conn_POS:IN prev1:disappointed prev1_POS:VBN with_prev1_full:disappointed_if with_prev1_POS_full:VBN_IN prev2:be prev2_POS:VB with_prev2_full:be_if with_prev2_POS_full:VB_IN NA
+conn:But conn_POS:CC sent_pos:0 NA
+conn:Nevertheless conn_POS:RB sent_pos:0 NA

@@ -1,0 +1,757 @@
+(ROOT
+  (INTJ (UH .)))
+
+(ROOT
+  (S
+    (PP
+      (NP (NNP START))
+      (IN With)
+      (NP
+        (NP (JJ economic) (NN tension))
+        (PP (IN between)
+          (NP (DT the) (NNP U.S.)
+            (CC and)
+            (NNP Japan) (NNP worsening)))))
+    (, ,)
+    (NP (JJ many) (NNPS Japanese))
+    (VP (VBD had)
+      (VP (VBN feared)
+        (NP
+          (NP (JJ last) (NN week) (POS 's))
+          (NN visit))
+        (PP (IN from)
+          (NP (NNP U.S.) (NNP Trade) (NNP Representative) (NNP Carla) (NNP Hills)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBD expected)
+        (NP
+          (NP (DT a) (JJ new) (NN barrage))
+          (PP (IN of)
+            (NP (NNS demands))))
+        (SBAR (IN that)
+          (S
+            (NP (NNP Japan))
+            (VP (VBP do)
+              (NP (NN something))
+              (S
+                (ADVP (RB quickly))
+                (VP (TO to)
+                  (VP (VB reduce)
+                    (NP (PRP$ its) (NN trade) (NN surplus))
+                    (PP (IN with)
+                      (NP (DT the) (NNP U.S.)))
+                    (ADVP (RB Instead))))))))))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBD got)
+      (NP
+        (NP (DT a) (NN discussion))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN need))
+            (PP (IN for)
+              (NP (DT the) (NNP U.S.)
+                (CC and)
+                (NNP Japan))))))
+      (S
+        (VP (TO to)
+          (VP (VB work)
+            (UCP
+              (ADVP (RB together))
+              (CC and)
+              (PP (IN of)
+                (NP
+                  (NP (DT the) (NN importance))
+                  (PP (IN of)
+                    (NP (DT the) (JJ long-term) (NN view))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (NNP Mrs.) (NNP Hills) (POS '))
+        (JJ first) (NN trip))
+      (PP (TO to)
+        (NP
+          (NP (NNP Japan))
+          (PP (IN as)
+            (NP
+              (NP (NNP America) (POS 's))
+              (JJ chief) (NN trade) (NN negotiator))))))
+    (VP (VBD had)
+      (NP (DT a)
+        (ADJP (RB completely) (JJ different))
+        (NN tone))
+      (PP (IN from)
+        (NP
+          (NP (JJ last) (NN month) (POS 's))
+          (NN visit)))
+      (PP (IN by)
+        (NP (NNP Commerce) (NNP Secretary) (NNP Robert) (NNP A.) (NNP Mosbacher))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Mr.) (NNP Mosbacher))
+    (VP (VBD called)
+      (PP (IN for)
+        (NP (JJ concrete) (NNS results)))
+      (PP (IN by)
+        (NP (JJ next) (NN spring)))
+      (PP (IN in)
+        (NP
+          (NP (NNS negotiations))
+          (PP (IN over)
+            (NP
+              (NP (JJ fundamental) (JJ Japanese) (NN business) (NNS practices))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (ADVP (RB supposedly))
+                  (VP (VBP inhibit)
+                    (NP (JJ free) (NN trade))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (JJ such) (NNS results))
+          (VP (MD should)
+            (VP (VB be) (`` ``)
+              (ADJP (JJ measurable)
+                (PP (IN in)
+                  (NP (NNS dollars)
+                    (CC and)
+                    (NNS cents))))
+              ('' '')
+              (PP (IN in)
+                (S
+                  (VP (VBG reducing)
+                    (NP (DT the) (NNP U.S.) (NN trade) (NN deficit))
+                    (PP (IN with)
+                      (NP (NNP Japan)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S (CC But)
+      (NP
+        (NP (NNP Mrs.) (NNP Hills))
+        (, ,)
+        (VP (VBG speaking)
+          (PP (IN at)
+            (NP
+              (NP (DT a) (NN breakfast) (NN meeting))
+              (PP (IN of)
+                (NP
+                  (NP (DT the) (NNP American) (NNP Chamber))
+                  (PP (IN of)
+                    (NP (NNP Commerce)))))))
+          (PP (IN in)
+            (NP
+              (NP (NNP Japan))
+              (PP (IN on)
+                (NP (NNP Saturday))))))
+        (, ,))
+      (VP (VBD stressed)
+        (SBAR (IN that)
+          (S
+            (NP (DT the) (NN objective))
+            (`` ``)
+            (VP (VBZ is) (RB not)
+              (S
+                (VP (TO to)
+                  (VP (VB get)
+                    (NP (JJ definitive) (NN action))
+                    (PP (IN by)
+                      (NP (NN spring)
+                        (CC or)
+                        (NN summer)))))))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADJP (RB rather)
+        (S
+          (VP (TO to)
+            (VP (VB have)
+              (NP
+                (NP (DT a) (NN blueprint))
+                (PP (IN for)
+                  (NP (NN action)))))))))
+    (. .) ('' '')))
+
+(ROOT
+  (S
+    (NP (PRP She))
+    (VP (VBD added)
+      (SBAR (IN that)
+        (S
+          (NP (PRP she))
+          (VP
+            (VP (VBD expected) (`` ``)
+              (ADVP (RB perhaps))
+              (S
+                (VP (TO to)
+                  (VP (VB have)
+                    (NP (DT a) (JJ down) (NN payment))))))
+            (: ...)
+            (NP (DT some) (JJ small) (NN step)
+              (S
+                (VP (TO to)
+                  (VP (VB convince)
+                    (NP
+                      (NP (DT the) (JJ American) (NNS people))
+                      (CC and)
+                      (NP (DT the) (JJ Japanese) (NNS people)))
+                    (SBAR (IN that)
+                      (S
+                        (NP (PRP we))
+                        (VP (VBP 're)
+                          (VP (VBG moving)
+                            (PP (IN in)
+                              (NP (NN earnest)))))))))))))))
+    (. .) ('' '')))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB How))
+      (S
+        (NP (JJ such) (NNS remarks))
+        (VP (VB translate)
+          (PP (IN into)
+            (NP (NN policy))))))
+    (VP (MD wo) (RB n't)
+      (VP (VB become)
+        (ADJP (JJ clear))
+        (PP (IN for)
+          (NP (NNS months)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ American)
+      (CC and)
+      (JJ Japanese) (NNS officials))
+    (VP (VBD offered)
+      (NP (JJ several) (NNS theories))
+      (PP (IN for)
+        (NP (DT the) (NN difference)))
+      (PP (IN in)
+        (NP (NN approach) (NN betwen) (NNP Mr.) (NNP Mosbacher)
+          (CC and)
+          (NNP Mrs.) (NNP Hills))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT Many))
+    (VP (VBD called)
+      (S
+        (NP (PRP it))
+        (NP
+          (NP (RB simply) (DT a) (NN contrast))
+          (PP (IN in)
+            (NP (NNS styles))))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (NP (DT some))
+    (VP (VBD saw)
+      (NP (PRP it))
+      (PP (IN as)
+        (NP (DT a) (JJ classic) (NN negotiating) (NN tactic))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Others))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NNP Bush) (NN administration))
+          (VP (MD may)
+            (VP (VB feel)
+              (SBAR
+                (S
+                  (NP
+                    (NP (DT the) (NN rhetoric))
+                    (PP (IN on)
+                      (NP (DT both) (NNS sides))))
+                  (VP (VBZ is)
+                    (VP (VBG getting)
+                      (PRT (RP out))
+                      (PP (IN of)
+                        (NP (NN hand))))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP (DT some))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD reflected)
+            (NP
+              (NP (DT the) (VBG growing) (NN debate))
+              (PP (IN in)
+                (NP (NNP Washington))))
+            (PP (IN over)
+              (S
+                (VP (VBG pursuing)
+                  (NP (JJ free) (NN trade))
+                  (PP (IN with)
+                    (NP
+                      (NP (NNP Japan))
+                      (PP (IN versus)
+                        (NP
+                          (NP (DT some) (NN kind))
+                          (PP (IN of)
+                            (NP (VBN managed) (NN trade))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBN Asked)
+        (S
+          (VP (TO to)
+            (VP (VB compare)
+              (NP (PRP$ her) (NN visit))
+              (PP
+                (PP (TO to)
+                  (NP (NNP Mr.) (NNP Mosbacher) (POS 's)))
+                (PRN (, ,)
+                  (S
+                    (NP (NNP Mrs.) (NNP Hills))
+                    (VP (VBD replied) (: :) (`` ``)
+                      (S
+                        (NP (PRP I))
+                        (VP (VBD did) (RB n't)
+                          (VP (VB hear)
+                            (NP
+                              (NP (DT every) (NN word))
+                              (SBAR
+                                (S
+                                  (NP (PRP he))
+                                  (VP (VBD spoke))))))))))
+                  (, ,))
+                (CC but)
+                (PP (IN as)
+                  (NP (DT a) (JJ general) (NN proposition)))))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP think)
+      (SBAR
+        (S
+          (NP (PRP we))
+          (VP (VBP have)
+            (NP
+              (NP (DT a)
+                (ADJP (RB very) (JJ consistent))
+                (NN trade) (NN strategy))
+              (PP (IN in)
+                (NP (DT the) (NNP Bush) (NN administration))))))))
+    (. .) ('' '')))
+
+(ROOT
+  (S (CC Yet)
+    (NP
+      (QP (JJR more) (IN than) (CD one))
+      (NP (JJ American) (NN official))
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBD sat)
+            (PP (IN in)
+              (PP (IN with)
+                (NP (PRP her))))
+            (PP (IN during)
+              (NP
+                (NP (CD three) (NNS days))
+                (PP (IN of)
+                  (NP
+                    (NP (NNS talks))
+                    (PP (IN with)
+                      (NP (JJ Japanese) (NNS officials)))))))))))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP$ her) (NN tone))
+          (ADVP (RB often))
+          (VP (VBD was)
+            (ADVP (RB surprisingly))
+            (ADJP (`` ``) (JJ conciliatory))))))
+    (. .) ('' '')))
+
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (PRP I))
+      (VP (VBP think)
+        (SBAR
+          (S
+            (NP (PRP$ my) (NN line))
+            (VP (VBZ has)
+              (VP (VBN been)
+                (ADJP (RB very) (JJ consistent))))))))
+    (, ,) ('' '')
+    (NP (NNP Mrs.) (NNP Hills))
+    (VP (VBD said)
+      (PP (IN at)
+        (NP (DT a) (NN news) (NN conference)))
+      (NP (NNP Saturday) (NN afternoon)))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (NP (PRP I))
+    (VP (VBP am)
+      (VP (VBN painted)
+        (ADVP (RB sometimes))
+        (PP (IN as)
+          (NP (NNP ferocious)))
+        (, ,)
+        (SBAR
+          (ADVP (RB perhaps))
+          (IN because)
+          (S
+            (NP (PRP I))
+            (VP (VBP have)
+              (NP
+                (NP (DT a) (JJ ferocious) (NN list))
+                (PP (IN of)
+                  (NP (NNS statutes)
+                    (S
+                      (VP (TO to)
+                        (VP (VB implement))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP do) (RB n't)
+      (VP (VB feel)
+        (ADJP (RB very) (JJ ferocious))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP do) (RB n't)
+      (VP (VB feel)
+        (ADJP (DT either) (JJ hard)
+          (CC or)
+          (JJ soft))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP feel)
+      (ADJP (VBN committed)
+        (PP (TO to)
+          (NP
+            (NP (DT the) (NN program))
+            (PP (IN of)
+              (NP
+                (NP (VBG opening) (NNS markets))
+                (CC and)
+                (NP (VBG expanding) (NN trade))))))))
+    (. .) ('' '')))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (PRP she))
+        (VP (VBD met)
+          (NP (DT the) (JJ local) (NN press))
+          (PP (IN for)
+            (NP (DT the) (JJ first) (NN time)))
+          (PP (IN on)
+            (NP (NNP Friday))))))
+    (, ,)
+    (NP (NNP Mrs.) (NNP Hills))
+    (ADVP (RB firmly))
+    (VP (VBD reiterated)
+      (NP
+        (NP (DT the) (NN need))
+        (PP (IN for)
+          (NP (NN progress))))
+      (PP (IN in)
+        (S
+          (VP (VBG removing)
+            (NP (NNS barriers))
+            (S
+              (VP (TO to)
+                (VP (VB trade)
+                  (PP (IN in)
+                    (NP
+                      (NP (NN forest) (NNS products) (, ,) (NNS satellites)
+                        (CC and)
+                        (NNS supercomputers))
+                      (, ,)
+                      (NP
+                        (NP (CD three) (NNS areas))
+                        (VP (VBN targeted)
+                          (PP (IN under)
+                            (NP
+                              (NP (DT the) (NNP Super) (CD 301) (NN provision))
+                              (PP (IN of)
+                                (NP (DT the) (CD 1988) (NN trade) (NN bill))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP She))
+    (VP (VBD highlighted)
+      (NP (JJ exclusionary) (NN business) (NNS practices))
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (NNP U.S.) (NN government))
+          (VP (VBZ has)
+            (VP (VBN identified))))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (NP (PRP$ her) (JJ main) (NN thrust))
+    (VP (VBD was)
+      (S
+        (VP (TO to)
+          (VP (VB promote)
+            (NP
+              (NP (DT the) (NN importance))
+              (PP (IN of)
+                (NP
+                  (NP (JJ world-wide) (JJ free) (NN trade))
+                  (CC and)
+                  (NP (JJ open) (NN competition)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP She))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NN trade) (NN imbalance))
+          (VP
+            (VP (VBD was)
+              (ADVP (RB mainly))
+              (ADJP (JJ due)
+                (PP (TO to)
+                  (NP (JJ macroeconomic) (NNS factors)))))
+            (CC and)
+            (VP (MD should) (RB n't)
+              (VP (VB be)
+                (VP (VBN tackled)
+                  (PP (IN by)
+                    (S
+                      (VP (VBG setting)
+                        (NP (JJ quantitative) (NNS targets))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN At)
+      (NP
+        (NP (PRP$ her) (NN news) (NN conference))
+        (PP (IN for)
+          (NP (JJ Japanese) (NNS reporters)))))
+    (, ,)
+    (NP (CD one) (NN economics) (NN journalist))
+    (VP (VBD summed)
+      (PRT (RP up))
+      (NP
+        (NP (DT the) (JJ Japanese) (NN sense))
+        (PP (IN of)
+          (NP (NN relief)))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (PRP$ My) (NN impression))
+      (VP (VBD was)
+        (SBAR (IN that)
+          (S
+            (NP (PRP you))
+            (VP (MD would)
+              (VP (VB be)
+                (NP (DT a)
+                  (ADJP (JJ scary) (JJ old))
+                  (NN lady))))))))
+    (, ,) ('' '')
+    (NP (PRP he))
+    (VP (VBD said) (, ,)
+      (S
+        (VP (VBG drawing)
+          (NP (DT a) (JJ few) (JJ nervous) (NN chuckles))
+          (PP (IN from)
+            (NP (PRP$ his) (NNS colleagues))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (CC But)
+    (NP (PRP I))
+    (VP (VBP am)
+      (ADJP (JJ relieved)
+        (S
+          (VP (TO to)
+            (VP (VB see)
+              (NP
+                (NP
+                  (SBAR (IN that)
+                    (S
+                      (NP (PRP you))
+                      (VP (VBP are)
+                        (ADJP (JJ beautiful)
+                          (CC and)
+                          (JJ gentle)
+                          (CC and)
+                          (JJ intelligent))))))
+                (CC and)
+                (NP
+                  (NP (DT a) (NN person))
+                  (PP (IN of)
+                    (NP (NN integrity))))))))))
+    (. .) ('' '')))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Mrs.) (NNP Hills) (POS '))
+      (NNS remarks))
+    (VP (VBD did)
+      (NP (NN raise) (NNS questions))
+      (, ,)
+      (PP
+        (ADVP (IN at) (JJS least))
+        (IN among)
+        (NP
+          (NP (DT some) (NNP U.S.) (NNS officials))
+          (, ,)
+          (SBAR
+            (WHPP (IN about)
+              (WHNP (WP what) (RB exactly)))
+            (S
+              (NP (PRP$ her) (NN stance))
+              (VP (VBZ is)
+                (PP (IN on)
+                  (NP (NNP U.S.) (NN access)))
+                (PP (TO to)
+                  (NP (DT the) (JJ Japanese) (NN semiconductor) (NN market)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNP U.S.) (NN share))
+      (PP (IN of)
+        (NP (DT the) (JJ Japanese) (NN market))))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (VP (VBN stuck)
+          (PP (IN around)
+            (NP
+              (NP (CD 10) (NN %))
+              (PP (IN for)
+                (NP (NNS years))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (JJ Many) (NNPS Americans))
+      (VP (VBP have)
+        (VP (VBN interpreted)
+          (NP (DT a) (CD 1986) (NN agreement))
+          (PP (IN as)
+            (S
+              (VP (VBG assuring)
+                (NP (NNP U.S.) (NNS companies))
+                (NP (DT a)
+                  (ADJP (CD 20) (NN %))
+                  (NN share))
+                (PP (IN by)
+                  (NP (CD 1991)))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (DT the) (NNPS Japanese))
+      (VP (VBP have)
+        (VP (VBN denied)
+          (S
+            (VP (VBG making)
+              (NP (DT any) (JJ such) (NN promise)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN At)
+      (NP
+        (NP (CD one))
+        (PP (IN of)
+          (NP (PRP$ her) (NN news) (NNS conferences)))))
+    (PRN (, ,)
+      (S
+        (NP (NNP Mrs.) (NNP Hills))
+        (VP (VBD said)))
+      (, ,))
+    (`` ``)
+    (NP (PRP I))
+    (VP (VBP believe)
+      (SBAR
+        (S
+          (NP (PRP we))
+          (VP (MD can)
+            (VP (VB do)
+              (NP
+                (QP (RB much) (JJR better) (IN than) (CD 20))
+                (NN %)))))))
+    (. .) ('' '')))
+
+(ROOT
+  (S (CC But)
+    (NP (PRP she))
+    (VP (VBD stressed) (, ,) (`` ``)
+      (S
+        (NP (PRP I))
+        (VP (VBP am)
+          (PP (IN against)
+            (NP (VBN managed) (NN trade))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD will) (RB not)
+      (VP (VB enter)
+        (PP (IN into)
+          (NP
+            (NP (DT an) (NN agreement))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBZ stipulates)
+                  (PP (TO to)
+                    (NP
+                      (NP (DT a) (NN percentage))
+                      (PP (IN of)
+                        (NP (DT the) (NN market))))))))))))
+    (. .) ('' '')))
+

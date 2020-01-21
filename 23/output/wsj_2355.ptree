@@ -1,0 +1,67 @@
+(ROOT
+  (INTJ (UH .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP START) (NNP Kenneth) (NNP J.) (NNP Thygerson))
+      (, ,)
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBD was)
+            (VP (VBN named)
+              (NP
+                (NP (NN president))
+                (PP (IN of)
+                  (NP
+                    (NP (DT this) (NN thrift) (VBG holding) (NN company))
+                    (PP (IN in)
+                      (NP (NNP August))))))))))
+      (, ,))
+    (VP (VBD resigned) (, ,)
+      (S
+        (VP (VBG citing)
+          (NP (JJ personal) (NNS reasons)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Mr.) (NNP Thygerson))
+    (VP
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (PRP he))
+            (VP (VBD had)
+              (VP (VBN planned)
+                (S
+                  (VP (TO to)
+                    (VP (VB travel)
+                      (PP (IN between)
+                        (NP
+                          (NP (DT the) (NN job))
+                          (PP (IN in)
+                            (NP
+                              (NP (NNP Denver))
+                              (CC and)
+                              (NP (PRP$ his) (NNP San) (NNP Diego) (NN home))))))))))))))
+      (, ,)
+      (CC but)
+      (VP (VBZ has)
+        (VP (VBN found)
+          (S
+            (NP (DT the) (NN commute))
+            (ADJP (RB too) (JJ difficult))
+            (S
+              (VP (TO to)
+                (VP (VB continue))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT A) (JJ new) (NN president))
+    (VP (VBD was) (RB n't)
+      (VP (VBN named)))
+    (. .)))
+

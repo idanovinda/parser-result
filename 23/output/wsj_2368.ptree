@@ -1,0 +1,148 @@
+(ROOT
+  (INTJ (UH .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN START)
+        (NP (DT The) (JJ only) (NN thing)))
+      (NP (NNP Robert) (NNP Goldberg))
+      (VP (MD could)
+        (VP (VB praise)
+          (PP (IN about)
+            (NP
+              (NP (NNP CBS) (POS 's))
+              (JJ new) (NN show)))
+          (NP
+            (NP (`` ``)
+              (NP (NNP Island) (NNP Son))
+              ('' '')
+              (PRN (-LRB- -LRB-)
+                (NP (NNP Leisure)
+                  (CC &)
+                  (NNP Arts))
+                (, ,)
+                (NP (NNP Sept.) (CD 25))
+                (-RRB- -RRB-)))
+            (SBAR
+              (S
+                (VP (VBD was)
+                  (NP (DT the) (JJ local) (NN color)))))))))
+    (: ;)
+    (S
+      (ADVP (RB unfortunately))
+      (NP (CC neither)
+        (NP (PRP he))
+        (CC nor)
+        (NP
+          (NP (DT the) (NNS producers))
+          (PP (IN of)
+            (NP (DT the) (NN show)))))
+      (VP (VBP have)
+        (VP (VBN done)
+          (NP (PRP$ their) (NN homework)))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN For)
+      (S
+        (NP
+          (NP
+            (NP (NN instance))
+            (: :)
+            (NP (`` ``) (NNP Haole) ('' '')))
+          (PRN (-LRB- -LRB-)
+            (ADJP (JJ white))
+            (-RRB- -RRB-)))
+        (VP (VBZ is) (RB not)
+          (NP (DT the) (JJ ultimate) (NN insult)))))
+    (: ;) (`` ``)
+    (NP (NNP Mainland) (NNP haole))
+    ('' '')
+    (VP (VBZ is))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Richard) (NNP Chamberlain))
+    (VP (VBD dresses)
+      (PP (IN as)
+        (NP (DT a) (`` ``) (JJ Mainland) (NN haole)))
+      (, ,) ('' '')
+      (S
+        (VP
+          (VP (VBG tucking)
+            (PP (IN in)
+              (NP (DT a) (JJ Hawaiian) (NN shirt))))
+          (CC and)
+          (VP (VBG rolling)
+            (PRT (RP up))
+            (NP (PRP$ its) (JJ long) (NNS sleeves))))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP
+      (NP (DT the) (JJ local) (NN expression))
+      (PP (IN for)
+        (NP (NN brother))))
+    (VP (VBZ is) (`` ``)
+      (NP
+        (NP (NN brah))
+        (, ,) ('' '')
+        (ADJP (RB not) (`` ``) (JJ bruddah))))
+    (. .) ('' '')))
+
+(ROOT
+  (S (CC And)
+    (SBAR (RB even) (IN if)
+      (S
+        (NP (DT a) (NN nurse))
+        (VP (MD would)
+          (VP (VB wear)
+            (NP
+              (NP (NNS flowers))
+              (PP (IN in)
+                (NP (PRP$ her) (NN hair) (NN while))))
+            (PP (IN on)
+              (NP (NN duty)))
+            (, ,)
+            (SBAR (IN if)
+              (S
+                (NP (PRP she))
+                (VP (VBD were)
+                  (VP (VBN engaged)))))))))
+    (NP (PRP she))
+    (VP (MD would)
+      (VP (VB know)
+        (S
+          (VP (TO to)
+            (VP (VB wear)
+              (NP (PRP them))
+              (PP (IN behind)
+                (NP (PRP$ her)
+                  (ADJP (JJ left) (, ,) (RB not) (JJ right) (, ,))
+                  (NN ear))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Sorry))
+    (, ,)
+    (NP (DT the) (NN show))
+    (VP (VBZ does) (RB not)
+      (ADVP (RB even))
+      (VP (VB have)
+        (NP
+          (NP (DT the) (CD one) (NN redeeming) (NN quality))
+          (PP (IN of)
+            (NP (JJ genuine) (JJ local) (NN color))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Anita) (NNP Davis) (NNP Austin))
+    (, ,)
+    (NP (NNP Texas))))
+

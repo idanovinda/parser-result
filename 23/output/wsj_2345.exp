@@ -1,0 +1,6 @@
+conn_lc:if conn:If conn_POS:IN with_prev_full:``_if xxx£
+conn_lc:though conn:though conn_POS:IN with_prev_full:even_though xxx£
+conn_lc:after conn:after conn_POS:IN with_prev_full:here_after xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:ago_and xxx£
+conn_lc:indeed conn:Indeed conn_POS:RB xxx£
+conn_lc:then conn:then conn_POS:RB with_prev_full:,_then xxx£

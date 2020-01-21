@@ -1,0 +1,97 @@
+(ROOT
+  (INTJ (UH .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP START) (NNP James) (NNP Robinson))
+      (, ,)
+      (ADJP
+        (NP (CD 57) (NNS years))
+        (JJ old))
+      (, ,))
+    (VP (VBD was)
+      (NP
+        (NP (VBN elected)
+          (NX
+            (NX (NN president))
+            (CC and)
+            (NX (JJ chief) (JJ executive) (NN officer))))
+        (PP (IN of)
+          (NP
+            (NP (DT this) (NN maker))
+            (PP (IN of)
+              (NP
+                (NP (JJ magnetic) (VBG recording) (NNS heads))
+                (PP (IN for)
+                  (NP (NN disk) (NNS drives)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (NP
+          (NP (NN president)
+            (CC and)
+            (JJ chief) (NN executive) (NN officer))
+          (PP (IN of)
+            (NP
+              (NP (NNP Amperex) (NNP Electronics) (NNP Corp.))
+              (, ,)
+              (NP
+                (NP (DT a) (NN division))
+                (PP (IN of)
+                  (NP (NNP North) (NNP American) (NNP Philips) (NNP Corp.)))))))
+        (, ,)
+        (S
+          (NP (PRP itself))
+          (NP
+            (NP (DT a) (NN subsidiary))
+            (PP (IN of)
+              (NP
+                (NP (NNP N.V.) (NNP Philips))
+                (PP (IN of)
+                  (NP (DT the) (NNPS Netherlands)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Charles) (NNP J.) (NNP Lawson) (NNP Jr.))
+      (, ,)
+      (NP (CD 68))
+      (, ,)
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBD had)
+            (VP (VBN been)
+              (VP (VBG acting)
+                (NP (JJ chief) (NN executive))
+                (PP (IN since)
+                  (NP (NNP June) (CD 14))))))))
+      (, ,))
+    (VP (MD will)
+      (VP (VB continue)
+        (PP (IN as)
+          (NP (NN chairman)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The)
+        (NX
+          (NX (JJ former) (NN president))
+          (CC and)
+          (NX (JJ chief) (NN executive))))
+      (, ,)
+      (NP (NNP Eric) (NNP W.) (NNP Markrud))
+      (, ,))
+    (VP (VBD resigned)
+      (PP (IN in)
+        (NP (NNP June))))
+    (. .)))
+

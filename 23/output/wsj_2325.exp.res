@@ -1,0 +1,11 @@
+353..356|Comparison
+826..829|Comparison
+981..983|Contingency
+1589..1594|Comparison
+1619..1622|Expansion
+2070..2081|Expansion
+2215..2218|Expansion
+2736..2739|Expansion
+3061..3066|Comparison
+3428..3445|Comparison
+3792..3804|Expansion

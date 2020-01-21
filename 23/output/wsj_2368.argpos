@@ -1,0 +1,5 @@
+conn:For_instance conn_POS:IN_NN sent_pos:0 NA
+conn:And conn_POS:CC sent_pos:0 NA
+conn:And conn_POS:CC sent_pos:0 NA
+conn:if conn_POS:IN sent_pos:2 prev1:even prev1_POS:RB with_prev1_full:even_if with_prev1_POS_full:RB_IN prev2:And prev2_POS:CC with_prev2_full:And_if with_prev2_POS_full:CC_IN NA
+conn:if conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_if with_prev1_POS_full:,_IN prev2:duty prev2_POS:NN with_prev2_full:duty_if with_prev2_POS_full:NN_IN NA

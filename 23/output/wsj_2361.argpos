@@ -1,0 +1,22 @@
+conn:But conn_POS:CC sent_pos:0 NA
+conn:But conn_POS:CC sent_pos:0 NA
+conn:While conn_POS:IN sent_pos:0 NA
+conn:though conn_POS:IN prev1:even prev1_POS:RB with_prev1_full:even_though with_prev1_POS_full:RB_IN prev2:-- prev2_POS:: with_prev2_full:--_though with_prev2_POS_full::_IN NA
+conn:also conn_POS:RB prev1:, prev1_POS:, with_prev1_full:,_also with_prev1_POS_full:,_RB prev2:Burt prev2_POS:NNP with_prev2_full:Burt_also with_prev2_POS_full:NNP_RB NA
+conn:nonetheless conn_POS:RB sent_pos:2 prev1:Burt prev1_POS:NNP with_prev1_full:Burt_nonetheless with_prev1_POS_full:NNP_RB prev2:Mr. prev2_POS:NNP with_prev2_full:Mr._nonetheless with_prev2_POS_full:NNP_RB NA
+conn:as_if conn_POS:IN_IN prev1:penalty prev1_POS:NN with_prev1_full:penalty_as_if with_prev1_POS_full:NN_IN_IN prev2:the prev2_POS:DT with_prev2_full:the_as_if with_prev2_POS_full:DT_IN_IN NA
+conn:If conn_POS:IN sent_pos:0 NA
+conn:because conn_POS:IN prev1:be prev1_POS:VB with_prev1_full:be_because with_prev1_POS_full:VB_IN prev2:may prev2_POS:MD with_prev2_full:may_because with_prev2_POS_full:MD_IN NA
+conn:for_instance conn_POS:IN_NN prev1:, prev1_POS:, with_prev1_full:,_for_instance with_prev1_POS_full:,_IN_NN prev2:is prev2_POS:VBZ with_prev2_full:is_for_instance with_prev2_POS_full:VBZ_IN_NN NA
+conn:Also conn_POS:RB sent_pos:0 NA
+conn:when conn_POS:WRB prev1:year prev1_POS:NN with_prev1_full:year_when with_prev1_POS_full:NN_WRB prev2:this prev2_POS:DT with_prev2_full:this_when with_prev2_POS_full:DT_WRB NA
+conn:now_that conn_POS:RB_IN prev1:established prev1_POS:VBN with_prev1_full:established_now_that with_prev1_POS_full:VBN_RB_IN prev2:well prev2_POS:RB with_prev2_full:well_now_that with_prev2_POS_full:RB_RB_IN NA
+conn:But conn_POS:CC sent_pos:0 NA
+conn:Thus conn_POS:RB sent_pos:0 NA
+conn:While conn_POS:IN sent_pos:0 NA
+conn:Since conn_POS:IN sent_pos:0 NA
+conn:But conn_POS:CC sent_pos:0 NA
+conn:while conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_while with_prev1_POS_full:,_IN prev2:shows prev2_POS:NNS with_prev2_full:shows_while with_prev2_POS_full:NNS_IN NA
+conn:however conn_POS:RB sent_pos:2 prev1:, prev1_POS:, with_prev1_full:,_however with_prev1_POS_full:,_RB prev2:Now prev2_POS:RB with_prev2_full:Now_however with_prev2_POS_full:RB_RB NA
+conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:countries prev2_POS:NNS with_prev2_full:countries_and with_prev2_POS_full:NNS_CC NA
+conn:But conn_POS:X sent_pos:0 NA

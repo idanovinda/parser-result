@@ -1,0 +1,1 @@
+EntRel||||||||||||||||||||||153..349|3|As Syms 's " core business of off-price retailing grows , a small subsidiary that is operationally unrelated becomes a difficult distraction , " said Marcy Syms , president of the parent , in a statement .||||||||353..435|4|A spokeswoman said Sulka operates a total of seven stores in the U.S. and overseas .|||||||||||||

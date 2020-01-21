@@ -1,0 +1,8 @@
+conn_lc:when conn:when conn_POS:WRB with_prev_full:relationship_when xxx£
+conn_lc:after conn:after conn_POS:IN with_prev_full:,_after xxx£
+conn_lc:thus conn:thus conn_POS:RB with_prev_full:and_thus xxx£
+conn_lc:also conn:Also conn_POS:RB xxx£
+conn_lc:after conn:after conn_POS:IN with_prev_full:bonds_after xxx£
+conn_lc:however conn:However conn_POS:RB xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:1984_and xxx£
+conn_lc:since conn:since conn_POS:IN with_prev_full:and_since xxx£

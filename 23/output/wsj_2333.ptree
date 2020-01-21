@@ -1,0 +1,54 @@
+(ROOT
+  (INTJ (UH .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP START) (NNP Robert) (NNP G.) (NNP Walden))
+      (, ,)
+      (ADJP
+        (NP (CD 62) (NNS years))
+        (JJ old))
+      (, ,))
+    (VP (VBD was)
+      (VP (VBN elected)
+        (NP
+          (NP (DT a) (NN director))
+          (PP (IN of)
+            (NP
+              (NP (DT this) (NN provider))
+              (PP (IN of)
+                (NP (JJ advanced) (NN technology) (NNS systems)
+                  (CC and)
+                  (NNS services))))))
+        (, ,)
+        (S
+          (VP (VBG increasing)
+            (NP (DT the) (NN board))
+            (PP (TO to)
+              (NP (CD eight) (NNS members)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD retired)
+      (PP (IN as)
+        (NP
+          (NP (JJ senior)
+            (NX
+              (NX
+                (NX (NN vice) (NN president))
+                (, ,)
+                (NP
+                  (NP (NN finance))
+                  (CC and)
+                  (NP (NN administration))))
+              (, ,)
+              (CC and)
+              (NX (JJ chief) (JJ financial) (NN officer))))
+          (PP (IN of)
+            (NP (DT the) (NN company)))))
+      (NP (NNP Oct.) (CD 1)))
+    (. .)))
+

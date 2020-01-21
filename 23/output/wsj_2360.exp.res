@@ -1,0 +1,13 @@
+426..430|Expansion
+1159..1164|Temporal
+2038..2041|Comparison
+2816..2820|Expansion
+2930..2942|Expansion
+3036..3043|Expansion
+3769..3776|Comparison
+4045..4049|Contingency
+4137..4141|Expansion
+4221..4228|Comparison
+4477..4481|Temporal
+4511..4515|Expansion
+4595..4598|Expansion

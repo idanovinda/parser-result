@@ -1,0 +1,1 @@
+EntRel||||||||||||||||||||||164..290|2|Mr. Field also had been chairman of McKesson Corp. , resigning that post after a dispute with the board over corporate strategy .||||||||292..409|3|Mr. Seelenfreund is executive vice president and chief financial officer of McKesson and will continue in those roles .|||||||||||||

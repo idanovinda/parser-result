@@ -1,0 +1,17 @@
+conn:While conn_POS:IN sent_pos:1 prev1:START prev1_POS:NNP with_prev1_full:START_While with_prev1_POS_full:NNP_IN NA
+conn:And conn_POS:CC sent_pos:0 NA
+conn:And conn_POS:CC sent_pos:0 NA
+conn:if conn_POS:IN sent_pos:1 prev1:And prev1_POS:CC with_prev1_full:And_if with_prev1_POS_full:CC_IN NA
+conn:Also conn_POS:RB sent_pos:0 NA
+conn:before conn_POS:IN prev1:-- prev1_POS:: with_prev1_full:--_before with_prev1_POS_full::_IN prev2:season prev2_POS:NN with_prev2_full:season_before with_prev2_POS_full:NN_IN NA
+conn:But conn_POS:CC sent_pos:0 NA
+conn:For_example conn_POS:IN_NN sent_pos:0 NA
+conn:but conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_but with_prev1_POS_full:,_CC prev2:plans prev2_POS:NNS with_prev2_full:plans_but with_prev2_POS_full:NNS_CC NA
+conn:However conn_POS:RB sent_pos:0 NA
+conn:then conn_POS:RB prev1:and prev1_POS:CC with_prev1_full:and_then with_prev1_POS_full:CC_RB prev2:out prev2_POS:RP with_prev2_full:out_then with_prev2_POS_full:RP_RB NA
+conn:after conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_after with_prev1_POS_full:,_IN prev2:juice prev2_POS:NN with_prev2_full:juice_after with_prev2_POS_full:NN_IN NA
+conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:product prev2_POS:NN with_prev2_full:product_and with_prev2_POS_full:NN_CC NA
+conn:Although conn_POS:IN sent_pos:1 prev1:Energy prev1_POS:NNP with_prev1_full:Energy_Although with_prev1_POS_full:NNP_IN NA
+conn:meanwhile conn_POS:RB prev1:, prev1_POS:, with_prev1_full:,_meanwhile with_prev1_POS_full:,_RB prev2:markets prev2_POS:NNS with_prev2_full:markets_meanwhile with_prev2_POS_full:NNS_RB NA
+conn:also conn_POS:RB sent_pos:1 prev1:There prev1_POS:EX with_prev1_full:There_also with_prev1_POS_full:EX_RB NA
+conn:and conn_POS:CC prev1:exports prev1_POS:NNS with_prev1_full:exports_and with_prev1_POS_full:NNS_CC prev2:oil prev2_POS:NN with_prev2_full:oil_and with_prev2_POS_full:NN_CC NA

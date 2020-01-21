@@ -1,0 +1,64 @@
+(ROOT
+  (INTJ (UH .)))
+
+(ROOT
+  (S
+    (NP (NNP START) (NNP CONCORDE) (JJ trans-Atlantic) (NNS flights))
+    (VP (VBP are)
+      (NP
+        (NP
+          (NP ($ $) (CD 2,400))
+          (PP (TO to)
+            (NP (NNP Paris))))
+        (CC and)
+        (NP
+          (NP ($ $) (CD 3,200))
+          (PP (TO to)
+            (NP (NNP London))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT a) (NNP Centennial) (NNP Journal) (NN article)))
+    (NP (NNP Oct.) (CD 5))
+    (, ,)
+    (NP (DT the) (NNS fares))
+    (VP (VBD were)
+      (VP (VBN reversed)))
+    (. .)))
+
+(ROOT
+  (FRAG (-LRB- -LRB-)
+    (NP (NNP See))
+    (: :)
+    (NP
+      (NP (`` ``) (NNP Centennial) (NNP Journal))
+      (: :)
+      (NP
+        (NP (CD 100) (NNS Years))
+        (PP (IN in)
+          (NP
+            (NP (NNP Business))
+            (PRN (: --)
+              (FRAG
+                (NP (NN Look))
+                (, ,)
+                (PP (RB Up) (IN in)
+                  (NP
+                    (NP (DT the) (NNP Sky))
+                    (, ,)
+                    (NP
+                      (NP (PRP It) (POS 's))
+                      (NN a.))))
+                (. .)))))))
+    (. .)))
+
+(ROOT
+  (VP (VB SST) (, ,)
+    (ADVP (RB 1969))
+    ('' '') (: --)
+    (PP (IN WSJ)
+      (NP (NNP Oct.) (CD 5) (, ,) (CD 1989)))
+    (-RRB- -RRB-)))
+

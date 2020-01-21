@@ -1,0 +1,11 @@
+674..677|Expansion
+1608..1611|Comparison
+2115..2118|Comparison
+2146..2149|Expansion
+2441..2445|Expansion
+2589..2592|Expansion
+2732..2739|Comparison
+2796..2808|Contingency
+3457..3460|Expansion
+3781..3793|Expansion
+3881..3884|Expansion

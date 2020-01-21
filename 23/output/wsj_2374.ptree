@@ -1,0 +1,52 @@
+(ROOT
+  (INTJ (UH .)))
+
+(ROOT
+  (S
+    (NP (NNP START) (NNP BULL) (NNP HN) (NNP INFORMATION) (NNP SYSTEMS) (NNP Inc.))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NNP U.S.) (JJ majority-owned) (NN unit))
+        (PP (IN of)
+          (NP (NNP Cie.) (NNP des) (NNPS Machines) (NNP Bull)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP
+        (NP (NNP Friday) (POS 's))
+        (NN edition)))
+    (, ,)
+    (NP
+      (NP (DT the) (NN name))
+      (PP (IN of)
+        (NP (DT the) (NN unit))))
+    (VP (VBD was)
+      (VP (VBN misstated)))
+    (. .)))
+
+(ROOT
+  (PRN (-LRB- -LRB-)
+    (S
+      (VP (VBG See) (: :) (`` ``)
+        (S
+          (NP
+            (NP (NNP Bull) (POS 's))
+            (NNP Chairman))
+          (VP (TO to)
+            (VP (VB Use)
+              (S
+                (NP (NNP U.S.) (NNP Acquisitions))
+                (VP (TO to)
+                  (VP (VB Lift)
+                    (NP
+                      (NP
+                        (NP (NNP Computer) (NNP Maker) (POS 's))
+                        (NNP World) (NNP Stature))
+                      ('' '') (: --)
+                      (NP
+                        (NP (NNP WSJ))
+                        (NP (NNP Oct.) (CD 13) (, ,) (CD 1989))))))))))))
+    (-RRB- -RRB-)))
+

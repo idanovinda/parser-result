@@ -1,0 +1,1418 @@
+(ROOT
+  (INTJ (UH .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBG START)
+        (SBAR
+          (WHADVP (WRB When))
+          (S
+            (NP (DT the) (NN news))
+            (VP (VBD broke)
+              (PP (IN of)
+                (NP
+                  (NP (DT an) (VBN attempted) (NN coup))
+                  (PP (IN in)
+                    (NP (NNP Panama)))
+                  (ADVP
+                    (NP (CD two) (NNS weeks))
+                    (RB ago)))))))))
+    (, ,)
+    (NP (NNP Sen.) (NNP Christopher) (NNP Dodd))
+    (VP (VBD called)
+      (NP (DT the) (NNP State) (NNP Department))
+      (PP (IN for)
+        (NP (DT a) (NN briefing))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (PRP They))
+      (VP (VBD said) (, ,) (`` `)
+        (S
+          (VP (VB follow)
+            (NP (NNP CNN))))))
+    (, ,) ('' ') ('' '')
+    (NP (PRP he))
+    (VP (VBD told)
+      (NP (NNS reporters)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT That))
+    (VP (VBZ shows)
+      (SBAR
+        (WHADVP (WRB how) (RB far))
+        (S
+          (NP
+            (NP (NNP Ted) (NNP Turner) (POS 's))
+            (NNP Cable) (NNP News) (NNP Network))
+          (VP (VBZ has)
+            (VP (VBN come)
+              (PP (IN since)
+                (NP (PRP$ its) (NN birth))
+                (ADVP
+                  (NP (CD nine) (NNS years))
+                  (RB ago)))
+              (, ,)
+              (SBAR
+                (WHADVP (WRB when))
+                (S
+                  (NP (PRP it))
+                  (VP (VBD was)
+                    (VP (VBN considered)
+                      (NP
+                        (NP (DT the) (NN laughingstock))
+                        (PP (IN of)
+                          (NP (NN television) (NN news)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP
+          (ADJP (JJR bigger))
+          (, ,)
+          (ADJP (JJR faster))
+          (CC and)
+          (ADJP (RBR more) (JJ profitable)))
+        (PP (IN than)
+          (NP
+            (NP (DT the) (NN news) (NNS divisions))
+            (PP (IN of)
+              (NP
+                (NP (DT any))
+                (PP (IN of)
+                  (NP (DT the) (CD three) (JJ major) (NN broadcast) (NNS networks)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (PRP$ Its) (NN niche))
+      (PP (IN as)
+        (NP
+          (NP (DT the) (`` ``) (NN network))
+          (PP (IN of)
+            (NP
+              (NP (NN record))
+              ('' '')
+              (PP (IN during)
+                (NP (JJ major) (NNS crises))))))))
+    (VP (VBZ draws)
+      (NP (JJ elite) (NNS audiences))
+      (PP (IN around)
+        (NP (DT the) (NN world))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (PP (IN for)
+      (NP (PDT all) (PRP$ its) (NN success)))
+    (, ,)
+    (NP (NNP CNN))
+    (VP (VBZ has)
+      (VP (VBN hit)
+        (NP (DT a) (NN plateau))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN Although)
+      (S
+        (NP (NN viewership))
+        (VP (VBZ soars)
+          (SBAR
+            (WHADVP (WRB when))
+            (S
+              (NP (JJ big) (NN news))
+              (VP (VBZ breaks)))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ ebbs)
+      (PP (IN during)
+        (NP
+          (NP (NNS periods))
+          (PP (IN of)
+            (NP (NN calm))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP CNN) (NNS executives))
+    (VP
+      (VP (VBP worry)
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (DT the) (NN network) (POS 's))
+              (ADJP (JJ punchy)
+                (CC but)
+                (JJ repetitive))
+              (NN news) (NN format))
+            (VP (MD may)
+              (VP (VB be)
+                (VP (VBG getting)
+                  (NP (JJ stale))))))))
+      (CC and)
+      (VP (MD wo) (RB n't)
+        (VP (VB keep)
+          (NP
+            (NP (NNS viewers))
+            (VP (VBG coming)
+              (PRT (RP back))
+              (SBAR (IN as)
+                (S
+                  (NP (DT the) (NNS alternatives))
+                  (VP (VB multiply)
+                    (PP (IN for)
+                      (NP (NN news)
+                        (CC and)
+                        (NN information)))
+                    (PP (IN on)
+                      (NP (NN cable-TV)))))))))))
+    (. .)))
+
+(ROOT
+  (SINV (`` ``)
+    (S
+      (NP
+        (NP (RB Just) (DT the) (NN fact))
+        (SBAR
+          (S
+            (NP (PRP we))
+            (VP (VBP 're)
+              (PP (IN on)
+                (NP (CD 24) (NNS hours)))))))
+      (VP (VBZ is)
+        (NP (DT no) (JJR longer) (NN bulletin))))
+    (, ,) ('' '')
+    (VP (VBZ says))
+    (NP
+      (NP (NNP Ed) (NNP Turner))
+      (, ,)
+      (NP
+        (NP
+          (NP (NNP CNN) (POS 's))
+          (JJ executive) (NN vice) (NN president))
+        (, ,)
+        (NP
+          (NP (NN news) (NN gathering))
+          (PRN (-LRB- -LRB-)
+            (CC and)
+            (NP
+              (NP (DT no) (NN relation))
+              (PP (TO to)
+                (NP (NNP Ted) (NNP Turner))))
+            (-RRB- -RRB-)))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (NP (PRP You))
+    (VP (MD ca) (RB n't)
+      (VP (VB live)
+        (PP (IN on)
+          (NP (DT that)))))
+    (. .) ('' '')))
+
+(ROOT
+  (S (IN So)
+    (NP
+      (NP (NNP CNN))
+      (, ,)
+      (NP
+        (NP (DT a) (NN unit))
+        (PP (IN of)
+          (NP (JJ Atlanta-based) (NNP Turner) (NNP Broadcasting) (NNP System) (NNP Inc.))))
+      (, ,))
+    (VP (VBZ is)
+      (VP (VBG trying)
+        (SBAR
+          (SBAR
+            (S
+              (VP (TO to)
+                (VP (VB reposition)
+                  (NP (PRP itself))
+                  (PP (IN as)
+                    (NP (DT a) (JJ primary) (NN channel)))))))
+          (, ,)
+          (CC or)
+          (SBAR
+            (WHNP (WP what))
+            (S
+              (NP
+                (NP (NNS people))
+                (PP (IN in)
+                  (NP (DT the) (NN television) (NN industry))))
+              (VP (VBP call)
+                (NP
+                  (NP (DT a) (`` ``) (NN top))
+                  (PP (IN of)
+                    (NP (NN mind) ('' '') (NN network))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Tonight))
+    (, ,)
+    (S
+      (VP (TO to)
+        (VP (VB kick)
+          (PRT (RP off))
+          (NP (DT the) (NN effort)))))
+    (, ,)
+    (NP (NNP CNN))
+    (VP (MD will)
+      (VP (VB premiere)
+        (NP
+          (NP (PRP$ its) (JJ first) (JJ prime-time) (NN newscast))
+          (PP (IN in)
+            (NP
+              (NP (NNS years))
+              (, ,)
+              (NP
+                (NP (DT an) (JJ hourlong) (NN show))
+                (PP (IN at)
+                  (NP (CD 6)))))))
+        (NP (RB p.m.) (JJ Eastern) (NN time))
+        (S
+          (VP (TO to)
+            (VP (VB air)
+              (NP
+                (ADJP (JJ head-to-head)
+                  (PP (IN against)
+                    (NP (DT the) (NN network))))
+                (NNS newscasts)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN show))
+    (VP (MD will)
+      (VP (VB be)
+        (VP (VBN co-anchored)
+          (PP (IN by)
+            (NP
+              (NP (NNP Bernard) (NNP Shaw)
+                (CC and)
+                (NNP Catherine) (NNP Crier))
+              (, ,)
+              (NP
+                (NP (DT a) (JJ 34-year-old) (JJ former) (NNP Texas) (NN judge)
+                  (CC and)
+                  (NN campus) (NN beauty) (NN queen))
+                (SBAR
+                  (WHNP (WP who))
+                  (S
+                    (VP (VBZ has)
+                      (ADVP (RB never))
+                      (VP (VBN held)
+                        (NP
+                          (NP (DT a) (NN job))
+                          (PP (IN in)
+                            (NP (NN television)
+                              (CC or)
+                              (NN journalism))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ new) (NN show))
+    (VP (VBZ is)
+      (NP
+        (NP (RB perhaps) (DT the) (JJS boldest))
+        (PP (IN in)
+          (NP
+            (NP (DT a) (NN number))
+            (PP (IN of)
+              (NP
+                (NP (NNS steps))
+                (SBAR
+                  (S
+                    (NP (DT the) (NN network))
+                    (VP (VBZ is)
+                      (VP (VBG taking)
+                        (S
+                          (VP (TO to)
+                            (VP (VB build)
+                              (NP (NN audience) (NN loyalty))
+                              (PP (IN by)
+                                (S
+                                  (VP (VBG shifting)
+                                    (PRT (RP away))
+                                    (PP (IN from)
+                                      (NP
+                                        (NP (PRP$ its) (JJ current) (NN format))
+                                        (PP (IN toward)
+                                          (NP
+                                            (NP
+                                              (ADVP (RBR more))
+                                              (JJ full-length) (`` ``) (NN signature) ('' '') (NN programming))
+                                            (PP (IN with)
+                                              (NP (JJ recognizable) (NNS stars)))))))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (TO To)
+        (VP (VB distinguish)
+          (NP (PRP itself)))))
+    (, ,)
+    (NP (NNP CNN))
+    (VP (VBZ is)
+      (ADVP (RB also))
+      (VP
+        (VP (VBG expanding)
+          (NP (JJ international) (NN coverage)))
+        (CC and)
+        (VP (VBG adding)
+          (NP (DT a) (JJ second) (JJ global-news) (NN program)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (VP (VBG paying)
+        (NP (JJR higher) (NNS salaries))
+        (PRN (: --)
+          (PP (IN after)
+            (NP
+              (NP (NNS years))
+              (PP (IN of)
+                (S
+                  (VP (VBG scrimping))))))
+          (: --))
+        (S
+          (VP (TO to)
+            (VP (VB lure)
+              (CC and)
+              (VB keep)
+              (NP (JJ experienced) (NNS staffers)))))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP (PRP it))
+    (VP (VBZ is)
+      (VP (VBG embarking)
+        (PP (IN on)
+          (NP (DT an) (JJ expensive) (NN gamble)))
+        (S
+          (VP (TO to)
+            (VP (VB break)
+              (NP (JJ major) (NNS stories))
+              (PP (IN with)
+                (NP (DT a) (JJ large) (JJ investigative-reporting) (NN team))))))))
+    (. .)))
+
+(ROOT
+  (SINV (`` ``)
+    (S
+      (NP (DT The) (JJ next) (NN stage))
+      (VP (VBZ is)
+        (S
+          (VP (TO to)
+            (VP (VB get)
+              (PP (IN beyond)
+                (NP
+                  (NP (DT the) (NN opinion) (NNS leaders))
+                  (SBAR
+                    (WHNP (WP who))
+                    (S
+                      (VP (VBP use)
+                        (NP (PRP us))
+                        (PP (IN as)
+                          (NP
+                            (NP (DT a) (NN point))
+                            (PP (IN of)
+                              (NP (NN reference)))))
+                        (S
+                          (VP (TO to)
+                            (VP (VB become)
+                              (NP
+                                (NP (DT a) (NN point))
+                                (PP (IN of)
+                                  (NP (NN reference))))
+                              (PP (IN at)
+                                (NP (JJ ordinary) (NN dinner) (NNS tables))))))))))))))))
+    (, ,) ('' '')
+    (VP (VBZ says))
+    (NP
+      (NP (NNP Jon) (NNP Petrovich))
+      (, ,)
+      (NP
+        (NP (JJ executive) (NN vice) (NN president))
+        (PP (IN of)
+          (NP
+            (NP (NNP Headline) (NNP News))
+            (, ,)
+            (NP
+              (NP (NNP CNN) (POS 's))
+              (JJ sister) (NN network))))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (NP (DT that))
+    (VP (MD wo) (RB n't)
+      (VP (VB be)
+        (ADJP (JJ easy))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Networks))
+    (, ,)
+    (PP (IN like)
+      (NP (JJ other) (NN consumer) (NNS products)))
+    (, ,)
+    (VP (VBP develop)
+      (NP
+        (NP (NNS images))
+        (PP (IN in)
+          (NP
+            (NP (NNS peoples) (POS '))
+            (NNS minds)))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBP are) (RB n't)
+              (ADJP (JJ easy)
+                (S
+                  (VP (TO to)
+                    (VP (VB change))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (ADVP (RB also))
+    (VP (VBZ takes)
+      (NP (NN money))
+      (SBAR (IN that)
+        (S
+          (NP (NNP CNN))
+          (VP (VBZ has)
+            (VP (VBN been)
+              (ADJP (JJ reluctant)
+                (S
+                  (VP (TO to)
+                    (VP (VB spend)
+                      (S
+                        (VP (TO to)
+                          (VP
+                            (VP (VB make)
+                              (NP (NNS programs)))
+                            (CC and)
+                            (VP (VB hire)
+                              (NP (NN talent))))))))))
+              (SBAR (IN that)
+                (S
+                  (NP (NNS viewers))
+                  (VP (MD will)
+                    (VP (VB tune)
+                      (PRT (RP in))
+                      (S
+                        (ADVP (RB specially))
+                        (VP (TO to)
+                          (VP (VB see)))))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP
+      (NP (DT the) (NN cable-TV) (NNS operators))
+      (: --)
+      (NP
+        (NP
+          (NP (NNP CNN) (POS 's))
+          (NNS distributors))
+        (CC and)
+        (NP (NN part) (NNS owners)))
+      (: --))
+    (VP (VBP like)
+      (NP (NNS things))
+      (ADVP (RB just)
+        (NP (DT the) (NN way)))
+      (SBAR
+        (S
+          (NP (PRP they))
+          (VP (VBP are)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (VBG repositioning) (NN bid))
+      (VP (VBZ is)
+        (VP (VBN aimed)
+          (PP (IN at)
+            (NP
+              (NP (NNP CNN) (POS 's))
+              (JJ unsteady) (NN viewership))))))
+    (: --)
+    (CC and)
+    (S
+      (NP (WDT what))
+      (VP (MD may)
+        (VP (VB happen)
+          (PP (TO to)
+            (NP (PRP it)))
+          (SBAR (IN as)
+            (S
+              (NP (DT the) (NN cable-TV) (NN news) (NN market))
+              (VP (VBZ grows)
+                (ADJP (RBR more) (JJ competitive))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Already))
+    (, ,)
+    (NP (NNP CNN))
+    (VP (VBZ is)
+      (VP (VBG facing)
+        (NP (JJR stronger) (NN competition))
+        (PP (IN from)
+          (NP
+            (NP (NNP Financial) (NNP News) (NNP Network) (NNP Inc.))
+            (CC and)
+            (NP
+              (NP
+                (NP (NNP General) (NNP Electric) (NNP Co.) (POS 's))
+                (NNP Consumer) (NNP News)
+                (CC and)
+                (NNP Business) (NNP Channel))
+              (, ,)
+              (SBAR
+                (WHNP (DT both)
+                  (WHPP (IN of)
+                    (WHNP (WDT which))))
+                (S
+                  (VP (VBP are)
+                    (ADJP (JJ likely)
+                      (S
+                        (VP (TO to)
+                          (VP (VB pursue)
+                            (NP
+                              (NP (JJR more) (JJ general) (NN news))
+                              (PP (IN in)
+                                (NP (DT the) (NN future))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NN addition)))
+    (, ,)
+    (S
+      (NP (JJ many) (NN cable-TV) (NNS systems))
+      (ADVP (PRP themselves))
+      (VP (VBP are)
+        (VP (VBG airing)
+          (ADJP (RBR more) (JJ local)))))
+    (CC and)
+    (S
+      (NP (JJ regional) (NN news) (NNS programs))
+      (VP (VBD produced)
+        (PP (IN by)
+          (NP (JJ local) (NN broadcast) (NNS stations)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP CNN))
+    (VP (VBZ wants)
+      (S
+        (VP (TO to)
+          (VP (VB change)
+            (NP
+              (NP (PRP$ its) (NNS viewers) (POS '))
+              (NNS habits))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ Its) (NNS watchers))
+    (VP (VBP are) (, ,)
+      (PP (IN on)
+        (NP
+          (NP (DT the) (NN whole))
+          (, ,)
+          (NP
+            (NP (DT a)
+              (ADJP (JJ disloyal))
+              (NN group))
+            (PP (IN of)
+              (NP
+                (NP (JJ channel-zapping) (`` ``) (NNS grazers) ('' ''))
+                (CC and)
+                (NP (NN news) (NNS junkies)))))
+          (, ,)
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBP spend)
+                (S
+                  (NP
+                    (NP (DT an) (NN average))
+                    (PP (IN of)
+                      (NP
+                        (NP (RB just) (CD 26) (NNS minutes))
+                        (NP (DT a) (NN day)))))
+                  (VP (VBG watching)
+                    (NP (NNP CNN)))))))))
+      (, ,)
+      (PP (VBG according)
+        (PP (TO to)
+          (NP (NN audience) (NN research)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT That))
+    (VP (VBZ 's)
+      (NP
+        (NP
+          (QP (JJR less) (IN than) (NN one-third)))
+        (NP (DT the) (NN time)))
+      (SBAR (IN that)
+        (S
+          (NP (NNS viewers))
+          (VP (VBP watch)
+            (NP (DT the) (JJ major) (NN broadcast))
+            (NP (NNS networks))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ brief) (NN attention) (NNS viewers))
+    (VP (VBP give)
+      (SBAR
+        (S
+          (NP (NNP CNN))
+          (VP (MD could)
+            (VP (VB put)
+              (NP (PRP it))
+              (PP (IN at)
+                (NP
+                  (NP (DT a) (NN disadvantage))
+                  (VP
+                    (ADVP (RB as)
+                      (NP
+                        (NP (NNS ratings) (NNS data))
+                        (, ,)
+                        (CC and)
+                        (NP (NN advertising))
+                        (, ,)))
+                    (VBN become)
+                    (S
+                      (ADJP (RBR more) (JJ important)
+                        (PP (TO to)
+                          (NP (NN cable-TV) (NNS channels)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP CNN) (POS 's))
+      (NN viewer) (NNS habits))
+    (VP (VBP have)
+      (VP (VBN been)
+        (VP (VBN molded)
+          (PP (IN by)
+            (NP (PRP$ its) (NN format))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (PRP$ Its) (NN strategy))
+      (PP (IN in)
+        (NP (DT the) (NN past))))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (S
+          (VP (TO to)
+            (VP (VB serve)
+              (PP (IN as)
+                (NP (DT a) (NN TV) (NN wire) (NN service))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBD focused)
+        (PP (IN on)
+          (S
+            (VP (VBG building)
+              (PRT (RP up))
+              (NP (PRP$ its) (NN news) (NNS bureaus))
+              (PP (IN around)
+                (NP (DT the) (NN world))))))))
+    (, ,) (IN so)
+    (S
+      (SBAR (IN as)
+        (S
+          (NP (NNS events))
+          (VP (VBD took)
+            (NP (NN place)))))
+      (NP (PRP it))
+      (VP (MD could)
+        (VP (VB go)
+          (S
+            (VP (VB live)
+              (ADJP
+                (ADJP (JJR quicker)
+                  (CC and)
+                  (JJR longer))
+                (PP (IN than)
+                  (NP (JJ other) (NNS networks)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD filled)
+      (NP (PRP$ its) (JJ daily) (NN schedule))
+      (PP (IN with)
+        (NP
+          (NP
+            (NP (NNS newscasts))
+            (VP (VBN called)
+              (S (`` ``)
+                (NP (NNP Daybreak)))))
+          (, ,) ('' '') (`` ``)
+          (NP (NNP Daywatch))
+          (, ,) ('' '') (`` ``)
+          (NP (NNP Newsday))
+          (, ,) ('' '')
+          (CC and)
+          (`` ``)
+          (NP (NNP Newsnight))
+          (, ,) ('' '')
+          (CC but)
+          (NP
+            (NP (DT the) (NNS shows))
+            (VP (VBN varied)
+              (ADVP (RB little))
+              (PP (IN in)
+                (NP (NN content) (, ,) (NN personality)
+                  (CC or)
+                  (NN look))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Now))
+    (, ,)
+    (NP (DT the) (NN push))
+    (VP (VBZ is)
+      (PP (IN on)
+        (PP (IN for)
+          (NP (JJ more-distinctive) (NNS shows)))))
+    (. .)))
+
+(ROOT
+  (SINV (`` ``)
+    (S
+      (NP (PRP$ Our) (NN goal))
+      (VP (VBZ is)
+        (S
+          (VP (TO to)
+            (VP (VB create)
+              (NP (JJR more) (NNS programs))
+              (PP (IN with)
+                (NP (DT an) (JJ individual) (NN identity))))))))
+    (, ,) ('' '')
+    (VP (VBZ says))
+    (NP
+      (NP (NNP Paul) (NNP Amos))
+      (, ,)
+      (NP
+        (NP (NNP CNN)
+          (NX (JJ executive) (NN vice) (NN president)))
+        (PP (IN for)
+          (NP (NN programming)))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (S
+      (ADVP (RB Accordingly))
+      (, ,)
+      (NP (NNP CNN))
+      (VP (VBZ is)
+        (VP (VBG adding)
+          (NP
+            (NP (DT a) (JJ world-affairs) (NN show))
+            (PP (IN in)
+              (NP (DT the) (NN morning))))
+          (SBAR (IN because)
+            (S
+              (NP (NNS surveys))
+              (VP (VBP show)
+                (SBAR
+                  (S
+                    (NP
+                      (NP (PRP$ its) (JJ global-news) (NN hour))
+                      (PP (IN in)
+                        (NP (DT the) (NN afternoon))))
+                    (VP (VBZ is)
+                      (PP (IN among)
+                        (NP (PRP$ its) (JJS most)))
+                      (NP
+                        (NP (`` ``) (JJ differentiated) ('' '') (NNS programs))
+                        (PP (IN in)
+                          (NP
+                            (NP (NNS viewers) (POS '))
+                            (NNS minds)))))))))))))
+    (, ,)
+    (VP (VBZ says))
+    (NP (NNP Mr.) (NNP Amos))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP (PRP it))
+    (VP (VBZ is)
+      (VP (VBG exploring)
+        (NP
+          (NP (JJ other) (JJ original) (NNS programs))
+          (, ,)
+          (NP
+            (ADJP (JJ similar)
+              (PP (TO to)
+                (NP (PRP$ its) (`` ``)
+                  (S
+                    (NP (NNP Larry) (NNP King))
+                    (VP (VB Live) ('' '')
+                      (CC and)
+                      (`` ``) (VB Crossfire)))
+                  ('' '') (NN talk))))
+            (NNS shows))
+          (, ,)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (NP (NNS executives))
+              (VP (VBP hope)
+                (SBAR
+                  (S
+                    (VP (MD will)
+                      (VP (VB keep)
+                        (S
+                          (NP (NNS people))
+                          (ADJP (VBN tuned)
+                            (PP (IN in))))))))))))))
+    (. .)))
+
+(ROOT
+  (S (RB Then)
+    (NP (EX there))
+    (VP (VBZ 's)
+      (NP (`` ``)
+        (NP (DT The) (NNP World) (NNP Today))
+        (, ,) ('' '')
+        (NP
+          (NP (DT the) (JJ prime-time) (NN newscast))
+          (VP (VBG featuring)
+            (NP
+              (NP (NNP Mr.) (NNP Shaw))
+              (CC and)
+              (NP (NNP Ms.) (NNP Crier)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN Until)
+      (NP (RB now)))
+    (, ,)
+    (NP (NNP CNN))
+    (VP (VBZ has)
+      (VP (VBN featured)
+        (NP (PRP$ its) (NNP Hollywood) (NN gossip) (NN show))
+        (PP (IN during)
+          (NP (DT the) (JJ key) (NN evening) (NN period)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S (CC But)
+      (NP
+        (NP (CD 70) (NN %))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (JJ cable-television-equipped) (NNS households))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBP watch)
+                  (NP (NN news))))))))
+      (VP (VBP do)
+        (ADVP (RB so))
+        (PP (IN between)
+          (NP
+            (NP (CD 6:30) (NN p.m.))
+            (CC and)
+            (NP (CD 7) (NN p.m.))))))
+    (PRN (, ,)
+      (S
+        (NP (DT the) (NN network))
+        (VP (VBD discovered)))
+      (, ,))
+    (IN so)
+    (S
+      (NP (NNP CNN))
+      (VP (VBZ wants)
+        (PRT (RP in))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Mr.) (NNP Amos))
+    (VP (VBZ says)
+      (SBAR
+        (S
+          (NP (DT the) (JJ Shaw-Crier) (NN team))
+          (VP (MD will)
+            (ADVP (RB probably))
+            (VP (VB do)
+              (NP (CD two) (JJ live) (NNS interviews))
+              (NP (DT a) (NN day))
+              (, ,)
+              (PP (IN with)
+                (NP
+                  (NP (JJS most))
+                  (PP (IN of)
+                    (NP (DT the) (NN program)))))
+              (, ,)
+              (ADVP
+                (ADVP (IN at) (JJS least))
+                (PP (IN for)
+                  (ADVP (RB now))))
+              (, ,)
+              (S
+                (VP (VBG appearing)
+                  (ADJP (JJ similar))
+                  (PP (TO to)
+                    (NP
+                      (NP (NNP CNN) (POS 's))
+                      (JJ other) (NNS newcasts))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT Some))
+      (PP (IN in)
+        (NP (DT the) (NN industry))))
+    (VP (VBP are)
+      (ADJP (JJ skeptical)))
+    (. .)))
+
+(ROOT
+  (SINV (`` ``)
+    (S
+      (NP (PRP I))
+      (VP (VBP find)
+        (S
+          (NP (PRP it))
+          (ADJP (JJ hard)
+            (S
+              (VP (TO to)
+                (VP (VB conceive)
+                  (PP (IN of)
+                    (S
+                      (NP (NNS people))
+                      (VP (VBG switching)
+                        (PRT (RP over))
+                        (PP (TO to)
+                          (NP (NNP CNN)))
+                        (PP (IN for)
+                          (SBAR
+                            (WHNP (WP what))
+                            (S (, ,)
+                              (PP
+                                (ADVP (IN at) (JJS least))
+                                (IN in)
+                                (NP
+                                  (NP (DT the) (NN public) (POS 's))
+                                  (NN mind)))
+                              (, ,)
+                              (VP (VBZ is)
+                                (NP (DT the) (JJ same) (NN news))))))))))))))))
+    (, ,) ('' '')
+    (VP (VBZ says))
+    (NP
+      (NP (NNP Reuven) (NNP Frank))
+      (, ,)
+      (NP
+        (NP
+          (NP (DT the) (JJ former) (JJ two-time) (NN president))
+          (PP (IN of)
+            (NP (NNP NBC) (NNP News))))
+        (CC and)
+        (NP
+          (NP (NN creator))
+          (PP (IN of)
+            (NP (DT the) (NNP Huntley-Brinkley) (NNP Report))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN evening) (NN news))
+    (VP (VBZ is)
+      (ADVP (RB also))
+      (VP (VBN slated)
+        (PP (IN as)
+          (NP
+            (NP
+              (NP (NNP CNN) (POS 's))
+              (NN stage))
+            (PP (IN for)
+              (NP (PRP$ its) (JJ big) (NN push)))))
+        (PP (IN into)
+          (NP (JJ investigative) (NN journalism)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NNP August)))
+    (, ,)
+    (NP (DT the) (NN network))
+    (VP (VBD hired)
+      (NP
+        (NP (JJ award-winning) (NN producer) (NNP Pamela) (NNP Hill))
+        (, ,)
+        (NP
+          (NP (DT the) (JJ former) (NN head))
+          (PP (IN of)
+            (NP (NN news) (NNS specials)))))
+      (PP (IN at)
+        (NP (NNP ABC))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP She))
+    (VP (VBZ 's)
+      (VP (VBG assembling)
+        (NP
+          (NP (DT a) (NN staff))
+          (PP (IN of)
+            (NP
+              (NP
+                (QP (RB about) (CD 35))
+                (JJ investigative) (NNS reporters))
+              (SBAR
+                (WHNP (WP who))
+                (S
+                  (VP (MD will)
+                    (VP (VB produce)
+                      (NP (JJ weekly) (, ,) (JJ in-depth) (NNS segments)))))))))
+        (, ,)
+        (PP (IN with)
+          (NP
+            (NP (DT an) (NN eye))
+            (PP (IN toward)
+              (S
+                (VP (VBG breaking)
+                  (NP (JJ big) (NNS stories)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP CNN) (NNS executives))
+    (VP (VBP hope)
+      (SBAR
+        (S
+          (NP
+            (NP (DT the) (NNS headlines))
+            (VP (VBN created)
+              (PP (IN by)
+                (NP (JJ such) (NNS scoops)))))
+          (VP (MD will)
+            (VP (VB generate)
+              (NP (NN excitement))
+              (PP (IN for)
+                (NP (PRP$ its) (`` ``) (JJ branded) ('' '') (NNS programs)))
+              (, ,)
+              (PP (IN in)
+                (NP
+                  (NP (DT the) (NN way))
+                  (SBAR
+                    (S (`` ``)
+                      (NP (CD 60) (NNPS Minutes))
+                      ('' '')
+                      (VP (VBD did)
+                        (ADVP (RB so) (RB well))
+                        (PP (IN for)
+                          (NP (NNP CBS)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT That))
+    (VP (VBZ 's)
+      (NP
+        (NP (PDT such) (DT a) (NN departure))
+        (PP (IN from)
+          (NP (DT the) (NN past))))
+      (SBAR
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (JJ many))
+              (PP (IN in)
+                (NP (DT the) (NN industry))))
+            (VP (VBP are)
+              (ADJP (JJ skeptical)
+                (SBAR
+                  (S
+                    (NP (NNP CNN))
+                    (VP (MD will)
+                      (VP (VB follow)
+                        (PRT (RP through))
+                        (PP (IN with)
+                          (NP (PRP$ its) (JJ investigative) (NN commitment)))))))))))
+        (, ,)
+        (ADVP (RB especially))
+        (SBAR (IN after)
+          (S
+            (NP (PRP it))
+            (VP (VBZ sees)
+              (NP
+                (NP (DT the) (NN cost))
+                (PP (IN of)
+                  (S
+                    (VP (VBG producing)
+                      (NP (JJ in-depth) (NNS pieces)))))))))))
+    (. .)))
+
+(ROOT
+  (SINV (`` ``)
+    (S
+      (NP (PRP They))
+      (VP (VBP 've)
+        (ADVP (RB never))
+        (VP (VBN shown)
+          (NP (DT any) (NN inclination)
+            (S
+              (VP (TO to)
+                (VP (VB spend)
+                  (NP (NN money))
+                  (PP (IN on)
+                    (NP (NN production))))))))))
+    (, ,) ('' '')
+    (VP (VBZ says))
+    (NP
+      (NP (NNP Michael) (NNP Mosettig))
+      (, ,)
+      (NP
+        (NP (DT a) (JJ senior) (NN producer))
+        (PP (IN with)
+          (NP
+            (NP (NNP MacNeil-Lehrer) (NNP NewsHour))
+            (, ,)
+            (SBAR
+              (WHNP (WP who))
+              (S
+                (VP (VBZ notes)
+                  (SBAR (IN that)
+                    (S
+                      (NP (NNP CNN))
+                      (VP (VBZ is)
+                        (ADJP (JJ indispensable)
+                          (PP (TO to)
+                            (NP (PRP$ his) (NN job))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN network) (POS 's))
+      (NNS salaries))
+    (VP (VBP have)
+      (ADVP (RB always))
+      (VP (VBN ranged)
+        (ADVP (RB far)
+          (PP (IN below)
+            (NP (NN industry) (NNS standards))))
+        (, ,)
+        (S
+          (VP (VBG resulting)
+            (PP (IN in)
+              (NP (DT a) (JJ less-experienced) (NN work) (NN force)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP CNN))
+      (ADVP (RB recently))
+      (VP (VBD gave)
+        (SBAR
+          (S
+            (NP (JJS most) (NNS employees))
+            (VP (VBZ raises)
+              (PP (IN of)
+                (NP
+                  (QP (RB as) (JJ much) (IN as) (CD 15))
+                  (NN %))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP they))
+      (VP (VBP 're)
+        (ADVP (RB still))
+        (ADVP (RB drastically))
+        (ADJP (JJ underpaid))
+        (PP (VBN compared)
+          (PP (IN with)
+            (NP (DT the) (NNS networks))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (VP (VBZ Says))
+    (NP (NNP Mr.) (NNP Mosettig))
+    (: :) (`` ``)
+    (S
+      (S
+        (NP (NNP CNN))
+        (VP (VBZ is)
+          (NP (PRP$ my) (NN wire) (NN service))))
+      (: ;)
+      (S
+        (NP (PRP they))
+        (VP (VBP 're)
+          (PP (IN on)
+            (NP
+              (NP (NN top))
+              (PP (IN of)
+                (NP (NN everything))))))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (S
+      (VP (TO to)
+        (VP (VB improve))))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBP 've)
+      (ADVP (RB really))
+      (VP (VBN got)
+        (S
+          (VP (TO to)
+            (VP (VB make)
+              (NP
+                (NP (DT the) (NN investment))
+                (PP (IN in)
+                  (NP (NNS people)))))))))
+    (. .) ('' '')))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT any) (NN case)))
+    (, ,)
+    (NP (JJ cable-TV-system) (NNS operators))
+    (VP (VBP have)
+      (NP (NN reason)
+        (S
+          (VP (TO to)
+            (VP (VB fear)
+              (NP (DT any) (NN tinkering))
+              (PP (IN with)
+                (NP
+                  (NP (NNP CNN) (POS 's))
+                  (NN format))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP market)
+      (NP (NN cable-TV))
+      (PP (IN on)
+        (NP
+          (NP (DT the)
+            (ADJP (RB very) (JJ grazing))
+            (NNS opportunities))
+          (SBAR
+            (S
+              (NP (NNP CNN))
+              (VP (VBZ seeks)
+                (S
+                  (VP (TO to)
+                    (VP (VB discourage))))))))))
+    (. .)))
+
+(ROOT
+  (SINV (`` ``)
+    (S
+      (NP (PRP We))
+      (VP (MD would)
+        (ADVP (RB obviously))
+        (VP (VB be)
+          (ADJP (JJ upset))
+          (SBAR (IN if)
+            (S
+              (NP
+                (NP (DT those) (NNS kinds))
+                (PP (IN of)
+                  (NP (NNS services))))
+              (VP (VBD evolved)
+                (PP (IN into)
+                  (NP
+                    (ADJP (RBR more) (JJ general-interest))
+                    (, ,) (JJ long-format) (NN programming)))))))))
+    (, ,) ('' '')
+    (VP (VBZ says))
+    (NP
+      (NP (NNP Robert) (NNP Stengel))
+      (, ,)
+      (NP
+        (NP (JJ senior) (NN vice) (NN president))
+        (, ,)
+        (NP (NN programming))
+        (, ,)
+        (PP (IN of)
+          (NP
+            (NP (NNP Continental) (NNP Cablevision) (NNP Inc.))
+            (, ,)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBZ holds)
+                  (NP
+                    (NP (DT a)
+                      (ADJP (CD 2) (NN %))
+                      (NN stake))
+                    (PP (IN in)
+                      (NP (NNP Turner) (NNP Broadcasting)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (CD million) (NNS households))
+    (VP (VBD were)
+      (ADJP (VBN tuned)
+        (PP (TO to)
+          (NP
+            (NP (NNP CNN))
+            (PP (IN during)
+              (NP (DT an) (NN average) (VBG viewing) (NN minute)))))))))
+

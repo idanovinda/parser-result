@@ -1,0 +1,11 @@
+conn:Instead conn_POS:RB prev1:U.S. prev1_POS:NNP with_prev1_full:U.S._Instead with_prev1_POS_full:NNP_RB prev2:the prev2_POS:DT with_prev2_full:the_Instead with_prev2_POS_full:DT_RB NA
+conn:But conn_POS:CC sent_pos:0 NA
+conn:But conn_POS:CC sent_pos:0 NA
+conn:And conn_POS:CC sent_pos:0 NA
+conn:Yet conn_POS:CC sent_pos:0 NA
+conn:because conn_POS:IN prev1:perhaps prev1_POS:RB with_prev1_full:perhaps_because with_prev1_POS_full:RB_IN prev2:, prev2_POS:, with_prev2_full:,_because with_prev2_POS_full:,_IN NA
+conn:When conn_POS:WRB sent_pos:0 NA
+conn:But conn_POS:CC sent_pos:0 NA
+conn:But conn_POS:CC sent_pos:1 prev1:`` prev1_POS:`` with_prev1_full:``_But with_prev1_POS_full:``_CC NA
+conn:but conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_but with_prev1_POS_full:,_CC prev2:1991 prev2_POS:CD with_prev2_full:1991_but with_prev2_POS_full:CD_CC NA
+conn:But conn_POS:CC sent_pos:0 NA

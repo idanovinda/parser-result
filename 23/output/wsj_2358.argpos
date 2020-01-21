@@ -1,0 +1,32 @@
+conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:persists prev2_POS:VBZ with_prev2_full:persists_and with_prev2_POS_full:VBZ_CC NA
+conn:After conn_POS:IN sent_pos:0 NA
+conn:as conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_as with_prev1_POS_full:,_IN prev2:Friday prev2_POS:NNP with_prev2_full:Friday_as with_prev2_POS_full:NNP_IN NA
+conn:after conn_POS:IN prev1:jumped prev1_POS:VBD with_prev1_full:jumped_after with_prev1_POS_full:VBD_IN prev2:prices prev2_POS:NNS with_prev2_full:prices_after with_prev2_POS_full:NNS_IN NA
+conn:Although conn_POS:IN sent_pos:0 NA
+conn:before conn_POS:IN prev1:released prev1_POS:VBN with_prev1_full:released_before with_prev1_POS_full:VBN_IN prev2:was prev2_POS:VBD with_prev2_full:was_before with_prev2_POS_full:VBD_IN NA
+conn:Further conn_POS:RB sent_pos:0 NA
+conn:But conn_POS:CC sent_pos:0 NA
+conn:but conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_but with_prev1_POS_full:,_CC prev2:itself prev2_POS:PRP with_prev2_full:itself_but with_prev2_POS_full:PRP_CC NA
+conn:But conn_POS:CC sent_pos:0 NA
+conn:then conn_POS:RB sent_pos:2 prev1:prices prev1_POS:NNS with_prev1_full:prices_then with_prev1_POS_full:NNS_RB prev2:Energy prev2_POS:NNP with_prev2_full:Energy_then with_prev2_POS_full:NNP_RB NA
+conn:Overall conn_POS:RB sent_pos:0 NA
+conn:While conn_POS:IN sent_pos:0 NA
+conn:Moreover conn_POS:RB sent_pos:0 NA
+conn:after conn_POS:IN prev1:% prev1_POS:NN with_prev1_full:%_after with_prev1_POS_full:NN_IN prev2:6.5 prev2_POS:CD with_prev2_full:6.5_after with_prev2_POS_full:CD_IN NA
+conn:but conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_but with_prev1_POS_full:,_CC prev2:index prev2_POS:NN with_prev2_full:index_but with_prev2_POS_full:NN_CC NA
+conn:But conn_POS:CC sent_pos:0 NA
+conn:as conn_POS:IN prev1:'' prev1_POS:'' with_prev1_full:''_as with_prev1_POS_full:''_IN prev2:omen prev2_POS:NN with_prev2_full:omen_as with_prev2_POS_full:NN_IN NA
+conn:If conn_POS:IN sent_pos:1 prev1:`` prev1_POS:`` with_prev1_full:``_If with_prev1_POS_full:``_IN NA
+conn:after conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_after with_prev1_POS_full:,_IN prev2:September prev2_POS:NNP with_prev2_full:September_after with_prev2_POS_full:NNP_IN NA
+conn:as conn_POS:IN prev1:coming prev1_POS:VBG with_prev1_full:coming_as with_prev1_POS_full:VBG_IN prev2:, prev2_POS:, with_prev2_full:,_as with_prev2_POS_full:,_IN NA
+conn:Although conn_POS:IN sent_pos:0 NA
+conn:while conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_while with_prev1_POS_full:,_IN prev2:September prev2_POS:NNP with_prev2_full:September_while with_prev2_POS_full:NNP_IN NA
+conn:after conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_after with_prev1_POS_full:,_IN prev2:% prev2_POS:NN with_prev2_full:%_after with_prev2_POS_full:NN_IN NA
+conn:Meanwhile conn_POS:RB sent_pos:0 NA
+conn:But conn_POS:CC sent_pos:0 NA
+conn:after conn_POS:IN prev1:% prev1_POS:NN with_prev1_full:%_after with_prev1_POS_full:NN_IN prev2:1.7 prev2_POS:CD with_prev2_full:1.7_after with_prev2_POS_full:CD_IN NA
+conn:while conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_while with_prev1_POS_full:,_IN prev2:August prev2_POS:NNP with_prev2_full:August_while with_prev2_POS_full:NNP_IN NA
+conn:after conn_POS:IN prev1:% prev1_POS:NN with_prev1_full:%_after with_prev1_POS_full:NN_IN prev2:1.8 prev2_POS:CD with_prev2_full:1.8_after with_prev2_POS_full:CD_IN NA
+conn:after conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_after with_prev1_POS_full:,_IN prev2:September prev2_POS:NNP with_prev2_full:September_after with_prev2_POS_full:NNP_IN NA
+conn:after conn_POS:IN prev1:% prev1_POS:NN with_prev1_full:%_after with_prev1_POS_full:NN_IN prev2:1.1 prev2_POS:CD with_prev2_full:1.1_after with_prev2_POS_full:CD_IN NA
+conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:adjustment prev2_POS:NN with_prev2_full:adjustment_and with_prev2_POS_full:NN_CC NA

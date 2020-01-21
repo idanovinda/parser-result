@@ -1,0 +1,14 @@
+130..133|Comparison
+314..319|Temporal
+814..819|Temporal
+836..848|Expansion
+1057..1061|Expansion
+1228..1231|Comparison
+1303..1314|Expansion
+1377..1380|Expansion
+1569..1572|Comparison
+1729..1740|Expansion
+2358..2362|Expansion
+2550..2554|Expansion
+2881..2885|Expansion
+3227..3231|Expansion

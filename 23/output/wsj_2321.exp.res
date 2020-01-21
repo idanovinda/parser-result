@@ -1,0 +1,11 @@
+271..278|Expansion
+836..839|Comparison
+1480..1483|Comparison
+1625..1628|Expansion
+1969..1972|Comparison
+2278..2285|Contingency
+2474..2478|Temporal
+2829..2832|Comparison
+3285..3288|Comparison
+3725..3728|Comparison
+3874..3877|Comparison

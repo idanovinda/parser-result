@@ -1,0 +1,16 @@
+310..314|Temporal
+390..394|Expansion
+921..923|Contingency
+941..947|Comparison
+1888..1893|Comparison
+1965..1972|Contingency
+2127..2135|Expansion
+2177..2181|Temporal
+2676..2682|Comparison
+3001..3004|Comparison
+3285..3288|Comparison
+3497..3500|Comparison
+4015..4020|Comparison
+4585..4592|Contingency
+4608..4612|Temporal
+4661..4664|Comparison

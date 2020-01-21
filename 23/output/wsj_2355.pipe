@@ -1,0 +1,1 @@
+EntRel||||||||||||||||||||||1..130|1|START Kenneth J. Thygerson , who was named president of this thrift holding company in August , resigned , citing personal reasons .||||||||132..277|2|Mr. Thygerson said he had planned to travel between the job in Denver and his San Diego home , but has found the commute too difficult to continue .|||||||||||||

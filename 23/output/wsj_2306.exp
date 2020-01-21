@@ -1,0 +1,23 @@
+conn_lc:and conn:And conn_POS:CC xxx£
+conn_lc:but conn:but conn_POS:CC with_prev_full:,_but xxx£
+conn_lc:because conn:because conn_POS:IN with_prev_full:today_because xxx£
+conn_lc:after conn:after conn_POS:IN with_prev_full:made_after xxx£
+conn_lc:but conn:But conn_POS:CC xxx£
+conn_lc:for_instance conn:for_instance conn_POS:IN_NN with_prev_full:,_for_instance xxx£
+conn_lc:also conn:Also conn_POS:RB xxx£
+conn_lc:but conn:But conn_POS:CC xxx£
+conn_lc:but conn:but conn_POS:CC with_prev_full:,_but xxx£
+conn_lc:and conn:And conn_POS:CC xxx£
+conn_lc:after conn:after conn_POS:IN with_prev_full:friday_after xxx£
+conn_lc:if conn:If conn_POS:IN xxx£
+conn_lc:if conn:If conn_POS:IN with_prev_full:``_if xxx£
+conn_lc:but conn:But conn_POS:CC xxx£
+conn_lc:still conn:Still conn_POS:RB xxx£
+conn_lc:in_addition conn:In_addition conn_POS:IN_NN xxx£
+conn_lc:but conn:But conn_POS:CC xxx£
+conn_lc:and conn:And conn_POS:CC xxx£
+conn_lc:before conn:before conn_POS:IN with_prev_full:morning_before xxx£
+conn_lc:but conn:But conn_POS:CC xxx£
+conn_lc:nevertheless conn:Nevertheless conn_POS:RB xxx£
+conn_lc:but conn:but conn_POS:CC with_prev_full:``_but xxx£
+conn_lc:if conn:If conn_POS:IN with_prev_full:``_if xxx£

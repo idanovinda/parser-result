@@ -1,0 +1,16 @@
+101..105|Expansion
+208..211|Expansion
+769..771|Contingency
+888..899|Expansion
+1193..1196|Expansion
+1254..1257|Comparison
+1420..1425|Temporal
+1551..1553|Temporal
+2066..2069|Expansion
+2252..2256|Expansion
+2310..2314|Temporal
+2494..2497|Expansion
+2711..2714|Comparison
+3129..3132|Expansion
+3283..3294|Comparison
+3401..3404|Expansion

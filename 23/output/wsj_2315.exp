@@ -1,0 +1,4 @@
+conn_lc:after conn:after conn_POS:IN with_prev_full:month_after xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:,_and xxx£
+conn_lc:because conn:because conn_POS:IN with_prev_full:september_because xxx£
+conn_lc:because conn:because conn_POS:IN with_prev_full:month_because xxx£

@@ -1,0 +1,11 @@
+conn_lc:instead conn:Instead conn_POS:RB with_prev_full:u.s._instead xxx£
+conn_lc:but conn:But conn_POS:CC xxx£
+conn_lc:but conn:But conn_POS:CC xxx£
+conn_lc:and conn:And conn_POS:CC xxx£
+conn_lc:yet conn:Yet conn_POS:CC xxx£
+conn_lc:because conn:because conn_POS:IN with_prev_full:perhaps_because xxx£
+conn_lc:when conn:When conn_POS:WRB xxx£
+conn_lc:but conn:But conn_POS:CC xxx£
+conn_lc:but conn:But conn_POS:CC with_prev_full:``_but xxx£
+conn_lc:but conn:but conn_POS:CC with_prev_full:,_but xxx£
+conn_lc:but conn:But conn_POS:CC xxx£

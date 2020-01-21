@@ -1,0 +1,11 @@
+conn_lc:however conn:However conn_POS:RB xxx£
+conn_lc:because conn:because conn_POS:IN with_prev_full:,_because xxx£
+conn_lc:but conn:But conn_POS:CC xxx£
+conn_lc:besides conn:Besides conn_POS:IN xxx£
+conn_lc:however conn:However conn_POS:RB xxx£
+conn_lc:when conn:when conn_POS:WRB with_prev_full:explanation_when xxx£
+conn_lc:and conn:And conn_POS:CC xxx£
+conn_lc:still conn:Still conn_POS:RB xxx£
+conn_lc:while conn:while conn_POS:IN with_prev_full:circulation_while xxx£
+conn_lc:after conn:after conn_POS:IN with_prev_full:subscribers_after xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:,_and xxx£

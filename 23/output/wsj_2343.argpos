@@ -1,0 +1,15 @@
+conn:However conn_POS:RB sent_pos:0 NA
+conn:But conn_POS:CC sent_pos:0 NA
+conn:after conn_POS:IN prev1:-LRB- prev1_POS:-LRB- with_prev1_full:-LRB-_after with_prev1_POS_full:-LRB-_IN prev2:Towers prev2_POS:NNP with_prev2_full:Towers_after with_prev2_POS_full:NNP_IN NA
+conn:if conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_if with_prev1_POS_full:,_IN prev2:Capote prev2_POS:NNP with_prev2_full:Capote_if with_prev2_POS_full:NNP_IN NA
+conn:and conn_POS:CC prev1:young prev1_POS:JJ with_prev1_full:young_and with_prev1_POS_full:JJ_CC prev2:died prev2_POS:VBD with_prev2_full:died_and with_prev2_POS_full:VBD_CC NA
+conn:for_example conn_POS:IN_NN prev1:, prev1_POS:, with_prev1_full:,_for_example with_prev1_POS_full:,_IN_NN prev2:them prev2_POS:PRP with_prev2_full:them_for_example with_prev2_POS_full:PRP_IN_NN NA
+conn:but conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_but with_prev1_POS_full:,_CC prev2:standards prev2_POS:NNS with_prev2_full:standards_but with_prev2_POS_full:NNS_CC NA
+conn:as_though conn_POS:RB_IN prev1:, prev1_POS:, with_prev1_full:,_as_though with_prev1_POS_full:,_RB_IN prev2:bedroom prev2_POS:NN with_prev2_full:bedroom_as_though with_prev2_POS_full:NN_RB_IN NA
+conn:and conn_POS:CC prev1:slept prev1_POS:VBD with_prev1_full:slept_and with_prev1_POS_full:VBD_CC prev2:people prev2_POS:NNS with_prev2_full:people_and with_prev2_POS_full:NNS_CC NA
+conn:When conn_POS:WRB sent_pos:0 NA
+conn:though conn_POS:RB prev1:, prev1_POS:, with_prev1_full:,_though with_prev1_POS_full:,_RB prev2:part prev2_POS:NN with_prev2_full:part_though with_prev2_POS_full:NN_RB NA
+conn:also conn_POS:RB sent_pos:2 prev1:Bronx prev1_POS:NNP with_prev1_full:Bronx_also with_prev1_POS_full:NNP_RB prev2:The prev2_POS:DT with_prev2_full:The_also with_prev2_POS_full:DT_RB NA
+conn:But conn_POS:CC sent_pos:0 NA
+conn:when conn_POS:WRB prev1:especially prev1_POS:RB with_prev1_full:especially_when with_prev1_POS_full:RB_WRB prev2:, prev2_POS:, with_prev2_full:,_when with_prev2_POS_full:,_WRB NA
+conn:But conn_POS:CC sent_pos:0 NA
